@@ -1,7 +1,2008 @@
 {
-  "scraped_at": "2026-04-21T16:02:30.714052",
+  "scraped_at": "2026-04-21T17:49:46.796269",
   "source": "https://jkanime.net",
   "episodes": [
+    {
+      "title": "Tadaima, Ojamasaremasu!",
+      "episode": "3",
+      "slug": "tadaima-ojamasaremasu",
+      "url": "https://jkanime.net/tadaima-ojamasaremasu/3/",
+      "image_url": "https://cdn.jkdesa.com/assets/images/animes/video/image/jkvideo_3415a60b23df81a8782b0f9383dd96e2.jpg",
+      "cover_url": "https://cdn.jkdesa.com/assets/images/animes/image/tadaima-ojamasaremasu.jpg",
+      "aired": "Hoy",
+      "servers": [
+        {
+          "server": "Desu",
+          "title": "Desu",
+          "iframe": "https://jkanime.net/jkplayer/um?e=amhWZ3hyWTFKSzNkaHJBbWphQ1BwVlM4YzljNXV2V0J3Z1ZVSVlXWTJ1SUtjTU96YUVFNS9sVkM5eTlkdlE4MmFXMVFhemNpZnFyanNzY3Q1MWUybXBhaVBwOW54a2pmWTJBUk56L1liK3c9OjqMYmYjs.CAjpqXbCrfK5PC&t=3415a60b23df81a8782b0f9383dd96e2&op=NzI2NzY=",
+          "lang": "SUB",
+          "type": "jk"
+        },
+        {
+          "server": "Magi",
+          "title": "Magi",
+          "iframe": "https://jkanime.net/jkplayer/umv?e=NHR6TjF2NVNyZXhuaU5MSDhJaGppcC9scWVRd3pSUXBXQlhwNC9zYWV1ZHU5dmtyaU1sQmhqMllidHN2T0xmOWJZK1gvNFVmVUlqUFZIT3ltcjY2Wlg2cFVkOWljZWQ2a3NkMGcybXlhc3M9OjpqlmrVRy5KaPQvm9E3TZxL&t=3415a60b23df81a8782b0f9383dd96e2",
+          "lang": "SUB",
+          "type": "jk"
+        },
+        {
+          "server": "Mega",
+          "title": "Mega",
+          "iframe": "https://jkanime.net/jkplayer/c1?u=aHR0cHM6Ly9tZWdhLm56L2VtYmVkL216WkJoWXFMI0V4STBPTTNxcTh5enFSb0dQSU9WOXREeHFBLWw5ak43NWFjREh0SDVmb3MK&s=mega",
+          "real_url": "https://mega.nz/embed/mzZBhYqL#ExI0OM3qq8yzqRoGPIOV9tDxqA-l9jN75acDHtH5fos",
+          "lang": "SUB",
+          "size": "192 MB",
+          "type": "c1"
+        },
+        {
+          "server": "Streamwish",
+          "title": "Streamwish",
+          "iframe": "https://jkanime.net/jkplayer/c1?u=aHR0cHM6Ly9zZmFzdHdpc2guY29tL2UvMjA4c3h4NWI2Ym84&s=streamwish",
+          "real_url": "https://sfastwish.com/e/208sxx5b6bo8",
+          "lang": "SUB",
+          "size": "192 MB",
+          "type": "c1"
+        },
+        {
+          "server": "VOE",
+          "title": "VOE",
+          "iframe": "https://jkanime.net/jkplayer/c1?u=aHR0cHM6Ly92b2Uuc3gvZS8wN2N4YmdiYXppY3Y=&s=voe",
+          "real_url": "https://voe.sx/e/07cxbgbazicv",
+          "lang": "SUB",
+          "size": "192 MB",
+          "type": "c1"
+        },
+        {
+          "server": "Vidhide",
+          "title": "Vidhide",
+          "iframe": "https://jkanime.net/jkplayer/c1?u=aHR0cHM6Ly92aWRoaWRldmlwLmNvbS9lbWJlZC91cDJkeDY5MmVneGE=&s=vidhide",
+          "real_url": "https://vidhidevip.com/embed/up2dx692egxa",
+          "lang": "SUB",
+          "size": "192 MB",
+          "type": "c1"
+        },
+        {
+          "server": "Filemoon",
+          "title": "Filemoon",
+          "iframe": "https://jkanime.net/jkplayer/c1?u=aHR0cHM6Ly9ieXNla296ZS5jb20vZS9vcmRvZm8zemdudDcv&s=filemoon",
+          "real_url": "https://bysekoze.com/e/ordofo3zgnt7/",
+          "lang": "SUB",
+          "size": "192 MB",
+          "type": "c1"
+        },
+        {
+          "server": "Mixdrop",
+          "title": "Mixdrop",
+          "iframe": "https://jkanime.net/jkplayer/c1?u=aHR0cHM6Ly9taXhkcm9wLnRvcC9lL2w3bmU3b254aXFkNzd2Ng==&s=mixdrop",
+          "real_url": "https://mixdrop.top/e/l7ne7onxiqd77v6",
+          "lang": "SUB",
+          "size": "192 MB",
+          "type": "c1"
+        },
+        {
+          "server": "Mp4upload",
+          "title": "Mp4upload",
+          "iframe": "https://jkanime.net/jkplayer/c1?u=aHR0cHM6Ly93d3cubXA0dXBsb2FkLmNvbS9lbWJlZC1rNjg4Y3hmZnY1ajMuaHRtbA==&s=mp4upload",
+          "real_url": "https://www.mp4upload.com/embed-k688cxffv5j3.html",
+          "lang": "SUB",
+          "size": "192 MB",
+          "type": "c1"
+        },
+        {
+          "server": "Streamtape",
+          "title": "Streamtape",
+          "iframe": "https://jkanime.net/jkplayer/c1?u=aHR0cHM6Ly9zdHJlYW10YXBlLmNvbS9lL3gyb1hPVjBRNEJma0pvQS90YWFhZGFpaWltYWFhb2phYWFtc2FyZW1hc3Vlc3dzc3MtMDMubXA0&s=streamtape",
+          "real_url": "https://streamtape.com/e/x2oXOV0Q4BfkJoA/taaadaiiimaaaojaaamsaremasueswsss-03.mp4",
+          "lang": "SUB",
+          "size": "192 MB",
+          "type": "c1"
+        }
+      ],
+      "downloads": [
+        {
+          "server": "Mega",
+          "size": "192 MB",
+          "lang": "SUB",
+          "url": "https://c1.jkplayers.com/d/i5lB37402OWdI/"
+        },
+        {
+          "server": "Streamwish",
+          "size": "192 MB",
+          "lang": "SUB",
+          "url": "https://c1.jkplayers.com/d/m5D23717iHn8n/"
+        },
+        {
+          "server": "VOE",
+          "size": "192 MB",
+          "lang": "SUB",
+          "url": "https://c1.jkplayers.com/d/GgjA3732Y0Ghg/"
+        },
+        {
+          "server": "Vidhide",
+          "size": "192 MB",
+          "lang": "SUB",
+          "url": "https://c1.jkplayers.com/d/KHLk3765kjiiv/"
+        },
+        {
+          "server": "Filemoon",
+          "size": "192 MB",
+          "lang": "SUB",
+          "url": "https://c1.jkplayers.com/d/rY6x3724wu9Mm/"
+        },
+        {
+          "server": "Mixdrop",
+          "size": "192 MB",
+          "lang": "SUB",
+          "url": "https://c1.jkplayers.com/d/77QE3728XmU5q/"
+        },
+        {
+          "server": "Mp4upload",
+          "size": "192 MB",
+          "lang": "SUB",
+          "url": "https://c1.jkplayers.com/d/KleE3705V1X58/"
+        },
+        {
+          "server": "Streamtape",
+          "size": "192 MB",
+          "lang": "SUB",
+          "url": "https://c1.jkplayers.com/d/FoGi3742mb603/"
+        }
+      ],
+      "screenshot": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3415a60b23df81a8782b0f9383dd96e2.jpg"
+    },
+    {
+      "title": "Replica datte, Koi wo Suru.",
+      "episode": "3",
+      "slug": "replica-datte-koi-wo-suru",
+      "url": "https://jkanime.net/replica-datte-koi-wo-suru/3/",
+      "image_url": "https://cdn.jkdesa.com/assets/images/animes/video/image/jkvideo_19e9bc3ad5d3a29a6ee5218aecff6f2e.jpg",
+      "cover_url": "https://cdn.jkdesa.com/assets/images/animes/image/replica-datte-koi-wo-suru.jpg",
+      "aired": "Hoy",
+      "servers": [
+        {
+          "server": "Desu",
+          "title": "Desu",
+          "iframe": "https://jkanime.net/jkplayer/um?e=aENaTmdkMGx2dmlQWk51ZEk1dFJMY3gyeHBjYjRudnlWbEpTOU9PVUV3MFU5Zk8wTkVWU2M3b2w3ei9vWjR5blA2ekFHZVQrY3JQMnZ2VUVURUhFd2NxWTQ4RFRaUDVqWVpReXh0Z1NHSzA9Ojrggwbe98B_8PH.arJQWEfX&t=19e9bc3ad5d3a29a6ee5218aecff6f2e&op=NzI2NzU=",
+          "lang": "SUB",
+          "type": "jk"
+        },
+        {
+          "server": "Magi",
+          "title": "Magi",
+          "iframe": "https://jkanime.net/jkplayer/umv?e=WmpVNll0NUJpK1JqWmN3OHAvTEpUNW53ZEVTbTd6MU9OdFc2UVhIR3F0VHA2SDgySjlha2U4bThpa1JDSk5JL3lsOGhhcGRhbTBTUHJaSjR4NUZWbko5aEZ3U0V6MUFEdnFMOFBvWDlFR1U9OjryTaP5ZAkQWhVFvvx200Lp&t=19e9bc3ad5d3a29a6ee5218aecff6f2e",
+          "lang": "SUB",
+          "type": "jk"
+        },
+        {
+          "server": "Mega",
+          "title": "Mega",
+          "iframe": "https://jkanime.net/jkplayer/c1?u=aHR0cHM6Ly9tZWdhLm56L2VtYmVkL2I2b0REWnlaI3lId05VMEJzTl9hdUdjd0taaXlDX2swbzljYnFobUtMWTJBUzlxaWdPVVEK&s=mega",
+          "real_url": "https://mega.nz/embed/b6oDDZyZ#yHwNU0BsN_auGcwKZiyC_k0o9cbqhmKLY2AS9qigOUQ",
+          "lang": "SUB",
+          "size": "167 MB",
+          "type": "c1"
+        },
+        {
+          "server": "Streamwish",
+          "title": "Streamwish",
+          "iframe": "https://jkanime.net/jkplayer/c1?u=aHR0cHM6Ly9zZmFzdHdpc2guY29tL2UvZXpsemd3OXpncXRj&s=streamwish",
+          "real_url": "https://sfastwish.com/e/ezlzgw9zgqtc",
+          "lang": "SUB",
+          "size": "167 MB",
+          "type": "c1"
+        },
+        {
+          "server": "VOE",
+          "title": "VOE",
+          "iframe": "https://jkanime.net/jkplayer/c1?u=aHR0cHM6Ly92b2Uuc3gvZS9vamVpcmRsOG9ocnM=&s=voe",
+          "real_url": "https://voe.sx/e/ojeirdl8ohrs",
+          "lang": "SUB",
+          "size": "167 MB",
+          "type": "c1"
+        },
+        {
+          "server": "Vidhide",
+          "title": "Vidhide",
+          "iframe": "https://jkanime.net/jkplayer/c1?u=aHR0cHM6Ly92aWRoaWRldmlwLmNvbS9lbWJlZC84c20xd3Y4bTBqZHA=&s=vidhide",
+          "real_url": "https://vidhidevip.com/embed/8sm1wv8m0jdp",
+          "lang": "SUB",
+          "size": "167 MB",
+          "type": "c1"
+        },
+        {
+          "server": "Filemoon",
+          "title": "Filemoon",
+          "iframe": "https://jkanime.net/jkplayer/c1?u=aHR0cHM6Ly9ieXNla296ZS5jb20vZS9tb2kydHFuZWdyZnEv&s=filemoon",
+          "real_url": "https://bysekoze.com/e/moi2tqnegrfq/",
+          "lang": "SUB",
+          "size": "167 MB",
+          "type": "c1"
+        },
+        {
+          "server": "Mixdrop",
+          "title": "Mixdrop",
+          "iframe": "https://jkanime.net/jkplayer/c1?u=aHR0cHM6Ly9taXhkcm9wLnRvcC9lL3BqNHpqanpxdXBldm82&s=mixdrop",
+          "real_url": "https://mixdrop.top/e/pj4zjjzqupevo6",
+          "lang": "SUB",
+          "size": "167 MB",
+          "type": "c1"
+        },
+        {
+          "server": "Mp4upload",
+          "title": "Mp4upload",
+          "iframe": "https://jkanime.net/jkplayer/c1?u=aHR0cHM6Ly93d3cubXA0dXBsb2FkLmNvbS9lbWJlZC0zemRta295eDZjeTEuaHRtbA==&s=mp4upload",
+          "real_url": "https://www.mp4upload.com/embed-3zdmkoyx6cy1.html",
+          "lang": "SUB",
+          "size": "167 MB",
+          "type": "c1"
+        },
+        {
+          "server": "Streamtape",
+          "title": "Streamtape",
+          "iframe": "https://jkanime.net/jkplayer/c1?u=aHR0cHM6Ly9zdHJlYW10YXBlLmNvbS9lL3haN3k3a1o5WjR1azY3NC9yZXBsaWNhYWFkYXR0dGVla29paXdvb3N1cnVzZXdzc3MtMDMubXA0&s=streamtape",
+          "real_url": "https://streamtape.com/e/xZ7y7kZ9Z4uk674/replicaaadattteekoiiwoosurusewsss-03.mp4",
+          "lang": "SUB",
+          "size": "167 MB",
+          "type": "c1"
+        },
+        {
+          "server": "Doodstream",
+          "title": "Doodstream",
+          "iframe": "https://jkanime.net/jkplayer/c1?u=aHR0cHM6Ly9kc3ZwbGF5LmNvbS9lL2d0dW5qbHF0eDI0dA==&s=doodstream",
+          "real_url": "https://dsvplay.com/e/gtunjlqtx24t",
+          "lang": "SUB",
+          "size": "167 MB",
+          "type": "c1"
+        }
+      ],
+      "downloads": [
+        {
+          "server": "Mediafire",
+          "size": "167 MB",
+          "lang": "SUB",
+          "url": "https://c1.jkplayers.com/d/W7kr0245lceLq/"
+        },
+        {
+          "server": "Mega",
+          "size": "167 MB",
+          "lang": "SUB",
+          "url": "https://c1.jkplayers.com/d/qmMG0184mQo5C/"
+        },
+        {
+          "server": "Streamwish",
+          "size": "167 MB",
+          "lang": "SUB",
+          "url": "https://c1.jkplayers.com/d/X7lx0158NYvHO/"
+        },
+        {
+          "server": "VOE",
+          "size": "167 MB",
+          "lang": "SUB",
+          "url": "https://c1.jkplayers.com/d/8eJT01696Oz3o/"
+        },
+        {
+          "server": "Vidhide",
+          "size": "167 MB",
+          "lang": "SUB",
+          "url": "https://c1.jkplayers.com/d/7yZS0205iuw4D/"
+        },
+        {
+          "server": "Filemoon",
+          "size": "167 MB",
+          "lang": "SUB",
+          "url": "https://c1.jkplayers.com/d/e4ui0162UipE3/"
+        },
+        {
+          "server": "Mixdrop",
+          "size": "167 MB",
+          "lang": "SUB",
+          "url": "https://c1.jkplayers.com/d/FJjP0165Yo17C/"
+        },
+        {
+          "server": "Mp4upload",
+          "size": "167 MB",
+          "lang": "SUB",
+          "url": "https://c1.jkplayers.com/d/xvJ20145HBMcE/"
+        },
+        {
+          "server": "Streamtape",
+          "size": "167 MB",
+          "lang": "SUB",
+          "url": "https://c1.jkplayers.com/d/FxXc0186GjkZP/"
+        },
+        {
+          "server": "Doodstream",
+          "size": "167 MB",
+          "lang": "SUB",
+          "url": "https://c1.jkplayers.com/d/0kiP0246BQUGB/"
+        }
+      ],
+      "screenshot": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_19e9bc3ad5d3a29a6ee5218aecff6f2e.jpg"
+    },
+    {
+      "title": "Hidarikiki no Eren",
+      "episode": "3",
+      "slug": "hidarikiki-no-eren",
+      "url": "https://jkanime.net/hidarikiki-no-eren/3/",
+      "image_url": "https://cdn.jkdesa.com/assets/images/animes/video/image/jkvideo_64ac8641810a1c88bc98b78ff69132e6.jpg",
+      "cover_url": "https://cdn.jkdesa.com/assets/images/animes/image/hidarikiki-no-eren.jpg",
+      "aired": "Hoy",
+      "servers": [
+        {
+          "server": "Desu",
+          "title": "Desu",
+          "iframe": "https://jkanime.net/jkplayer/um?e=cXFrb3NwT2hsdzRxclowcGJyaGFBWXpqOTVsTG5XbmN0TVFKcmVmREtHbHhLWmN1UkV4RXNJNjRxNDBtV1I0WG45UUVBQ1JXdWhkN3NJZWEwVHNmZEQxVmNXS2R4ZjlOOEJzK2lrdXJvWlk9Ojr6odx94vYFLCZLO1sN6e.M&t=64ac8641810a1c88bc98b78ff69132e6&op=NzI2NzQ=",
+          "lang": "SUB",
+          "type": "jk"
+        },
+        {
+          "server": "Magi",
+          "title": "Magi",
+          "iframe": "https://jkanime.net/jkplayer/umv?e=VWdrOXNkakhSMEFWcWQwbWp5bnQxOE90RS95UTJrcmtPcGtpRkFEQmszbitVUm45VDdXRGdEcEh0KzdnQ0dLTE5MN2wza1ZKQXFaUWl4SFB2QUlselpWSnRlcUo1REVNU2pNdzBJb2o3QVU9Ojodw.hVsFuzxSG3PDYw2aU9&t=64ac8641810a1c88bc98b78ff69132e6",
+          "lang": "SUB",
+          "type": "jk"
+        },
+        {
+          "server": "Mega",
+          "title": "Mega",
+          "iframe": "https://jkanime.net/jkplayer/c1?u=aHR0cHM6Ly9tZWdhLm56L2VtYmVkL2lucDBIWVRDI19EWWZnak5kUHZDRElGZHc5VHJpSWxIS2tDSmhaOEtFNFRKNThJSkNvYUkK&s=mega",
+          "real_url": "https://mega.nz/embed/inp0HYTC#_DYfgjNdPvCDIFdw9TriIlHKkCJhZ8KE4TJ58IJCoaI",
+          "lang": "SUB",
+          "size": "258 MB",
+          "type": "c1"
+        },
+        {
+          "server": "Streamwish",
+          "title": "Streamwish",
+          "iframe": "https://jkanime.net/jkplayer/c1?u=aHR0cHM6Ly9zZmFzdHdpc2guY29tL2UvdW0ycnJoaXdrNXJs&s=streamwish",
+          "real_url": "https://sfastwish.com/e/um2rrhiwk5rl",
+          "lang": "SUB",
+          "size": "258 MB",
+          "type": "c1"
+        },
+        {
+          "server": "VOE",
+          "title": "VOE",
+          "iframe": "https://jkanime.net/jkplayer/c1?u=aHR0cHM6Ly92b2Uuc3gvZS96N3NiamhjNm11aG8=&s=voe",
+          "real_url": "https://voe.sx/e/z7sbjhc6muho",
+          "lang": "SUB",
+          "size": "258 MB",
+          "type": "c1"
+        },
+        {
+          "server": "Vidhide",
+          "title": "Vidhide",
+          "iframe": "https://jkanime.net/jkplayer/c1?u=aHR0cHM6Ly92aWRoaWRldmlwLmNvbS9lbWJlZC9rdGp6YXVwOGQ4OGM=&s=vidhide",
+          "real_url": "https://vidhidevip.com/embed/ktjzaup8d88c",
+          "lang": "SUB",
+          "size": "258 MB",
+          "type": "c1"
+        },
+        {
+          "server": "Filemoon",
+          "title": "Filemoon",
+          "iframe": "https://jkanime.net/jkplayer/c1?u=aHR0cHM6Ly9ieXNla296ZS5jb20vZS9zeTMwNmJ3dXl3eWwv&s=filemoon",
+          "real_url": "https://bysekoze.com/e/sy306bwuywyl/",
+          "lang": "SUB",
+          "size": "258 MB",
+          "type": "c1"
+        },
+        {
+          "server": "Mixdrop",
+          "title": "Mixdrop",
+          "iframe": "https://jkanime.net/jkplayer/c1?u=aHR0cHM6Ly9taXhkcm9wLnRvcC9lL2dqMGVqbnA2aTlwam45&s=mixdrop",
+          "real_url": "https://mixdrop.top/e/gj0ejnp6i9pjn9",
+          "lang": "SUB",
+          "size": "258 MB",
+          "type": "c1"
+        },
+        {
+          "server": "Mp4upload",
+          "title": "Mp4upload",
+          "iframe": "https://jkanime.net/jkplayer/c1?u=aHR0cHM6Ly93d3cubXA0dXBsb2FkLmNvbS9lbWJlZC15bWY3aW5qaW1ya3QuaHRtbA==&s=mp4upload",
+          "real_url": "https://www.mp4upload.com/embed-ymf7injimrkt.html",
+          "lang": "SUB",
+          "size": "258 MB",
+          "type": "c1"
+        },
+        {
+          "server": "Streamtape",
+          "title": "Streamtape",
+          "iframe": "https://jkanime.net/jkplayer/c1?u=aHR0cHM6Ly9zdHJlYW10YXBlLmNvbS9lL293VjlkdlFscFFjZFhPL2hpaWlkYWFhcmlpaWtpaWlraW5vZXJlbm5uaW1lc3NzLTAzLm1wNA==&s=streamtape",
+          "real_url": "https://streamtape.com/e/owV9dvQlpQcdXO/hiiidaaariiikiiikinoerennnimesss-03.mp4",
+          "lang": "SUB",
+          "size": "258 MB",
+          "type": "c1"
+        },
+        {
+          "server": "Doodstream",
+          "title": "Doodstream",
+          "iframe": "https://jkanime.net/jkplayer/c1?u=aHR0cHM6Ly9kc3ZwbGF5LmNvbS9lL2J2YjA0aXI5ejJkYw==&s=doodstream",
+          "real_url": "https://dsvplay.com/e/bvb04ir9z2dc",
+          "lang": "SUB",
+          "size": "258 MB",
+          "type": "c1"
+        }
+      ],
+      "downloads": [
+        {
+          "server": "Mediafire",
+          "size": "258 MB",
+          "lang": "SUB",
+          "url": "https://c1.jkplayers.com/d/5GaY0058XCCbR/"
+        },
+        {
+          "server": "Mega",
+          "size": "258 MB",
+          "lang": "SUB",
+          "url": "https://c1.jkplayers.com/d/6fua9964WSEsV/"
+        },
+        {
+          "server": "Streamwish",
+          "size": "258 MB",
+          "lang": "SUB",
+          "url": "https://c1.jkplayers.com/d/tmd79936eGESk/"
+        },
+        {
+          "server": "VOE",
+          "size": "258 MB",
+          "lang": "SUB",
+          "url": "https://c1.jkplayers.com/d/hXy59954sb7AM/"
+        },
+        {
+          "server": "Vidhide",
+          "size": "258 MB",
+          "lang": "SUB",
+          "url": "https://c1.jkplayers.com/d/nJfi0000QQf0x/"
+        },
+        {
+          "server": "Filemoon",
+          "size": "258 MB",
+          "lang": "SUB",
+          "url": "https://c1.jkplayers.com/d/4YEt99465iLD4/"
+        },
+        {
+          "server": "Mixdrop",
+          "size": "258 MB",
+          "lang": "SUB",
+          "url": "https://c1.jkplayers.com/d/NGxa9950290zc/"
+        },
+        {
+          "server": "Mp4upload",
+          "size": "258 MB",
+          "lang": "SUB",
+          "url": "https://c1.jkplayers.com/d/lwaM9906KVU1A/"
+        },
+        {
+          "server": "Streamtape",
+          "size": "258 MB",
+          "lang": "SUB",
+          "url": "https://c1.jkplayers.com/d/snkJ9968Pf2wr/"
+        },
+        {
+          "server": "Doodstream",
+          "size": "258 MB",
+          "lang": "SUB",
+          "url": "https://c1.jkplayers.com/d/jd080085u8rlM/"
+        }
+      ],
+      "screenshot": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_64ac8641810a1c88bc98b78ff69132e6.jpg"
+    },
+    {
+      "title": "Class de 2-banme ni Kawaii Onnanoko to Tomodachi ni Natta",
+      "episode": "3",
+      "slug": "class-de-2-banme-ni-kawaii-onnanoko-to-tomodachi-ni-natta",
+      "url": "https://jkanime.net/class-de-2-banme-ni-kawaii-onnanoko-to-tomodachi-ni-natta/3/",
+      "image_url": "https://cdn.jkdesa.com/assets/images/animes/video/image/jkvideo_1cc888435a79b8cafaadab6928a95933.jpg",
+      "cover_url": "https://cdn.jkdesa.com/assets/images/animes/image/class-de-2-banme-ni-kawaii-onnanoko-to-tomodachi-ni-natta.jpg",
+      "aired": "Hoy",
+      "servers": [
+        {
+          "server": "Desu",
+          "title": "Desu",
+          "iframe": "https://jkanime.net/jkplayer/um?e=NEVPU2pwalFtMEowWlZ2VGZlb2dwUjZ1WDQzNERycVhQUTY2UnJ3OFIwdlZVVHVhclQyclZBTmVuUkVXWkc3ZVZiVlMyaFFPMUtLVk9leGJoL2RUL1pwSmtIZXZpdnB4SWhjeGp6bXVlMVk9OjpbiGIyHqk1v5IF0c8z_Sn.&t=1cc888435a79b8cafaadab6928a95933&op=NzI2NzM=",
+          "lang": "SUB",
+          "type": "jk"
+        },
+        {
+          "server": "Magi",
+          "title": "Magi",
+          "iframe": "https://jkanime.net/jkplayer/umv?e=bVlvM1NoSTljZUY2ck9pZHZ4emswTFFvTVFHR1F4Z1JIY3FUcy9YNHlrbEtjYXM4KzR2UkFHczhRZWxYYUs5a2EybkhDRFVNbFpIU29YQnNMam1YS2p2RUM4Vlp6aEhWcTV3THpGZkU4SHM9Ojp1DKLkv_fmmsEu4n.izFwr&t=1cc888435a79b8cafaadab6928a95933",
+          "lang": "SUB",
+          "type": "jk"
+        },
+        {
+          "server": "Mega",
+          "title": "Mega",
+          "iframe": "https://jkanime.net/jkplayer/c1?u=aHR0cHM6Ly9tZWdhLm56L2VtYmVkLzJyNGtXUUFRI3pIYV92cDVsWTFTOXU3Rnl0dXM5NlBRVXhncDhSekRId1BFVjZFeDFzZFUK&s=mega",
+          "real_url": "https://mega.nz/embed/2r4kWQAQ#zHa_vp5lY1S9u7Fytus96PQUxgp8RzDHwPEV6Ex1sdU",
+          "lang": "SUB",
+          "size": "171 MB",
+          "type": "c1"
+        },
+        {
+          "server": "Streamwish",
+          "title": "Streamwish",
+          "iframe": "https://jkanime.net/jkplayer/c1?u=aHR0cHM6Ly9zZmFzdHdpc2guY29tL2UvYWdjazlwNHJ4M2Zs&s=streamwish",
+          "real_url": "https://sfastwish.com/e/agck9p4rx3fl",
+          "lang": "SUB",
+          "size": "171 MB",
+          "type": "c1"
+        },
+        {
+          "server": "VOE",
+          "title": "VOE",
+          "iframe": "https://jkanime.net/jkplayer/c1?u=aHR0cHM6Ly92b2Uuc3gvZS9sOHk2ZHN2djRraHA=&s=voe",
+          "real_url": "https://voe.sx/e/l8y6dsvv4khp",
+          "lang": "SUB",
+          "size": "171 MB",
+          "type": "c1"
+        },
+        {
+          "server": "Vidhide",
+          "title": "Vidhide",
+          "iframe": "https://jkanime.net/jkplayer/c1?u=aHR0cHM6Ly92aWRoaWRldmlwLmNvbS9lbWJlZC83azRhamtqaWpoZ2I=&s=vidhide",
+          "real_url": "https://vidhidevip.com/embed/7k4ajkjijhgb",
+          "lang": "SUB",
+          "size": "171 MB",
+          "type": "c1"
+        },
+        {
+          "server": "Filemoon",
+          "title": "Filemoon",
+          "iframe": "https://jkanime.net/jkplayer/c1?u=aHR0cHM6Ly9ieXNla296ZS5jb20vZS96eWVsbm5kbHdybWMv&s=filemoon",
+          "real_url": "https://bysekoze.com/e/zyelnndlwrmc/",
+          "lang": "SUB",
+          "size": "171 MB",
+          "type": "c1"
+        },
+        {
+          "server": "Mixdrop",
+          "title": "Mixdrop",
+          "iframe": "https://jkanime.net/jkplayer/c1?u=aHR0cHM6Ly9taXhkcm9wLnRvcC9lLzRkdnJkbmdvc3o3djd3&s=mixdrop",
+          "real_url": "https://mixdrop.top/e/4dvrdngosz7v7w",
+          "lang": "SUB",
+          "size": "171 MB",
+          "type": "c1"
+        },
+        {
+          "server": "Mp4upload",
+          "title": "Mp4upload",
+          "iframe": "https://jkanime.net/jkplayer/c1?u=aHR0cHM6Ly93d3cubXA0dXBsb2FkLmNvbS9lbWJlZC15YXZlOGhrY2xuMGwuaHRtbA==&s=mp4upload",
+          "real_url": "https://www.mp4upload.com/embed-yave8hkcln0l.html",
+          "lang": "SUB",
+          "size": "171 MB",
+          "type": "c1"
+        },
+        {
+          "server": "Streamtape",
+          "title": "Streamtape",
+          "iframe": "https://jkanime.net/jkplayer/c1?u=aHR0cHM6Ly9zdHJlYW10YXBlLmNvbS9lL0FrYUdsbEFWWDNIR3h4L2NsYXNzc3NkZTJiYW5ubm1lbmlrYXdhaW9udG9tb2RhY2hpbmF0dGFzcy0wMy5tcDQ=&s=streamtape",
+          "real_url": "https://streamtape.com/e/AkaGllAVX3HGxx/classssde2bannnmenikawaiontomodachinattass-03.mp4",
+          "lang": "SUB",
+          "size": "171 MB",
+          "type": "c1"
+        },
+        {
+          "server": "Doodstream",
+          "title": "Doodstream",
+          "iframe": "https://jkanime.net/jkplayer/c1?u=aHR0cHM6Ly9kc3ZwbGF5LmNvbS9lLzhuNHgwM3E2NTA5Zg==&s=doodstream",
+          "real_url": "https://dsvplay.com/e/8n4x03q6509f",
+          "lang": "SUB",
+          "size": "171 MB",
+          "type": "c1"
+        }
+      ],
+      "downloads": [
+        {
+          "server": "Mediafire",
+          "size": "171 MB",
+          "lang": "SUB",
+          "url": "https://c1.jkplayers.com/d/Rb6t0119r9xHj/"
+        },
+        {
+          "server": "Mega",
+          "size": "171 MB",
+          "lang": "SUB",
+          "url": "https://c1.jkplayers.com/d/fkJx0073zxUpa/"
+        },
+        {
+          "server": "Streamwish",
+          "size": "171 MB",
+          "lang": "SUB",
+          "url": "https://c1.jkplayers.com/d/fJe20049rfeD7/"
+        },
+        {
+          "server": "VOE",
+          "size": "171 MB",
+          "lang": "SUB",
+          "url": "https://c1.jkplayers.com/d/xUXW00597GLrp/"
+        },
+        {
+          "server": "Vidhide",
+          "size": "171 MB",
+          "lang": "SUB",
+          "url": "https://c1.jkplayers.com/d/kdch0094pdUCa/"
+        },
+        {
+          "server": "Filemoon",
+          "size": "171 MB",
+          "lang": "SUB",
+          "url": "https://c1.jkplayers.com/d/l4sJ0053fBDqC/"
+        },
+        {
+          "server": "Mixdrop",
+          "size": "171 MB",
+          "lang": "SUB",
+          "url": "https://c1.jkplayers.com/d/83oc00565d1Se/"
+        },
+        {
+          "server": "Mp4upload",
+          "size": "171 MB",
+          "lang": "SUB",
+          "url": "https://c1.jkplayers.com/d/NzJ10038VF1lV/"
+        },
+        {
+          "server": "Streamtape",
+          "size": "171 MB",
+          "lang": "SUB",
+          "url": "https://c1.jkplayers.com/d/UJH20075lB75O/"
+        },
+        {
+          "server": "Doodstream",
+          "size": "171 MB",
+          "lang": "SUB",
+          "url": "https://c1.jkplayers.com/d/Q6mB0122fpXjK/"
+        }
+      ],
+      "screenshot": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_1cc888435a79b8cafaadab6928a95933.jpg"
+    },
+    {
+      "title": "Aishiteru Game wo Owarasetai",
+      "episode": "2",
+      "slug": "aishiteru-game-wo-owarasetai",
+      "url": "https://jkanime.net/aishiteru-game-wo-owarasetai/2/",
+      "image_url": "https://cdn.jkdesa.com/assets/images/animes/video/image/jkvideo_c857c3d3e3bfd5b597cc6139bff2a698.jpg",
+      "cover_url": "https://cdn.jkdesa.com/assets/images/animes/image/aishiteru-game-wo-owarasetai.jpg",
+      "aired": "Hoy",
+      "servers": [
+        {
+          "server": "Desu",
+          "title": "Desu",
+          "iframe": "https://jkanime.net/jkplayer/um?e=dExlejR1Q0dEVVIxT3Y1YWdDWWNVUUJIYnUwUlRVRVhwdW9pS3FveURRV2FBUDZiL2V2Y04rbXBXc3hWUFpYbGFJcmNBc1B6RFNYZVZkNVJVdEl0Nk5sVEQ4eVUxMG8xbjVaL0dFQnhNSGs9OjqFzhbAcY9Mi0BnqxH_VLBL&t=c857c3d3e3bfd5b597cc6139bff2a698&op=NzI2NzI=",
+          "lang": "SUB",
+          "type": "jk"
+        },
+        {
+          "server": "Magi",
+          "title": "Magi",
+          "iframe": "https://jkanime.net/jkplayer/umv?e=OGYyZm55YlNXSitGd3lPUTg5SXd0alNUcVA5Ym5TUUE2RG9JeUwrQ1hMWGRTQmtRbGVMVTU2cXI3NnJ0alNxclJnM0lnRVd4b3VieUtuWTVyQkI4cnlzYm9MdDdUU2ViSnVJQ1VMRU41enc9OjqmP2EOkwmcTkhZDBUQ3Exm&t=c857c3d3e3bfd5b597cc6139bff2a698",
+          "lang": "SUB",
+          "type": "jk"
+        },
+        {
+          "server": "Mega",
+          "title": "Mega",
+          "iframe": "https://jkanime.net/jkplayer/c1?u=aHR0cHM6Ly9tZWdhLm56L2VtYmVkL2JqNERoSktLI2NfZlc3TmlkMUNwemRjOGt1OWlMeUljZF9JVmthZ3NWZnRSTHhQRTFwQW8K&s=mega",
+          "real_url": "https://mega.nz/embed/bj4DhJKK#c_fW7Nid1Cpzdc8ku9iLyIcd_IVkagsVftRLxPE1pAo",
+          "lang": "SUB",
+          "size": "144 MB",
+          "type": "c1"
+        },
+        {
+          "server": "Streamwish",
+          "title": "Streamwish",
+          "iframe": "https://jkanime.net/jkplayer/c1?u=aHR0cHM6Ly9zZmFzdHdpc2guY29tL2Uvejc2Z3J2enlseDN4&s=streamwish",
+          "real_url": "https://sfastwish.com/e/z76grvzylx3x",
+          "lang": "SUB",
+          "size": "144 MB",
+          "type": "c1"
+        },
+        {
+          "server": "VOE",
+          "title": "VOE",
+          "iframe": "https://jkanime.net/jkplayer/c1?u=aHR0cHM6Ly92b2Uuc3gvZS96MG1nZHhpMm4yZnA=&s=voe",
+          "real_url": "https://voe.sx/e/z0mgdxi2n2fp",
+          "lang": "SUB",
+          "size": "144 MB",
+          "type": "c1"
+        },
+        {
+          "server": "Vidhide",
+          "title": "Vidhide",
+          "iframe": "https://jkanime.net/jkplayer/c1?u=aHR0cHM6Ly92aWRoaWRldmlwLmNvbS9lbWJlZC9veTU1cm9wanhjYnM=&s=vidhide",
+          "real_url": "https://vidhidevip.com/embed/oy55ropjxcbs",
+          "lang": "SUB",
+          "size": "144 MB",
+          "type": "c1"
+        },
+        {
+          "server": "Filemoon",
+          "title": "Filemoon",
+          "iframe": "https://jkanime.net/jkplayer/c1?u=aHR0cHM6Ly9ieXNla296ZS5jb20vZS95OXJuaGl2Mzl1cDUv&s=filemoon",
+          "real_url": "https://bysekoze.com/e/y9rnhiv39up5/",
+          "lang": "SUB",
+          "size": "144 MB",
+          "type": "c1"
+        },
+        {
+          "server": "Mixdrop",
+          "title": "Mixdrop",
+          "iframe": "https://jkanime.net/jkplayer/c1?u=aHR0cHM6Ly9taXhkcm9wLnRvcC9lL293NHB3Nzh2Zm9ybzlv&s=mixdrop",
+          "real_url": "https://mixdrop.top/e/ow4pw78vforo9o",
+          "lang": "SUB",
+          "size": "144 MB",
+          "type": "c1"
+        },
+        {
+          "server": "Mp4upload",
+          "title": "Mp4upload",
+          "iframe": "https://jkanime.net/jkplayer/c1?u=aHR0cHM6Ly93d3cubXA0dXBsb2FkLmNvbS9lbWJlZC12dGgwMTN1M3UyNWEuaHRtbA==&s=mp4upload",
+          "real_url": "https://www.mp4upload.com/embed-vth013u3u25a.html",
+          "lang": "SUB",
+          "size": "144 MB",
+          "type": "c1"
+        },
+        {
+          "server": "Streamtape",
+          "title": "Streamtape",
+          "iframe": "https://jkanime.net/jkplayer/c1?u=aHR0cHM6Ly9zdHJlYW10YXBlLmNvbS9lL0taZXJsekRaQjBzZ1dyL2FpaWlzaGlpaXRlcnV1Z2FtZWV3b29vd2Fhc2V0YWlzbmltZXNzcy0wMi5tcDQ=&s=streamtape",
+          "real_url": "https://streamtape.com/e/KZerlzDZB0sgWr/aiiishiiiteruugameewooowaasetaisnimesss-02.mp4",
+          "lang": "SUB",
+          "size": "144 MB",
+          "type": "c1"
+        },
+        {
+          "server": "Doodstream",
+          "title": "Doodstream",
+          "iframe": "https://jkanime.net/jkplayer/c1?u=aHR0cHM6Ly9kc3ZwbGF5LmNvbS9lLzI0c2Z3czVheGllZA==&s=doodstream",
+          "real_url": "https://dsvplay.com/e/24sfws5axied",
+          "lang": "SUB",
+          "size": "144 MB",
+          "type": "c1"
+        }
+      ],
+      "downloads": [
+        {
+          "server": "Mediafire",
+          "size": "144 MB",
+          "lang": "SUB",
+          "url": "https://c1.jkplayers.com/d/JUTE0067lBbON/"
+        },
+        {
+          "server": "Mega",
+          "size": "144 MB",
+          "lang": "SUB",
+          "url": "https://c1.jkplayers.com/d/5FUb9992JdTzF/"
+        },
+        {
+          "server": "Streamwish",
+          "size": "144 MB",
+          "lang": "SUB",
+          "url": "https://c1.jkplayers.com/d/9DEd9976gUB99/"
+        },
+        {
+          "server": "VOE",
+          "size": "144 MB",
+          "lang": "SUB",
+          "url": "https://c1.jkplayers.com/d/0vhp9985kxF7d/"
+        },
+        {
+          "server": "Vidhide",
+          "size": "144 MB",
+          "lang": "SUB",
+          "url": "https://c1.jkplayers.com/d/l6og0010V6eaF/"
+        },
+        {
+          "server": "Filemoon",
+          "size": "144 MB",
+          "lang": "SUB",
+          "url": "https://c1.jkplayers.com/d/3Js99980dIfgu/"
+        },
+        {
+          "server": "Mixdrop",
+          "size": "144 MB",
+          "lang": "SUB",
+          "url": "https://c1.jkplayers.com/d/HLYa9983wlykm/"
+        },
+        {
+          "server": "Mp4upload",
+          "size": "144 MB",
+          "lang": "SUB",
+          "url": "https://c1.jkplayers.com/d/IUDD9963iQvgx/"
+        },
+        {
+          "server": "Streamtape",
+          "size": "144 MB",
+          "lang": "SUB",
+          "url": "https://c1.jkplayers.com/d/3qgu9994b2r7b/"
+        },
+        {
+          "server": "Doodstream",
+          "size": "144 MB",
+          "lang": "SUB",
+          "url": "https://c1.jkplayers.com/d/x9Di0033eQze3/"
+        }
+      ],
+      "screenshot": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c857c3d3e3bfd5b597cc6139bff2a698.jpg"
+    },
+    {
+      "title": "Marriagetoxin",
+      "episode": "3",
+      "slug": "marriagetoxin",
+      "url": "https://jkanime.net/marriagetoxin/3/",
+      "image_url": "https://cdn.jkdesa.com/assets/images/animes/video/image/jkvideo_ab8db232cafddd910e198769194246cc.jpg",
+      "cover_url": "https://cdn.jkdesa.com/assets/images/animes/image/marriagetoxin.jpg",
+      "aired": "Hoy",
+      "servers": [
+        {
+          "server": "Desu",
+          "title": "Desu",
+          "iframe": "https://jkanime.net/jkplayer/um?e=ZDFJdWZDRk5uelpQQXpuaW1UMTNWeldUQlF6VklWZzFTSC9GVnIxZ0t0T24vNDdjR1J5MHduZHlRUk0rNzZsamE4VnU3SVNrUisyb0duZm9QbE9Cek9SM3VSWmZRU3NHeFFQZFh5QVVtMjg9OjqpOlWUTABsUBSitrdTFTyu&t=ab8db232cafddd910e198769194246cc&op=NzI2NzE=",
+          "lang": "SUB",
+          "type": "jk"
+        },
+        {
+          "server": "Magi",
+          "title": "Magi",
+          "iframe": "https://jkanime.net/jkplayer/umv?e=amVnRC9JU0dZVC9SQ2tHSjRzZmwwUkkxWkNTSmhiNlc5V3NyVFlaaU0wZHZzRnYxR21FUUlIUVdpSXZkZ1A5YmIxajBLKzN6UU5ZeHhSbGJOdGp1Y0JTY2hMSm5xRVpwUHlCNHZEWk1xaEE9OjqBwblk1FKW7Pw4Ogqc4vu1&t=ab8db232cafddd910e198769194246cc",
+          "lang": "SUB",
+          "type": "jk"
+        },
+        {
+          "server": "Mega",
+          "title": "Mega",
+          "iframe": "https://jkanime.net/jkplayer/c1?u=aHR0cHM6Ly9tZWdhLm56L2VtYmVkL2luNUhuUXlTI0F4M0hPQ2xxYm8tb01fS0ZyNVVvS09FQm1PeG5oWGRDR0ZKQWw0MHNRbHMK&s=mega",
+          "real_url": "https://mega.nz/embed/in5HnQyS#Ax3HOClqbo-oM_KFr5UoKOEBmOxnhXdCGFJAl40sQls",
+          "lang": "SUB",
+          "size": "315 MB",
+          "type": "c1"
+        },
+        {
+          "server": "Streamwish",
+          "title": "Streamwish",
+          "iframe": "https://jkanime.net/jkplayer/c1?u=aHR0cHM6Ly9zZmFzdHdpc2guY29tL2UvN29rZjFsMGMwd2xw&s=streamwish",
+          "real_url": "https://sfastwish.com/e/7okf1l0c0wlp",
+          "lang": "SUB",
+          "size": "315 MB",
+          "type": "c1"
+        },
+        {
+          "server": "VOE",
+          "title": "VOE",
+          "iframe": "https://jkanime.net/jkplayer/c1?u=aHR0cHM6Ly92b2Uuc3gvZS9qMnh6MHJucW81M3M=&s=voe",
+          "real_url": "https://voe.sx/e/j2xz0rnqo53s",
+          "lang": "SUB",
+          "size": "315 MB",
+          "type": "c1"
+        },
+        {
+          "server": "Vidhide",
+          "title": "Vidhide",
+          "iframe": "https://jkanime.net/jkplayer/c1?u=aHR0cHM6Ly92aWRoaWRldmlwLmNvbS9lbWJlZC9raHNwdWo4YWc4ZTA=&s=vidhide",
+          "real_url": "https://vidhidevip.com/embed/khspuj8ag8e0",
+          "lang": "SUB",
+          "size": "315 MB",
+          "type": "c1"
+        },
+        {
+          "server": "Filemoon",
+          "title": "Filemoon",
+          "iframe": "https://jkanime.net/jkplayer/c1?u=aHR0cHM6Ly9ieXNla296ZS5jb20vZS9zaHkxejZwMGkyZGYv&s=filemoon",
+          "real_url": "https://bysekoze.com/e/shy1z6p0i2df/",
+          "lang": "SUB",
+          "size": "315 MB",
+          "type": "c1"
+        },
+        {
+          "server": "Mixdrop",
+          "title": "Mixdrop",
+          "iframe": "https://jkanime.net/jkplayer/c1?u=aHR0cHM6Ly9taXhkcm9wLnRvcC9lL2RrMzFrcTY3YXhxcWUz&s=mixdrop",
+          "real_url": "https://mixdrop.top/e/dk31kq67axqqe3",
+          "lang": "SUB",
+          "size": "315 MB",
+          "type": "c1"
+        },
+        {
+          "server": "Mp4upload",
+          "title": "Mp4upload",
+          "iframe": "https://jkanime.net/jkplayer/c1?u=aHR0cHM6Ly93d3cubXA0dXBsb2FkLmNvbS9lbWJlZC1iNHk1amQ1MWpraGguaHRtbA==&s=mp4upload",
+          "real_url": "https://www.mp4upload.com/embed-b4y5jd51jkhh.html",
+          "lang": "SUB",
+          "size": "315 MB",
+          "type": "c1"
+        },
+        {
+          "server": "Streamtape",
+          "title": "Streamtape",
+          "iframe": "https://jkanime.net/jkplayer/c1?u=aHR0cHM6Ly9zdHJlYW10YXBlLmNvbS9lL29sMndZa2RCQVJDSm1QWC9tYXJycmlhYWFnZWVldG9vb3hpbm5pbWV3c3Nzcy0wMy5tcDQ=&s=streamtape",
+          "real_url": "https://streamtape.com/e/ol2wYkdBARCJmPX/marrriaaageeetoooxinnimewssss-03.mp4",
+          "lang": "SUB",
+          "size": "315 MB",
+          "type": "c1"
+        },
+        {
+          "server": "Doodstream",
+          "title": "Doodstream",
+          "iframe": "https://jkanime.net/jkplayer/c1?u=aHR0cHM6Ly9kc3ZwbGF5LmNvbS9lL2Zidno2ZnE5enMycQ==&s=doodstream",
+          "real_url": "https://dsvplay.com/e/fbvz6fq9zs2q",
+          "lang": "SUB",
+          "size": "315 MB",
+          "type": "c1"
+        }
+      ],
+      "downloads": [
+        {
+          "server": "Mega",
+          "size": "315 MB",
+          "lang": "SUB",
+          "url": "https://c1.jkplayers.com/d/0HNq9922L6Xho/"
+        },
+        {
+          "server": "Streamwish",
+          "size": "315 MB",
+          "lang": "SUB",
+          "url": "https://c1.jkplayers.com/d/i6XO98946Obhq/"
+        },
+        {
+          "server": "VOE",
+          "size": "315 MB",
+          "lang": "SUB",
+          "url": "https://c1.jkplayers.com/d/viiz99120Byml/"
+        },
+        {
+          "server": "Vidhide",
+          "size": "315 MB",
+          "lang": "SUB",
+          "url": "https://c1.jkplayers.com/d/Btgp9943yqSqo/"
+        },
+        {
+          "server": "Filemoon",
+          "size": "315 MB",
+          "lang": "SUB",
+          "url": "https://c1.jkplayers.com/d/DsFO9901mnB7H/"
+        },
+        {
+          "server": "Mixdrop",
+          "size": "315 MB",
+          "lang": "SUB",
+          "url": "https://c1.jkplayers.com/d/pzzc9907TbLTR/"
+        },
+        {
+          "server": "Mp4upload",
+          "size": "315 MB",
+          "lang": "SUB",
+          "url": "https://c1.jkplayers.com/d/WxUd9876rvVl2/"
+        },
+        {
+          "server": "Streamtape",
+          "size": "315 MB",
+          "lang": "SUB",
+          "url": "https://c1.jkplayers.com/d/tMko9926E02r4/"
+        },
+        {
+          "server": "Doodstream",
+          "size": "315 MB",
+          "lang": "SUB",
+          "url": "https://c1.jkplayers.com/d/s7Uf9968uhTYr/"
+        }
+      ],
+      "screenshot": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ab8db232cafddd910e198769194246cc.jpg"
+    },
+    {
+      "title": "Mahou no Shimai Lulutto Lilly",
+      "episode": "2",
+      "slug": "mahou-no-shimai-lulutto-lilly",
+      "url": "https://jkanime.net/mahou-no-shimai-lulutto-lilly/2/",
+      "image_url": "https://cdn.jkdesa.com/assets/images/animes/video/image/jkvideo_087988dedc555ae04dce42a0507a6cf4.jpg",
+      "cover_url": "https://cdn.jkdesa.com/assets/images/animes/image/mahou-no-shimai-lulutto-lilly.jpg",
+      "aired": "Hoy",
+      "servers": [
+        {
+          "server": "Desu",
+          "title": "Desu",
+          "iframe": "https://jkanime.net/jkplayer/um?e=TmpDL05IUG5YS0NidWlNZXZPeklGNlhabjdQczhuZ1A1OVEyQ1lxOHFTUTJDanJqek9sNVA4UE8xT2VBaGJLT1Z3aDZBd3JMMC9MMUxPZ1RoRHhlNkY5NkdMQkpNK2Qra09qTWxyZkQ4eG89OjqqzsYoZ1e9yRu94sq1n7bN&t=087988dedc555ae04dce42a0507a6cf4&op=NzI2NzA=",
+          "lang": "SUB",
+          "type": "jk"
+        },
+        {
+          "server": "Magi",
+          "title": "Magi",
+          "iframe": "https://jkanime.net/jkplayer/umv?e=MjY3Y3k0QS9IYjlZQzNVYnovaWJjY1ZVbmtVZ1FQM0VWSU9PRzgrT1JpdC9jK1ZBSHhrOXErZ2NSSmtLS295aGZEODlRTThNckNkckVkUklDN1lDNzVIQnpxZVNxYno3ZW91Q1p5Ry8yaFk9Ojrr_xatvUZ0crHLkUDBWOac&t=087988dedc555ae04dce42a0507a6cf4",
+          "lang": "SUB",
+          "type": "jk"
+        },
+        {
+          "server": "Mega",
+          "title": "Mega",
+          "iframe": "https://jkanime.net/jkplayer/c1?u=aHR0cHM6Ly9tZWdhLm56L2VtYmVkLzI2WVFHUVNhI05TSkN0SVlLekVLRWhzZVRkN1ZPWkJqWVBqVlBhbVIzUkEweDZ5blg1ZmsK&s=mega",
+          "real_url": "https://mega.nz/embed/26YQGQSa#NSJCtIYKzEKEhseTd7VOZBjYPjVPamR3RA0x6ynX5fk",
+          "lang": "SUB",
+          "size": "357 MB",
+          "type": "c1"
+        },
+        {
+          "server": "Streamwish",
+          "title": "Streamwish",
+          "iframe": "https://jkanime.net/jkplayer/c1?u=aHR0cHM6Ly9zZmFzdHdpc2guY29tL2UvYnNqenNiN2ZmZ3Zp&s=streamwish",
+          "real_url": "https://sfastwish.com/e/bsjzsb7ffgvi",
+          "lang": "SUB",
+          "size": "357 MB",
+          "type": "c1"
+        },
+        {
+          "server": "VOE",
+          "title": "VOE",
+          "iframe": "https://jkanime.net/jkplayer/c1?u=aHR0cHM6Ly92b2Uuc3gvZS9pZXo3cGF0cDNoZ3g=&s=voe",
+          "real_url": "https://voe.sx/e/iez7patp3hgx",
+          "lang": "SUB",
+          "size": "357 MB",
+          "type": "c1"
+        },
+        {
+          "server": "Vidhide",
+          "title": "Vidhide",
+          "iframe": "https://jkanime.net/jkplayer/c1?u=aHR0cHM6Ly92aWRoaWRldmlwLmNvbS9lbWJlZC90MHNua3UzNGZhMm0=&s=vidhide",
+          "real_url": "https://vidhidevip.com/embed/t0snku34fa2m",
+          "lang": "SUB",
+          "size": "357 MB",
+          "type": "c1"
+        },
+        {
+          "server": "Filemoon",
+          "title": "Filemoon",
+          "iframe": "https://jkanime.net/jkplayer/c1?u=aHR0cHM6Ly9ieXNla296ZS5jb20vZS9zaW5hZHR6azE5amcv&s=filemoon",
+          "real_url": "https://bysekoze.com/e/sinadtzk19jg/",
+          "lang": "SUB",
+          "size": "357 MB",
+          "type": "c1"
+        },
+        {
+          "server": "Mixdrop",
+          "title": "Mixdrop",
+          "iframe": "https://jkanime.net/jkplayer/c1?u=aHR0cHM6Ly9taXhkcm9wLnRvcC9lL2pkcXBkZDkxc2VveHEw&s=mixdrop",
+          "real_url": "https://mixdrop.top/e/jdqpdd91seoxq0",
+          "lang": "SUB",
+          "size": "357 MB",
+          "type": "c1"
+        },
+        {
+          "server": "Mp4upload",
+          "title": "Mp4upload",
+          "iframe": "https://jkanime.net/jkplayer/c1?u=aHR0cHM6Ly93d3cubXA0dXBsb2FkLmNvbS9lbWJlZC03dnR5MzRyNW9jd28uaHRtbA==&s=mp4upload",
+          "real_url": "https://www.mp4upload.com/embed-7vty34r5ocwo.html",
+          "lang": "SUB",
+          "size": "357 MB",
+          "type": "c1"
+        },
+        {
+          "server": "Streamtape",
+          "title": "Streamtape",
+          "iframe": "https://jkanime.net/jkplayer/c1?u=aHR0cHM6Ly9zdHJlYW10YXBlLmNvbS9lL1h4VmFlbDZCMXp1RDd2cC9tYWhvdXV1bm9zaGltYWlpbHVsdXR0dG9sbGlseXluaW1lc3dzc3MtMDIubXA0&s=streamtape",
+          "real_url": "https://streamtape.com/e/XxVael6B1zuD7vp/mahouuunoshimaiilulutttollilyynimeswsss-02.mp4",
+          "lang": "SUB",
+          "size": "357 MB",
+          "type": "c1"
+        },
+        {
+          "server": "Doodstream",
+          "title": "Doodstream",
+          "iframe": "https://jkanime.net/jkplayer/c1?u=aHR0cHM6Ly9kc3ZwbGF5LmNvbS9lLzdmM3ZzbnNwdzl6Zg==&s=doodstream",
+          "real_url": "https://dsvplay.com/e/7f3vsnspw9zf",
+          "lang": "SUB",
+          "size": "357 MB",
+          "type": "c1"
+        }
+      ],
+      "downloads": [
+        {
+          "server": "Mediafire",
+          "size": "357 MB",
+          "lang": "SUB",
+          "url": "https://c1.jkplayers.com/d/6wRK03558pxey/"
+        },
+        {
+          "server": "Mega",
+          "size": "357 MB",
+          "lang": "SUB",
+          "url": "https://c1.jkplayers.com/d/zwLL0300gr0ck/"
+        },
+        {
+          "server": "Streamwish",
+          "size": "357 MB",
+          "lang": "SUB",
+          "url": "https://c1.jkplayers.com/d/3AGE0277kJLTP/"
+        },
+        {
+          "server": "VOE",
+          "size": "357 MB",
+          "lang": "SUB",
+          "url": "https://c1.jkplayers.com/d/I8cR0285CIFk6/"
+        },
+        {
+          "server": "Vidhide",
+          "size": "357 MB",
+          "lang": "SUB",
+          "url": "https://c1.jkplayers.com/d/ZH6f0311HmgVy/"
+        },
+        {
+          "server": "Filemoon",
+          "size": "357 MB",
+          "lang": "SUB",
+          "url": "https://c1.jkplayers.com/d/LZPX0277LEbWM/"
+        },
+        {
+          "server": "Mixdrop",
+          "size": "357 MB",
+          "lang": "SUB",
+          "url": "https://c1.jkplayers.com/d/4gMI0283EyC2q/"
+        },
+        {
+          "server": "Mp4upload",
+          "size": "357 MB",
+          "lang": "SUB",
+          "url": "https://c1.jkplayers.com/d/TSlM0267kgZv5/"
+        },
+        {
+          "server": "Streamtape",
+          "size": "357 MB",
+          "lang": "SUB",
+          "url": "https://c1.jkplayers.com/d/8VEI02932M1D3/"
+        },
+        {
+          "server": "Doodstream",
+          "size": "357 MB",
+          "lang": "SUB",
+          "url": "https://c1.jkplayers.com/d/4fXw0344euAcj/"
+        }
+      ],
+      "screenshot": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_087988dedc555ae04dce42a0507a6cf4.jpg"
+    },
+    {
+      "title": "Mahou no Shimai Lulutto Lilly",
+      "episode": "1",
+      "slug": "mahou-no-shimai-lulutto-lilly",
+      "url": "https://jkanime.net/mahou-no-shimai-lulutto-lilly/1/",
+      "image_url": "https://cdn.jkdesa.com/assets/images/animes/video/image/jkvideo_c8a341f59b056e0da9671a4fbbf2da28.jpg",
+      "cover_url": "https://cdn.jkdesa.com/assets/images/animes/image/mahou-no-shimai-lulutto-lilly.jpg",
+      "aired": "Hoy",
+      "servers": [
+        {
+          "server": "Desu",
+          "title": "Desu",
+          "iframe": "https://jkanime.net/jkplayer/um?e=UzhNQXdZZlVxSWRWOXZrTUFoRzI2bWdCR0UycDV0eVR0eVoxZDlLYkpvZUxrUG03UGpjb29iYjE3OURPQ042ZEZEekViY2J2YnhwYkx4WXpqT25KN2R3WW0zQndPRzFqWk1IV3pwcUVodUU9OjpfScmGx2gxQkoZJVCWpULO&t=c8a341f59b056e0da9671a4fbbf2da28&op=NzI2Njk=",
+          "lang": "SUB",
+          "type": "jk"
+        },
+        {
+          "server": "Magi",
+          "title": "Magi",
+          "iframe": "https://jkanime.net/jkplayer/umv?e=Z29JU3dRbmJBdDRtTnBXdjhIRlY1L254YkhRVHhuY2hpQ2JGL3ZEZnFDaUlleWpOY2RSc0tzSnJVWWhld0dmbnhlQXY1SWNTQitGemFEaDlvRHJQZlpZYWt1NjBjOXhkRGRuSmdycmJGVDg9Ojq9Ls5EuEtiv_E5jKCS6DKs&t=c8a341f59b056e0da9671a4fbbf2da28",
+          "lang": "SUB",
+          "type": "jk"
+        },
+        {
+          "server": "Mega",
+          "title": "Mega",
+          "iframe": "https://jkanime.net/jkplayer/c1?u=aHR0cHM6Ly9tZWdhLm56L2VtYmVkL1gyNXcyTDVhI3ZXdU00akhybHMySnBrZHhUUVk1Yjhjdmt5emNxUElFajFKUVU2QS1za2MK&s=mega",
+          "real_url": "https://mega.nz/embed/X25w2L5a#vWuM4jHrls2JpkdxTQY5b8cvkyzcqPIEj1JQU6A-skc",
+          "lang": "SUB",
+          "size": "335 MB",
+          "type": "c1"
+        },
+        {
+          "server": "Streamwish",
+          "title": "Streamwish",
+          "iframe": "https://jkanime.net/jkplayer/c1?u=aHR0cHM6Ly9zZmFzdHdpc2guY29tL2UvaHZkb2g5NmJrbjFq&s=streamwish",
+          "real_url": "https://sfastwish.com/e/hvdoh96bkn1j",
+          "lang": "SUB",
+          "size": "335 MB",
+          "type": "c1"
+        },
+        {
+          "server": "VOE",
+          "title": "VOE",
+          "iframe": "https://jkanime.net/jkplayer/c1?u=aHR0cHM6Ly92b2Uuc3gvZS94b3A1Z3E1c2Nndm0=&s=voe",
+          "real_url": "https://voe.sx/e/xop5gq5scgvm",
+          "lang": "SUB",
+          "size": "335 MB",
+          "type": "c1"
+        },
+        {
+          "server": "Vidhide",
+          "title": "Vidhide",
+          "iframe": "https://jkanime.net/jkplayer/c1?u=aHR0cHM6Ly92aWRoaWRldmlwLmNvbS9lbWJlZC96enUwcm51dHNmbTI=&s=vidhide",
+          "real_url": "https://vidhidevip.com/embed/zzu0rnutsfm2",
+          "lang": "SUB",
+          "size": "335 MB",
+          "type": "c1"
+        },
+        {
+          "server": "Filemoon",
+          "title": "Filemoon",
+          "iframe": "https://jkanime.net/jkplayer/c1?u=aHR0cHM6Ly9ieXNla296ZS5jb20vZS8ydDdrNzJudXFzZm8v&s=filemoon",
+          "real_url": "https://bysekoze.com/e/2t7k72nuqsfo/",
+          "lang": "SUB",
+          "size": "335 MB",
+          "type": "c1"
+        },
+        {
+          "server": "Mixdrop",
+          "title": "Mixdrop",
+          "iframe": "https://jkanime.net/jkplayer/c1?u=aHR0cHM6Ly9taXhkcm9wLnRvcC9lLzhsMTNsbDM5aTBybzYx&s=mixdrop",
+          "real_url": "https://mixdrop.top/e/8l13ll39i0ro61",
+          "lang": "SUB",
+          "size": "335 MB",
+          "type": "c1"
+        },
+        {
+          "server": "Mp4upload",
+          "title": "Mp4upload",
+          "iframe": "https://jkanime.net/jkplayer/c1?u=aHR0cHM6Ly93d3cubXA0dXBsb2FkLmNvbS9lbWJlZC1uczkxMDc3aHBwdGQuaHRtbA==&s=mp4upload",
+          "real_url": "https://www.mp4upload.com/embed-ns91077hpptd.html",
+          "lang": "SUB",
+          "size": "335 MB",
+          "type": "c1"
+        },
+        {
+          "server": "Streamtape",
+          "title": "Streamtape",
+          "iframe": "https://jkanime.net/jkplayer/c1?u=aHR0cHM6Ly9zdHJlYW10YXBlLmNvbS9lL2pZTHE5TTFrcEJUektyby9tYWhvdXV1bm9zaGltYWlpbHVsdXR0dG9sbGlseXluaW1lc3dzc3MtMDEubXA0&s=streamtape",
+          "real_url": "https://streamtape.com/e/jYLq9M1kpBTzKro/mahouuunoshimaiilulutttollilyynimeswsss-01.mp4",
+          "lang": "SUB",
+          "size": "335 MB",
+          "type": "c1"
+        },
+        {
+          "server": "Doodstream",
+          "title": "Doodstream",
+          "iframe": "https://jkanime.net/jkplayer/c1?u=aHR0cHM6Ly9kc3ZwbGF5LmNvbS9lLzFhNWhud3d3cWpudw==&s=doodstream",
+          "real_url": "https://dsvplay.com/e/1a5hnwwwqjnw",
+          "lang": "SUB",
+          "size": "335 MB",
+          "type": "c1"
+        }
+      ],
+      "downloads": [
+        {
+          "server": "Mediafire",
+          "size": "335 MB",
+          "lang": "SUB",
+          "url": "https://c1.jkplayers.com/d/LmwW0272XwJpi/"
+        },
+        {
+          "server": "Mega",
+          "size": "335 MB",
+          "lang": "SUB",
+          "url": "https://c1.jkplayers.com/d/XF8N0185XOmSb/"
+        },
+        {
+          "server": "Streamwish",
+          "size": "335 MB",
+          "lang": "SUB",
+          "url": "https://c1.jkplayers.com/d/2dFe0135EMayk/"
+        },
+        {
+          "server": "VOE",
+          "size": "335 MB",
+          "lang": "SUB",
+          "url": "https://c1.jkplayers.com/d/H67G0157rVdAJ/"
+        },
+        {
+          "server": "Vidhide",
+          "size": "335 MB",
+          "lang": "SUB",
+          "url": "https://c1.jkplayers.com/d/qAzj0215vrgDQ/"
+        },
+        {
+          "server": "Filemoon",
+          "size": "335 MB",
+          "lang": "SUB",
+          "url": "https://c1.jkplayers.com/d/hIPP0146zXTyJ/"
+        },
+        {
+          "server": "Mixdrop",
+          "size": "335 MB",
+          "lang": "SUB",
+          "url": "https://c1.jkplayers.com/d/gJv101526mElZ/"
+        },
+        {
+          "server": "Mp4upload",
+          "size": "335 MB",
+          "lang": "SUB",
+          "url": "https://c1.jkplayers.com/d/zyEO01256zaGL/"
+        },
+        {
+          "server": "Streamtape",
+          "size": "335 MB",
+          "lang": "SUB",
+          "url": "https://c1.jkplayers.com/d/m80t01972AkFp/"
+        },
+        {
+          "server": "Doodstream",
+          "size": "335 MB",
+          "lang": "SUB",
+          "url": "https://c1.jkplayers.com/d/FFrO0258a0u4I/"
+        }
+      ],
+      "screenshot": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_c8a341f59b056e0da9671a4fbbf2da28.jpg"
+    },
+    {
+      "title": "Ingoku Danchi",
+      "episode": "3",
+      "slug": "ingoku-danchi",
+      "url": "https://jkanime.net/ingoku-danchi/3/",
+      "image_url": "https://cdn.jkdesa.com/assets/images/animes/video/image/jkvideo_fa658f8316c3d2ab8589c485f5fdced0.jpg",
+      "cover_url": "https://cdn.jkdesa.com/assets/images/animes/image/ingoku-danchi.jpg",
+      "aired": "Hoy",
+      "servers": [
+        {
+          "server": "Desu",
+          "title": "Desu",
+          "iframe": "https://jkanime.net/jkplayer/um?e=VEp0SVl3cXZ5NEF4OFg0Y0JZck9FWmxwWFdyd2dVMkxNVDlSa294WjRZcEhoUWU4b3A3cFBHU2pLbzlaMzJ6UFBiVllQYk5URVh5ZXpUVXBINXlsVzhZaU5MbkYxbCtFSXlyb1B2eHprMDg9OjodVuAMGWCxJ1emrFYI0JDV&t=fa658f8316c3d2ab8589c485f5fdced0&op=NzI2Njg=",
+          "lang": "SUB",
+          "type": "jk"
+        },
+        {
+          "server": "Magi",
+          "title": "Magi",
+          "iframe": "https://jkanime.net/jkplayer/umv?e=Z0pFb25mZU9KelJZTERScUdLOW5PRVRxVjNzY3Zqb0hWdStvT2doaDdieGJnaUhmMkt2dXV4NWdzTlcxZDJJUHJ6K1JlYUtrVGkrTHNNeHNSbVJmalZsVlc1TmkvZE8yQTh5SUZ4eTZDcmc9OjpSfC3wv5QRBOKihW_nGFpz&t=fa658f8316c3d2ab8589c485f5fdced0",
+          "lang": "SUB",
+          "type": "jk"
+        },
+        {
+          "server": "Mega",
+          "title": "Mega",
+          "iframe": "https://jkanime.net/jkplayer/c1?u=aHR0cHM6Ly9tZWdhLm56L2VtYmVkL1RyeHkxWkFhI1pZSjVCNzFEUHFRMmZ6WkFTTDJGUFNOYmVVZkttNy1vc1k5RnZ0YzlXN1EK&s=mega",
+          "real_url": "https://mega.nz/embed/Trxy1ZAa#ZYJ5B71DPqQ2fzZASL2FPSNbeUfKm7-osY9Fvtc9W7Q",
+          "lang": "SUB",
+          "size": "48 MB",
+          "type": "c1"
+        },
+        {
+          "server": "Streamwish",
+          "title": "Streamwish",
+          "iframe": "https://jkanime.net/jkplayer/c1?u=aHR0cHM6Ly9zZmFzdHdpc2guY29tL2UvbWxhZmhpZWx0M2Nz&s=streamwish",
+          "real_url": "https://sfastwish.com/e/mlafhielt3cs",
+          "lang": "SUB",
+          "size": "48 MB",
+          "type": "c1"
+        },
+        {
+          "server": "VOE",
+          "title": "VOE",
+          "iframe": "https://jkanime.net/jkplayer/c1?u=aHR0cHM6Ly92b2Uuc3gvZS9nbnRwZ2FnZ2ZqcWg=&s=voe",
+          "real_url": "https://voe.sx/e/gntpgaggfjqh",
+          "lang": "SUB",
+          "size": "48 MB",
+          "type": "c1"
+        },
+        {
+          "server": "Vidhide",
+          "title": "Vidhide",
+          "iframe": "https://jkanime.net/jkplayer/c1?u=aHR0cHM6Ly92aWRoaWRldmlwLmNvbS9lbWJlZC93M2Fyd2V1dDFucDA=&s=vidhide",
+          "real_url": "https://vidhidevip.com/embed/w3arweut1np0",
+          "lang": "SUB",
+          "size": "48 MB",
+          "type": "c1"
+        },
+        {
+          "server": "Filemoon",
+          "title": "Filemoon",
+          "iframe": "https://jkanime.net/jkplayer/c1?u=aHR0cHM6Ly9ieXNla296ZS5jb20vZS96aHk4ZHNuaWQ4aDIv&s=filemoon",
+          "real_url": "https://bysekoze.com/e/zhy8dsnid8h2/",
+          "lang": "SUB",
+          "size": "48 MB",
+          "type": "c1"
+        },
+        {
+          "server": "Mixdrop",
+          "title": "Mixdrop",
+          "iframe": "https://jkanime.net/jkplayer/c1?u=aHR0cHM6Ly9taXhkcm9wLnRvcC9lLzl3MXZ3bjRvYzMwMHg=&s=mixdrop",
+          "real_url": "https://mixdrop.top/e/9w1vwn4oc300x",
+          "lang": "SUB",
+          "size": "48 MB",
+          "type": "c1"
+        },
+        {
+          "server": "Mp4upload",
+          "title": "Mp4upload",
+          "iframe": "https://jkanime.net/jkplayer/c1?u=aHR0cHM6Ly93d3cubXA0dXBsb2FkLmNvbS9lbWJlZC1jYmR0bXlzd2xuYmEuaHRtbA==&s=mp4upload",
+          "real_url": "https://www.mp4upload.com/embed-cbdtmyswlnba.html",
+          "lang": "SUB",
+          "size": "48 MB",
+          "type": "c1"
+        },
+        {
+          "server": "Streamtape",
+          "title": "Streamtape",
+          "iframe": "https://jkanime.net/jkplayer/c1?u=aHR0cHM6Ly9zdHJlYW10YXBlLmNvbS9lL1h5VmJyV1k3bVZ1RGVRZy9pbm5uZ29vb2t1dXVkYW5jaGlpc2l0aW9zZXdzc3MtMDMubXA0&s=streamtape",
+          "real_url": "https://streamtape.com/e/XyVbrWY7mVuDeQg/innngoookuuudanchiisitiosewsss-03.mp4",
+          "lang": "SUB",
+          "size": "48 MB",
+          "type": "c1"
+        },
+        {
+          "server": "Doodstream",
+          "title": "Doodstream",
+          "iframe": "https://jkanime.net/jkplayer/c1?u=aHR0cHM6Ly9kc3ZwbGF5LmNvbS9lLzJ2ZGF0bTQ5dmVzdg==&s=doodstream",
+          "real_url": "https://dsvplay.com/e/2vdatm49vesv",
+          "lang": "SUB",
+          "size": "48 MB",
+          "type": "c1"
+        }
+      ],
+      "downloads": [
+        {
+          "server": "Mediafire",
+          "size": "48 MB",
+          "lang": "SUB",
+          "url": "https://c1.jkplayers.com/d/39jv9545R3xAL/"
+        },
+        {
+          "server": "Mega",
+          "size": "48 MB",
+          "lang": "SUB",
+          "url": "https://c1.jkplayers.com/d/ajHJ95150R4ol/"
+        },
+        {
+          "server": "Streamwish",
+          "size": "48 MB",
+          "lang": "SUB",
+          "url": "https://c1.jkplayers.com/d/zpIC9505RpRSG/"
+        },
+        {
+          "server": "VOE",
+          "size": "48 MB",
+          "lang": "SUB",
+          "url": "https://c1.jkplayers.com/d/wcwy9510zlnTt/"
+        },
+        {
+          "server": "Vidhide",
+          "size": "48 MB",
+          "lang": "SUB",
+          "url": "https://c1.jkplayers.com/d/KE0E9527gszNS/"
+        },
+        {
+          "server": "Filemoon",
+          "size": "48 MB",
+          "lang": "SUB",
+          "url": "https://c1.jkplayers.com/d/K8VB9507G47Nj/"
+        },
+        {
+          "server": "Mixdrop",
+          "size": "48 MB",
+          "lang": "SUB",
+          "url": "https://c1.jkplayers.com/d/DJQ49508x5Iig/"
+        },
+        {
+          "server": "Mp4upload",
+          "size": "48 MB",
+          "lang": "SUB",
+          "url": "https://c1.jkplayers.com/d/c0lm9497Ybipb/"
+        },
+        {
+          "server": "Streamtape",
+          "size": "48 MB",
+          "lang": "SUB",
+          "url": "https://c1.jkplayers.com/d/FwDA9516v8fVJ/"
+        },
+        {
+          "server": "Doodstream",
+          "size": "48 MB",
+          "lang": "SUB",
+          "url": "https://c1.jkplayers.com/d/Fsnk95722CZGK/"
+        }
+      ],
+      "screenshot": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fa658f8316c3d2ab8589c485f5fdced0.jpg"
+    },
+    {
+      "title": "Isekai Nonbiri Nouka 2",
+      "episode": "3",
+      "slug": "isekai-nonbiri-nouka-2",
+      "url": "https://jkanime.net/isekai-nonbiri-nouka-2/3/",
+      "image_url": "https://cdn.jkdesa.com/assets/images/animes/video/image/jkvideo_e107a1986067202c57d20b1b993bd6e5.jpg",
+      "cover_url": "https://cdn.jkdesa.com/assets/images/animes/image/isekai-nonbiri-nouka-2.jpg",
+      "aired": "Hoy",
+      "servers": [
+        {
+          "server": "Desu",
+          "title": "Desu",
+          "iframe": "https://jkanime.net/jkplayer/um?e=Z2M3ekVJK0JhSGpHYVBUbTkxU0xvZXkveVhOa3lpUXowOFRtektrV3dGQ2VndEZkaTZLdVhuOEJRZDk1Rm8xSEVQVFRLanhMZXhrWm1Bdi9Gdmh5NTlZMmNaMitQK3MvRGNQNGR0ckk3YWc9OjolDaK5vULz6AbwSW3XagzA&t=e107a1986067202c57d20b1b993bd6e5&op=NzI2Njc=",
+          "lang": "SUB",
+          "type": "jk"
+        },
+        {
+          "server": "Magi",
+          "title": "Magi",
+          "iframe": "https://jkanime.net/jkplayer/umv?e=cyt3ZEVOdHJXMnJRN0FRRjEyZ1RIb2RmSEs5S3g4YmxDRzN4Wmg1b1RpbkFuMzVJanZSWjFsVHovcGZYeG5XOUFnbUd5MWdweDRKcjMvK1ZhbnVQZHFjK2EzYnkweXRFWnBlTnpvK0hsc1k9OjrVW0qUnebjsyBJ3HbaLz2r&t=e107a1986067202c57d20b1b993bd6e5",
+          "lang": "SUB",
+          "type": "jk"
+        },
+        {
+          "server": "Mega",
+          "title": "Mega",
+          "iframe": "https://jkanime.net/jkplayer/c1?u=aHR0cHM6Ly9tZWdhLm56L2VtYmVkL0hpaG1nSjREI0IzT1BhZmJIcVJRcWFKRklUZ1IyUk00UkZtc1Vnc3hfQzY5cGJXOEhqaXcK&s=mega",
+          "real_url": "https://mega.nz/embed/HihmgJ4D#B3OPafbHqRQqaJFITgR2RM4RFmsUgsx_C69pbW8Hjiw",
+          "lang": "SUB",
+          "size": "261 MB",
+          "type": "c1"
+        },
+        {
+          "server": "Streamwish",
+          "title": "Streamwish",
+          "iframe": "https://jkanime.net/jkplayer/c1?u=aHR0cHM6Ly9zZmFzdHdpc2guY29tL2UvbGc3cm1icTI2dTM3&s=streamwish",
+          "real_url": "https://sfastwish.com/e/lg7rmbq26u37",
+          "lang": "SUB",
+          "size": "261 MB",
+          "type": "c1"
+        },
+        {
+          "server": "VOE",
+          "title": "VOE",
+          "iframe": "https://jkanime.net/jkplayer/c1?u=aHR0cHM6Ly92b2Uuc3gvZS95eW9vemZwbHVjaWI=&s=voe",
+          "real_url": "https://voe.sx/e/yyoozfplucib",
+          "lang": "SUB",
+          "size": "261 MB",
+          "type": "c1"
+        },
+        {
+          "server": "Vidhide",
+          "title": "Vidhide",
+          "iframe": "https://jkanime.net/jkplayer/c1?u=aHR0cHM6Ly92aWRoaWRldmlwLmNvbS9lbWJlZC9wMGdweGxvOWJxaDM=&s=vidhide",
+          "real_url": "https://vidhidevip.com/embed/p0gpxlo9bqh3",
+          "lang": "SUB",
+          "size": "261 MB",
+          "type": "c1"
+        },
+        {
+          "server": "Filemoon",
+          "title": "Filemoon",
+          "iframe": "https://jkanime.net/jkplayer/c1?u=aHR0cHM6Ly9ieXNla296ZS5jb20vZS85Y2owcWpvNHQwcHIv&s=filemoon",
+          "real_url": "https://bysekoze.com/e/9cj0qjo4t0pr/",
+          "lang": "SUB",
+          "size": "261 MB",
+          "type": "c1"
+        },
+        {
+          "server": "Mixdrop",
+          "title": "Mixdrop",
+          "iframe": "https://jkanime.net/jkplayer/c1?u=aHR0cHM6Ly9taXhkcm9wLnRvcC9lLzRkdnJkdjFydDd3cXg=&s=mixdrop",
+          "real_url": "https://mixdrop.top/e/4dvrdv1rt7wqx",
+          "lang": "SUB",
+          "size": "261 MB",
+          "type": "c1"
+        },
+        {
+          "server": "Mp4upload",
+          "title": "Mp4upload",
+          "iframe": "https://jkanime.net/jkplayer/c1?u=aHR0cHM6Ly93d3cubXA0dXBsb2FkLmNvbS9lbWJlZC1weDVheDBoaXkzaTMuaHRtbA==&s=mp4upload",
+          "real_url": "https://www.mp4upload.com/embed-px5ax0hiy3i3.html",
+          "lang": "SUB",
+          "size": "261 MB",
+          "type": "c1"
+        },
+        {
+          "server": "Streamtape",
+          "title": "Streamtape",
+          "iframe": "https://jkanime.net/jkplayer/c1?u=aHR0cHM6Ly9zdHJlYW10YXBlLmNvbS9lL3BnQW1icGFPNEdJcjRrZS9pc2VrYWlpaW5vb29ubmJpcmlpbm91a3NlYXNvbnMyLTAzLm1wNA==&s=streamtape",
+          "real_url": "https://streamtape.com/e/pgAmbpaO4GIr4ke/isekaiiinooonnbiriinoukseasons2-03.mp4",
+          "lang": "SUB",
+          "size": "261 MB",
+          "type": "c1"
+        },
+        {
+          "server": "Doodstream",
+          "title": "Doodstream",
+          "iframe": "https://jkanime.net/jkplayer/c1?u=aHR0cHM6Ly9kc3ZwbGF5LmNvbS9lLzRwbzY3NXd4OXJtYg==&s=doodstream",
+          "real_url": "https://dsvplay.com/e/4po675wx9rmb",
+          "lang": "SUB",
+          "size": "261 MB",
+          "type": "c1"
+        }
+      ],
+      "downloads": [
+        {
+          "server": "Mediafire",
+          "size": "261 MB",
+          "lang": "SUB",
+          "url": "https://c1.jkplayers.com/d/ie8194078s9yo/"
+        },
+        {
+          "server": "Mega",
+          "size": "261 MB",
+          "lang": "SUB",
+          "url": "https://c1.jkplayers.com/d/KS3l9320U1OdH/"
+        },
+        {
+          "server": "Streamwish",
+          "size": "261 MB",
+          "lang": "SUB",
+          "url": "https://c1.jkplayers.com/d/Www99277414FK/"
+        },
+        {
+          "server": "VOE",
+          "size": "261 MB",
+          "lang": "SUB",
+          "url": "https://c1.jkplayers.com/d/FErT92957mdzH/"
+        },
+        {
+          "server": "Vidhide",
+          "size": "261 MB",
+          "lang": "SUB",
+          "url": "https://c1.jkplayers.com/d/4CPz9345Q4tjH/"
+        },
+        {
+          "server": "Filemoon",
+          "size": "261 MB",
+          "lang": "SUB",
+          "url": "https://c1.jkplayers.com/d/038h9286Xm3p6/"
+        },
+        {
+          "server": "Mixdrop",
+          "size": "261 MB",
+          "lang": "SUB",
+          "url": "https://c1.jkplayers.com/d/m2x89291bRc4q/"
+        },
+        {
+          "server": "Mp4upload",
+          "size": "261 MB",
+          "lang": "SUB",
+          "url": "https://c1.jkplayers.com/d/waYW92559wDCo/"
+        },
+        {
+          "server": "Streamtape",
+          "size": "261 MB",
+          "lang": "SUB",
+          "url": "https://c1.jkplayers.com/d/2my09325jWNyB/"
+        },
+        {
+          "server": "Doodstream",
+          "size": "261 MB",
+          "lang": "SUB",
+          "url": "https://c1.jkplayers.com/d/OkQS94388fmuL/"
+        }
+      ],
+      "screenshot": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_e107a1986067202c57d20b1b993bd6e5.jpg"
+    },
+    {
+      "title": "Hyakki Yakoushou",
+      "episode": "3",
+      "slug": "hyakki-yakoushou",
+      "url": "https://jkanime.net/hyakki-yakoushou/3/",
+      "image_url": "https://cdn.jkdesa.com/assets/images/animes/video/image/jkvideo_6ff745735a909846bf6c85496882ae7a.jpg",
+      "cover_url": "https://cdn.jkdesa.com/assets/images/animes/image/hyakki-yakoushou.jpg",
+      "aired": "Hoy",
+      "servers": [
+        {
+          "server": "Desu",
+          "title": "Desu",
+          "iframe": "https://jkanime.net/jkplayer/um?e=QWxkeW9iNGdqWXl1TGpaN2FwWXl4MGlDSCtTdlhCQnRseXd6SzQ1ODUwYkFOWXBDeUxFYnJ5SmNlU0RLamZ5blhvbXBUa0pVSWphRUJyb0FOOUhEVGc9PTo6FL.nMaoc7Vd4lGxWfZUagA--&t=6ff745735a909846bf6c85496882ae7a&op=NzI2NjY=",
+          "lang": "SUB",
+          "type": "jk"
+        },
+        {
+          "server": "Magi",
+          "title": "Magi",
+          "iframe": "https://jkanime.net/jkplayer/umv?e=ZkpXRUhNSzZtNWtRV3VFVkJaR0srZDExTkVkb28zOFRrdURTVUcraEo1OFBUUURDZ1pZMURCaXhJd2RrU2pJRTV5YmtkWlBxLzNjdXVXQ3hsc3ErTnc9PTo6mUUTBm_bOKicz_fK2JvVCQ--&t=6ff745735a909846bf6c85496882ae7a",
+          "lang": "SUB",
+          "type": "jk"
+        },
+        {
+          "server": "Mega",
+          "title": "Mega",
+          "iframe": "https://jkanime.net/jkplayer/c1?u=aHR0cHM6Ly9tZWdhLm56L2VtYmVkL1d2NVRnYkNUI3N6MWh5RmxtZGtoQ2FVdGhJTWVnYUx6OVhQejBrRXNSUnVwNGpsQzB0dDQK&s=mega",
+          "real_url": "https://mega.nz/embed/Wv5TgbCT#sz1hyFlmdkhCaUthIMegaLz9XPz0kEsRRup4jlC0tt4",
+          "lang": "SUB",
+          "size": "37 MB",
+          "type": "c1"
+        },
+        {
+          "server": "Streamwish",
+          "title": "Streamwish",
+          "iframe": "https://jkanime.net/jkplayer/c1?u=aHR0cHM6Ly9zZmFzdHdpc2guY29tL2UvdHcyZGQ2MGZmMmo4&s=streamwish",
+          "real_url": "https://sfastwish.com/e/tw2dd60ff2j8",
+          "lang": "SUB",
+          "size": "37 MB",
+          "type": "c1"
+        },
+        {
+          "server": "VOE",
+          "title": "VOE",
+          "iframe": "https://jkanime.net/jkplayer/c1?u=aHR0cHM6Ly92b2Uuc3gvZS9pdnVyaHlkazJvdHE=&s=voe",
+          "real_url": "https://voe.sx/e/ivurhydk2otq",
+          "lang": "SUB",
+          "size": "37 MB",
+          "type": "c1"
+        },
+        {
+          "server": "Vidhide",
+          "title": "Vidhide",
+          "iframe": "https://jkanime.net/jkplayer/c1?u=aHR0cHM6Ly92aWRoaWRldmlwLmNvbS9lbWJlZC9pdGxpbHd5enNpMnA=&s=vidhide",
+          "real_url": "https://vidhidevip.com/embed/itlilwyzsi2p",
+          "lang": "SUB",
+          "size": "37 MB",
+          "type": "c1"
+        },
+        {
+          "server": "Filemoon",
+          "title": "Filemoon",
+          "iframe": "https://jkanime.net/jkplayer/c1?u=aHR0cHM6Ly9ieXNla296ZS5jb20vZS9yYmNibHc1ZDVjYzEv&s=filemoon",
+          "real_url": "https://bysekoze.com/e/rbcblw5d5cc1/",
+          "lang": "SUB",
+          "size": "37 MB",
+          "type": "c1"
+        },
+        {
+          "server": "Mixdrop",
+          "title": "Mixdrop",
+          "iframe": "https://jkanime.net/jkplayer/c1?u=aHR0cHM6Ly9taXhkcm9wLnRvcC9lLzl3MXZ3MW16YnprMTBx&s=mixdrop",
+          "real_url": "https://mixdrop.top/e/9w1vw1mzbzk10q",
+          "lang": "SUB",
+          "size": "37 MB",
+          "type": "c1"
+        },
+        {
+          "server": "Mp4upload",
+          "title": "Mp4upload",
+          "iframe": "https://jkanime.net/jkplayer/c1?u=aHR0cHM6Ly93d3cubXA0dXBsb2FkLmNvbS9lbWJlZC1vd3UxbWNxcWxybG4uaHRtbA==&s=mp4upload",
+          "real_url": "https://www.mp4upload.com/embed-owu1mcqqlrln.html",
+          "lang": "SUB",
+          "size": "37 MB",
+          "type": "c1"
+        },
+        {
+          "server": "Streamtape",
+          "title": "Streamtape",
+          "iframe": "https://jkanime.net/jkplayer/c1?u=aHR0cHM6Ly9zdHJlYW10YXBlLmNvbS9lL2Jweno3UnBCQllpUFpSeS9oeWFhYWFraWlpeWFrb3V1c2hvdXVld3NzLTAzLm1wNA==&s=streamtape",
+          "real_url": "https://streamtape.com/e/bpzz7RpBBYiPZRy/hyaaaakiiiyakouushouuewss-03.mp4",
+          "lang": "SUB",
+          "size": "37 MB",
+          "type": "c1"
+        },
+        {
+          "server": "Doodstream",
+          "title": "Doodstream",
+          "iframe": "https://jkanime.net/jkplayer/c1?u=aHR0cHM6Ly9kc3ZwbGF5LmNvbS9lL2Z3NG9qYzg3b3pjZg==&s=doodstream",
+          "real_url": "https://dsvplay.com/e/fw4ojc87ozcf",
+          "lang": "SUB",
+          "size": "37 MB",
+          "type": "c1"
+        }
+      ],
+      "downloads": [
+        {
+          "server": "Mediafire",
+          "size": "37 MB",
+          "lang": "SUB",
+          "url": "https://c1.jkplayers.com/d/cF2W9491mSfpa/"
+        },
+        {
+          "server": "Mega",
+          "size": "37 MB",
+          "lang": "SUB",
+          "url": "https://c1.jkplayers.com/d/HF019453qo3Lf/"
+        },
+        {
+          "server": "Streamwish",
+          "size": "37 MB",
+          "lang": "SUB",
+          "url": "https://c1.jkplayers.com/d/FS8p9442NE2gB/"
+        },
+        {
+          "server": "VOE",
+          "size": "37 MB",
+          "lang": "SUB",
+          "url": "https://c1.jkplayers.com/d/3XkC9447EL7Wt/"
+        },
+        {
+          "server": "Vidhide",
+          "size": "37 MB",
+          "lang": "SUB",
+          "url": "https://c1.jkplayers.com/d/gQKM9470sjEpL/"
+        },
+        {
+          "server": "Filemoon",
+          "size": "37 MB",
+          "lang": "SUB",
+          "url": "https://c1.jkplayers.com/d/5AlO94459C1EU/"
+        },
+        {
+          "server": "Mixdrop",
+          "size": "37 MB",
+          "lang": "SUB",
+          "url": "https://c1.jkplayers.com/d/FwmQ9446mefNG/"
+        },
+        {
+          "server": "Mp4upload",
+          "size": "37 MB",
+          "lang": "SUB",
+          "url": "https://c1.jkplayers.com/d/0cnk94233X4km/"
+        },
+        {
+          "server": "Streamtape",
+          "size": "37 MB",
+          "lang": "SUB",
+          "url": "https://c1.jkplayers.com/d/0h6D9453MX3k1/"
+        },
+        {
+          "server": "Doodstream",
+          "size": "37 MB",
+          "lang": "SUB",
+          "url": "https://c1.jkplayers.com/d/ZVgo9494EFihF/"
+        }
+      ],
+      "screenshot": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6ff745735a909846bf6c85496882ae7a.jpg"
+    },
+    {
+      "title": "Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Tami no Tame ni Tsukushimasu. Season 2",
+      "episode": "3",
+      "slug": "higeki-no-genkyou-to-naru-saikyou-gedou-last-boss-joou-wa-tami-no-tame-ni-tsukushimasu-season-2",
+      "url": "https://jkanime.net/higeki-no-genkyou-to-naru-saikyou-gedou-last-boss-joou-wa-tami-no-tame-ni-tsukushimasu-season-2/3/",
+      "image_url": "https://cdn.jkdesa.com/assets/images/animes/video/image/jkvideo_4458bc8e668a609b5952827d95185887.jpg",
+      "cover_url": "https://cdn.jkdesa.com/assets/images/animes/image/higeki-no-genkyou-to-naru-saikyou-gedou-last-boss-joou-wa-tami-no-tame-ni-tsukushimasu-season-2.jpg",
+      "aired": "Hoy",
+      "servers": [
+        {
+          "server": "Desu",
+          "title": "Desu",
+          "iframe": "https://jkanime.net/jkplayer/um?e=RFNQTlZhdVJqcmQxVnZvbUtXWkllWi8yWHJOblNsMUlZbnlKKzVubnJyeTc1NkhUTmViSzNud25NUUwxbUZIWVRjaVVKaUFmSkVFdm1rRUhNNnZYOHFXYWxoQXhCUHk5K0NNZS9NaGx4V009OjokyNtn2Yv3RJF6xXoTUUYF&t=4458bc8e668a609b5952827d95185887&op=NzI2NjU=",
+          "lang": "SUB",
+          "type": "jk"
+        },
+        {
+          "server": "Magi",
+          "title": "Magi",
+          "iframe": "https://jkanime.net/jkplayer/umv?e=bW9wclJCbDZSL2owNmxreStlakNkYjAzUzEyYW9vNUpmSmFUdU44NnE4N1c0cHIwU1RBcVZLZTVPMkFYUE9iRTh4d3drR3J2WHFKT2dmaDlNUVJxalRtL0lJN0JEQ2IxcW1XSlpRZ0czMGc9OjqCdYaEsNXtrhZv3JEW9PyD&t=4458bc8e668a609b5952827d95185887",
+          "lang": "SUB",
+          "type": "jk"
+        },
+        {
+          "server": "Mega",
+          "title": "Mega",
+          "iframe": "https://jkanime.net/jkplayer/c1?u=aHR0cHM6Ly9tZWdhLm56L2VtYmVkLzJucFFVQ2pCI0t3ZW81UUdFSVduUlU0bThvLXdvX2FJN0VTRWo0OVFUN0lUSmlUeHlnRDgK&s=mega",
+          "real_url": "https://mega.nz/embed/2npQUCjB#Kweo5QGEIWnRU4m8o-wo_aI7ESEj49QT7ITJiTxygD8",
+          "lang": "SUB",
+          "size": "274 MB",
+          "type": "c1"
+        },
+        {
+          "server": "Streamwish",
+          "title": "Streamwish",
+          "iframe": "https://jkanime.net/jkplayer/c1?u=aHR0cHM6Ly9zZmFzdHdpc2guY29tL2UvZGl1ZzRuMmdkMTdu&s=streamwish",
+          "real_url": "https://sfastwish.com/e/diug4n2gd17n",
+          "lang": "SUB",
+          "size": "274 MB",
+          "type": "c1"
+        },
+        {
+          "server": "VOE",
+          "title": "VOE",
+          "iframe": "https://jkanime.net/jkplayer/c1?u=aHR0cHM6Ly92b2Uuc3gvZS81dXFlZ20xbmxhbHI=&s=voe",
+          "real_url": "https://voe.sx/e/5uqegm1nlalr",
+          "lang": "SUB",
+          "size": "274 MB",
+          "type": "c1"
+        },
+        {
+          "server": "Vidhide",
+          "title": "Vidhide",
+          "iframe": "https://jkanime.net/jkplayer/c1?u=aHR0cHM6Ly92aWRoaWRldmlwLmNvbS9lbWJlZC85aXVnMDN4a2FzYW0=&s=vidhide",
+          "real_url": "https://vidhidevip.com/embed/9iug03xkasam",
+          "lang": "SUB",
+          "size": "274 MB",
+          "type": "c1"
+        },
+        {
+          "server": "Filemoon",
+          "title": "Filemoon",
+          "iframe": "https://jkanime.net/jkplayer/c1?u=aHR0cHM6Ly9ieXNla296ZS5jb20vZS9iOXp6dThqeWRzaWkv&s=filemoon",
+          "real_url": "https://bysekoze.com/e/b9zzu8jydsii/",
+          "lang": "SUB",
+          "size": "274 MB",
+          "type": "c1"
+        },
+        {
+          "server": "Mixdrop",
+          "title": "Mixdrop",
+          "iframe": "https://jkanime.net/jkplayer/c1?u=aHR0cHM6Ly9taXhkcm9wLnRvcC9lL3BqNHpqNGcxYWdncjAzOA==&s=mixdrop",
+          "real_url": "https://mixdrop.top/e/pj4zj4g1aggr038",
+          "lang": "SUB",
+          "size": "274 MB",
+          "type": "c1"
+        },
+        {
+          "server": "Mp4upload",
+          "title": "Mp4upload",
+          "iframe": "https://jkanime.net/jkplayer/c1?u=aHR0cHM6Ly93d3cubXA0dXBsb2FkLmNvbS9lbWJlZC01YjBrMG0zZHBqaG8uaHRtbA==&s=mp4upload",
+          "real_url": "https://www.mp4upload.com/embed-5b0k0m3dpjho.html",
+          "lang": "SUB",
+          "size": "274 MB",
+          "type": "c1"
+        },
+        {
+          "server": "Streamtape",
+          "title": "Streamtape",
+          "iframe": "https://jkanime.net/jkplayer/c1?u=aHR0cHM6Ly9zdHJlYW10YXBlLmNvbS9lL0owdnZ2TFI4R3lGakxkWi9oaWlpaWdlb3VnZWRvdWxhc3Nib3Nzam91dXRhbWkybnNlYXNvbnNzLTAzLm1wNA==&s=streamtape",
+          "real_url": "https://streamtape.com/e/J0vvvLR8GyFjLdZ/hiiiigeougedoulassbossjouutami2nseasonss-03.mp4",
+          "lang": "SUB",
+          "size": "274 MB",
+          "type": "c1"
+        },
+        {
+          "server": "Doodstream",
+          "title": "Doodstream",
+          "iframe": "https://jkanime.net/jkplayer/c1?u=aHR0cHM6Ly9kc3ZwbGF5LmNvbS9lL29jeWhiYTJ6eDg3Zw==&s=doodstream",
+          "real_url": "https://dsvplay.com/e/ocyhba2zx87g",
+          "lang": "SUB",
+          "size": "274 MB",
+          "type": "c1"
+        }
+      ],
+      "downloads": [
+        {
+          "server": "Mediafire",
+          "size": "274 MB",
+          "lang": "SUB",
+          "url": "https://c1.jkplayers.com/d/nves9421DMzwN/"
+        },
+        {
+          "server": "Mega",
+          "size": "274 MB",
+          "lang": "SUB",
+          "url": "https://c1.jkplayers.com/d/LV5m93438hDHA/"
+        },
+        {
+          "server": "Streamwish",
+          "size": "274 MB",
+          "lang": "SUB",
+          "url": "https://c1.jkplayers.com/d/D6Ay93184cNud/"
+        },
+        {
+          "server": "VOE",
+          "size": "274 MB",
+          "lang": "SUB",
+          "url": "https://c1.jkplayers.com/d/buRx9335qHB2p/"
+        },
+        {
+          "server": "Vidhide",
+          "size": "274 MB",
+          "lang": "SUB",
+          "url": "https://c1.jkplayers.com/d/GB4F9364uL90t/"
+        },
+        {
+          "server": "Filemoon",
+          "size": "274 MB",
+          "lang": "SUB",
+          "url": "https://c1.jkplayers.com/d/Xujx9325pRcBZ/"
+        },
+        {
+          "server": "Mixdrop",
+          "size": "274 MB",
+          "lang": "SUB",
+          "url": "https://c1.jkplayers.com/d/hqV29330GynXp/"
+        },
+        {
+          "server": "Mp4upload",
+          "size": "274 MB",
+          "lang": "SUB",
+          "url": "https://c1.jkplayers.com/d/zeTI9306QKYns/"
+        },
+        {
+          "server": "Streamtape",
+          "size": "274 MB",
+          "lang": "SUB",
+          "url": "https://c1.jkplayers.com/d/unOW9347XRxv8/"
+        },
+        {
+          "server": "Doodstream",
+          "size": "274 MB",
+          "lang": "SUB",
+          "url": "https://c1.jkplayers.com/d/qLXR9376eBUSF/"
+        }
+      ],
+      "screenshot": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_4458bc8e668a609b5952827d95185887.jpg"
+    },
     {
       "title": "Tongari Boushi no Atelier",
       "episode": "4",
@@ -14,14 +2015,14 @@
         {
           "server": "Desu",
           "title": "Desu",
-          "iframe": "https://jkanime.net/jkplayer/um?e=NExrRGE4Vk9WZmZmNldlSVROM2FjSTFTbVRvR1VOVjJXVWpSdHJyQmgzWVVQUVJ4MUc2WHh1Z2h4SEE2TTZKKzFhVjRJYk9PVEhKbTV1Z0tGUU9zTFkxOG1kRGIrejRtV2ZYc0lvT0Z4NUE9Ojp1t4NlBIN.E4buyF8URAjB&t=a144d4679f7ddd61fee5ff9bc703a5c6&op=NzI2NjM=",
+          "iframe": "https://jkanime.net/jkplayer/um?e=ODhXdzd5M3E3T0JKalpFdWIwdWdWOHBwSzFRTnFTU21sNWhCdXhUWU53TVI1UjFXY1dlVVZDM0dRSzdZdmZCc0lYMXRGNWhXM2NKdG1JNmZ0bXlVL0JyNVEzbHFoRjZFM0ZZbCs4RUwxZnc9OjrVnb3KYDxZHK04em9hEqDp&t=a144d4679f7ddd61fee5ff9bc703a5c6&op=NzI2NjM=",
           "lang": "SUB",
           "type": "jk"
         },
         {
           "server": "Magi",
           "title": "Magi",
-          "iframe": "https://jkanime.net/jkplayer/umv?e=RGQ1S3VPbHlzYmNxTzloaVMvcGlRNWxvWm95WHNFSVNpWDlJREN3NVpTam83VzJKTk1pZGZsMXp3SVkzaldvZGJNa1JLZlcyazRVQWdLR1kzTldJejIrcmZvZjFBeDNERk1XWnVYQlZNWlU9Ojrv8.fV4R7vscKehbiYqv.H&t=a144d4679f7ddd61fee5ff9bc703a5c6",
+          "iframe": "https://jkanime.net/jkplayer/umv?e=eVYwZTB6bzdzalpWUzRNRVNWa0tSTnNYL0xaQUVIRmgzMFVMUVNaL1RKZFNzM09vQmoxYlJadi9OUWNXUzA3bVJEZTJ5Tlh0T29ON1RMcU4ybUwybzViOVg2R2tYaS8yMkRBS1ZXZVZwMDQ9OjoTXBHccdLRMRd.S5tPGdks&t=a144d4679f7ddd61fee5ff9bc703a5c6",
           "lang": "SUB",
           "type": "jk"
         },
@@ -183,14 +2184,14 @@
         {
           "server": "Desu",
           "title": "Desu",
-          "iframe": "https://jkanime.net/jkplayer/um?e=Zks5dmh5VXkvcVV2ZC8yVjJhNkNWVUVPSEFaTnV2c0dQbXlpeExwYjlKNDNjRk9QbXdtY1dCM0gySGZFUUZFTHlMemdOblNndHdDN2VNVE1tVlhKdXhDUmVPc3lZZjZCVzA2M1lMaXFTOWs9OjoGkFLbPEEhr2PwEod2Fff9&t=e9b300faadd7076dc479ece2cca804e0&op=NzI2NjI=",
+          "iframe": "https://jkanime.net/jkplayer/um?e=dHM5aFJyMUxna21mRzZBcEE0bUt5Ulk3QWpYR3UrZWxGeElRZnEwblNZYlVsaUVVemN4aXNFN3VoTG1XeDhzWkdHcVV6TmF3UlRKTW5vODNOZVRLVk54MkpIOWcvWnNiK3FYbGc5cHVFb3c9Ojr9sp_VTvqCeqJhDvdgJQjx&t=e9b300faadd7076dc479ece2cca804e0&op=NzI2NjI=",
           "lang": "SUB",
           "type": "jk"
         },
         {
           "server": "Magi",
           "title": "Magi",
-          "iframe": "https://jkanime.net/jkplayer/umv?e=Nkk1QjU4Z2IvdGdIbWpGeG9aT0hJQ2cweEtTZmZFRW40RGIyRUEycG1BalROTXB0N2VVRlZLYWxzdldsTGd4L1RWeHJMbkhBZ0xkSTFITldIWmdKQzV1SmRaQ0VXMTB2Slhrci9Ecm8wYzA9OjruVSZ.4hjwGtc5eX954ZMS&t=e9b300faadd7076dc479ece2cca804e0",
+          "iframe": "https://jkanime.net/jkplayer/umv?e=Q05iaGVIRlpWVXMzbjkyRzNVNmZLZkpBSjAyL2IxMlZCNWpLUVVWWll1VXErSW9nZnhIUjgwNG5YYUk4alE3RGlGcmFzcjkyUW00RTBnRnBSSk0vUVZaZlFUQ2xSd2J6ZDAwSlFkRnBnZUE9OjrF4FtT39Oo4vHlpMykWdrw&t=e9b300faadd7076dc479ece2cca804e0",
           "lang": "SUB",
           "type": "jk"
         },
@@ -346,14 +2347,14 @@
         {
           "server": "Desu",
           "title": "Desu",
-          "iframe": "https://jkanime.net/jkplayer/um?e=d25kQTQ0NXNnRjlyMUJrTTZXTklwN2F0WVkxa1NwNkl2QyswTVI3WFZURDYxcFFiMGV1T05rZmgvL0FKYmZHS1ZtUFNGUndUQ1ZQYm9uMVFQZDh5VU01ZVpaZDdZSnRkekZGVUZ6Sk84Yk09OjoUZ2nFw__MDTgthX0_7Hqa&t=6fe97367bf5506af8a31f25090a93122&op=NzI2NjE=",
+          "iframe": "https://jkanime.net/jkplayer/um?e=VWFNcGdPalpGVkdONFBGdlBnWkxTKzkrOEJXak0wajl1SGd3RVVPbmRPZDdybE1LZzZXazVzVUFRMWxZa09WdUwxYnNIY1lDYUhpUEcva1NibjVLNktKY1YwZENpRUNIWXMxNGFJM3JUVGs9OjptgZbcLmPH7ONRR3ZggaVY&t=6fe97367bf5506af8a31f25090a93122&op=NzI2NjE=",
           "lang": "SUB",
           "type": "jk"
         },
         {
           "server": "Magi",
           "title": "Magi",
-          "iframe": "https://jkanime.net/jkplayer/umv?e=eGdLVDB3bFRTZHlNYnVYc2FLSGU1ZXFwanZmY3RYODJXVCttTndxVU1FSmZrUlhrM1JtbTZ0MjFPR2NOU2YzN3BYMlkxZWM0eCtGNnBQTm9Rc2xpQzQwcVdYK0lIbm5xZVh6bUJzWkt1NnM9OjqVW8TzsrnDVmLg3JC9tBuf&t=6fe97367bf5506af8a31f25090a93122",
+          "iframe": "https://jkanime.net/jkplayer/umv?e=cUl2MWQ1MTJQSjFESDBRcWJlblYrakthS21QMWpyY2hLcVdLVHpJbEJyTXBMeHU4cVYyTWxNL1JseXZFMVROVmJBMmdFdzMrQzVGblJyTWpXa09pOTJtNkkxNU9pWnJiTFQ2dVZtcXI0dVk9OjqmdCacmORG9Ome_08ChqL8&t=6fe97367bf5506af8a31f25090a93122",
           "lang": "SUB",
           "type": "jk"
         },
@@ -500,14 +2501,14 @@
         {
           "server": "Desu",
           "title": "Desu",
-          "iframe": "https://jkanime.net/jkplayer/um?e=dDdsTS82blFOd09UVXNTVWpqSG9uMVBKNmNucHRwc2l0TnJiV0FDemF1Z2wyVG1yZlJGRG5vMHdKVkVSQ0NtdnNCZU44N1VCVkhyU1I2Zy9nRGZOcUE9PTo6E03f0VQq1kPavdk7rKeR4w--&t=d3632e26bc751794775d0a0723cebd76&op=NzI2NjA=",
+          "iframe": "https://jkanime.net/jkplayer/um?e=bzEva3pBU3JSd1VKWjNXelV5VkNXc2tmSFFuRVdzejdBL1M5cXQ2dk56Z3RsVmoxTzZRRXBqbGNtb1BmSExvSjAwRnFINDk1Y0sva1lYRTNhR0p5Rmc9PTo6ckq54UVzjQs1.J2MveZpsg--&t=d3632e26bc751794775d0a0723cebd76&op=NzI2NjA=",
           "lang": "SUB",
           "type": "jk"
         },
         {
           "server": "Magi",
           "title": "Magi",
-          "iframe": "https://jkanime.net/jkplayer/umv?e=M1dHbEtwOC9KMGg3Zm1NMnpFd2ZZL2FTYWJ4a3V0U3I4SkVwRUFSL0p2MjRuSW1XTkJaNUVwSzZ4bC8wdEM0T0Nxd0hYSzF3ZTJFOCtEVjVWaUo0UGc9PTo6fsx7EvJvZLd0rLPy5lwWrg--&t=d3632e26bc751794775d0a0723cebd76",
+          "iframe": "https://jkanime.net/jkplayer/umv?e=QzI4VE9NSzNkc2xCWGpLL2NsZEZrUXJVNjg5RndZdmJiZitieDZEdHcxcVJvcjJJU1M1RjRyWVZIWVBpYkZmcG1kSEQ1M3BzYUpKZ2ZkZ1JVWHJpcWc9PTo6fsoHKMPUwoz5czlfQd1URQ--&t=d3632e26bc751794775d0a0723cebd76",
           "lang": "SUB",
           "type": "jk"
         },
@@ -669,14 +2670,14 @@
         {
           "server": "Desu",
           "title": "Desu",
-          "iframe": "https://jkanime.net/jkplayer/um?e=MFlScFViaWRZVUdCSVpveStNTDFIUm84ZXJDSjc0d1NldXpjeTFIR0FUZjZjei9PZmJuV1I5elhIMkUzVWZZd3V4clN6OStxdjhzdDZkNEJnRnB6QW1VZUVHOXFkNVRjL2hobWJGRWhUWkE9OjpM6bLRleeXGEtcjEqwt2db&t=abc2979b6b44127e82a63d997e47ee89&op=NzI2NTk=",
+          "iframe": "https://jkanime.net/jkplayer/um?e=SDNVT2VTcnc4YzhERTgwZ0w4Snh0a2Jac1JSaDdrRmRhMTlzdjFaVUpDb1V1STd1WFVIbVJnNE5lRWVUWFFZdGorVjZXNmNlc0Qzck9OdnR6TTBvZWU1MXMrM0IxeEZRTE9yVGRYbHQrWGc9OjrCt19Y43DzdaiRkIyrjy_P&t=abc2979b6b44127e82a63d997e47ee89&op=NzI2NTk=",
           "lang": "SUB",
           "type": "jk"
         },
         {
           "server": "Magi",
           "title": "Magi",
-          "iframe": "https://jkanime.net/jkplayer/umv?e=RGJEc3RZL25UQnpodHF6amtGYnVCVE8zbEhUMnJpVHJuUkJIVmpKQ2liUTFKdVlZc3N6anM5azRJdnFrVDNsSG1uOGpQWlFNczJFdmR5R2hHR2EzTTZIM3ZEZVlrWGJrMWdOTUVUMklYTXM9OjprbUlcmy2veUuVbZmupR3f&t=abc2979b6b44127e82a63d997e47ee89",
+          "iframe": "https://jkanime.net/jkplayer/umv?e=aWhsRW5WeE1YNHZWZWJHd1dyaHp5elNZc21KS0pCaVhXMVVaYWhieHdFL1FSOU9HL3pSS1dqSDFmb3RVeDAyL2VIZEVyOVBWT2lPaXpibGp0dkFxaTBySGg1ZG1jNXFtcmNvUm1wZGZuWlk9OjrjCx6NQnu6U5INhcULvVrm&t=abc2979b6b44127e82a63d997e47ee89",
           "lang": "SUB",
           "type": "jk"
         },
@@ -838,14 +2839,14 @@
         {
           "server": "Desu",
           "title": "Desu",
-          "iframe": "https://jkanime.net/jkplayer/um?e=b2VDNEUvV3dycnB6N1pmc1NTaXZXdU1qSUxxQXd4SGJ0N2o3dnpyOTVHcFJGSHFqWDdQZFhhWjlER3JCaXpBNXJJK1FoMVlxUVhBdk5ETVNEdDNrY1E9PTo6zB0KWlhRy9D0THptnyVnMw--&t=0aa143ebbb79710dffbbb8f7221a40bf&op=NzI2NTg=",
+          "iframe": "https://jkanime.net/jkplayer/um?e=NzJRSGxXTWVWQktMRVUyQk5pVjVqQUJpSW9FTUFEb2piVE8yZytsTTRmeFNDTFBYYjBPc3d2akc3TmMyblZqVnRsdlY0Q2graFJWWUtQaXRGa1JwR0E9PTo65XyGEu5Ebc7R2.q3AvZsOQ--&t=0aa143ebbb79710dffbbb8f7221a40bf&op=NzI2NTg=",
           "lang": "SUB",
           "type": "jk"
         },
         {
           "server": "Magi",
           "title": "Magi",
-          "iframe": "https://jkanime.net/jkplayer/umv?e=UWFubkNycFhRNnBBaWpOUVhVRE9PeHBpZ2JCQ0NpUDVndjFPNHBqckRYcXcyWHN4eXJVOGc5QUd4VysyUzJ2a0JUcDlSZ3BDaExSM2d5UUR5enFQK3c9PTo6BT_OBeKZJCnoA2NQbGovtQ--&t=0aa143ebbb79710dffbbb8f7221a40bf",
+          "iframe": "https://jkanime.net/jkplayer/umv?e=Q3hGbGNISWIwd05kekR5QnBvZ3dXVkVlaUtES2RRRmlETkFhWXNHcWxLcDFaU0ZlL204dys5RmV2VHVQTmt0WCs3eGVtLzhQMGVqOW8rTkV2b202QkE9PTo6ZXKcgoTDZuudGSIlyy4u0g--&t=0aa143ebbb79710dffbbb8f7221a40bf",
           "lang": "SUB",
           "type": "jk"
         },
@@ -1007,14 +3008,14 @@
         {
           "server": "Desu",
           "title": "Desu",
-          "iframe": "https://jkanime.net/jkplayer/um?e=NWNVM2QzQ1lXR2xGZXpUTFZTcVV5NG1VN1ZGTHFYbk9STDhKc1BGWS9FbGlQWDhZTVVaMG9Hd0FFTlpvSGNoT2FiNU1iUVlBUkR0Y0NweEkveE0rQTgzKzVjK2xUemVQYmc4bDZOWFFsZHM9OjrTv25aDfp8AG6MwrWP1i1O&t=ac8397a096a75175d782ccb8ccd1c169&op=NzI2NTc=",
+          "iframe": "https://jkanime.net/jkplayer/um?e=ajlSb3RmOHIrKzRIT09CU1dkZnFmd0FQenVEdElJQ0VpM3JzUUEvRVFnTzRSajlKN2MraURCWWZreFMyNnVaL2FYanF2NG41Nm1XSHZEZ0lDVkE2SVhiMzNHK3JnUGtXdFp6SmM0UlpZNFU9OjrEQCnaGpKrhNDRDCQzEbO1&t=ac8397a096a75175d782ccb8ccd1c169&op=NzI2NTc=",
           "lang": "SUB",
           "type": "jk"
         },
         {
           "server": "Magi",
           "title": "Magi",
-          "iframe": "https://jkanime.net/jkplayer/umv?e=MWhyaDhWcGRYQi9DZ3RUWVptQk5hM3JPZU01MFdCamtnNVdXVnM5OVJ5bnpqbVFJSlhMU3U1bmMvNVoxa3VlTk9Td2xYK2JHeUNUdEgzOWt2RXFWU0RGcDFMVkJqWlhxM09kQ2VjZkVnWUU9OjoyG1TsJ5VcZat2Gky5ReYZ&t=ac8397a096a75175d782ccb8ccd1c169",
+          "iframe": "https://jkanime.net/jkplayer/umv?e=RG8vdFFRd2ZSWllwRCttZzMzaEpHY0V4ZUI1YzBTVTRMd1czMUUxa05EOHlkNWk3ZUJkVTJFWUJtSm10Ukg5bmU1bC96bXNhY3NPcHhZZVIwcG1rYVlIMXJPdlJhaHBzSmhzc3h3ckdNNEk9OjpffXG7rgRjCU7.gqPmYfrB&t=ac8397a096a75175d782ccb8ccd1c169",
           "lang": "SUB",
           "type": "jk"
         },
@@ -1176,14 +3177,14 @@
         {
           "server": "Desu",
           "title": "Desu",
-          "iframe": "https://jkanime.net/jkplayer/um?e=TVpuZDlyVE5VS0NlMEE4bTFIWHpuWDZEcW1PVTFaT3R5ZXE0c1FVY1FKRStwWXVKUSsrdXhhQ2xzK05GTlA2UitOMTZwQlczR3dtc1dMaWhhZDF0TllmcVhNNjIzdlB5dUhZK1pvUmJkWkE9Ojrgs..0MtmSAstXFtdxbKzH&t=5d7392f95d59e95c4a5a12a4a007d1f3&op=NzI2NTY=",
+          "iframe": "https://jkanime.net/jkplayer/um?e=cklrTnJLMmxKeW9zZXVOeWVzWHc4MlhMNUZGejVUc0ZRbnQyYVd0MlV4dlZrVFA0eEZhTVdQR1F1S2xSY2tsYWMrQlF6djhDcUpaYmlzS0Vnd1Q5OU4rWDBCbzFYQTNoMlBzOFhCcjY2NTg9OjrIT8VcsXyWvG5yah26Ej_p&t=5d7392f95d59e95c4a5a12a4a007d1f3&op=NzI2NTY=",
           "lang": "SUB",
           "type": "jk"
         },
         {
           "server": "Magi",
           "title": "Magi",
-          "iframe": "https://jkanime.net/jkplayer/umv?e=cURzRWN5OGVuNVpOM3M5a3RneGk1UFZMMis5Q0owNkxLM3dIdjF3TXA0QTJpaC92OERQY1QvVE1sdVo3U1I1dzJheDhCYi95WWw2NkFZSkJEejlaUFRBRVdOQUlITlNhNCtZRmNaTWRqYTg9OjpnxHcGPktxMtrCvXSe.kXB&t=5d7392f95d59e95c4a5a12a4a007d1f3",
+          "iframe": "https://jkanime.net/jkplayer/umv?e=K0Uvam1pQkF5dHRITU9mTnorQUhhdllrcENEeGtIZkMzTzhQSWpEZnBLVXRzMzdUTUlUdm5iWUY2ZUowZGt0MFBBeW5BUUdjdXQvcVU4VEdWT1FxaytPbllmOHNkdWg3S0JaTkZpZmhyWXM9Ojp_D7zU29GA2thChafwrXMO&t=5d7392f95d59e95c4a5a12a4a007d1f3",
           "lang": "SUB",
           "type": "jk"
         },
@@ -1345,14 +3346,14 @@
         {
           "server": "Desu",
           "title": "Desu",
-          "iframe": "https://jkanime.net/jkplayer/um?e=VlN2Z2Rsc3lFUDVaYmY5RmFtOEF3emdxMjVCaVU0dnNja3RTZGRSd2ZiQ3N2QzZMSUQrWWp2YnNhVlo0a2ZZamhnZmVIVlo3ajdVaEJPM3c4UWExQWFHcDBTV3YwVjBWU3Z3Rk5McU96Sm89OjpNUEVoCWKKxyaZzD1VGFQU&t=426fdf36e4d8e40d6fd26187eb3a10bf&op=NzI2NTU=",
+          "iframe": "https://jkanime.net/jkplayer/um?e=MUd2RUI2NzlObG5Sc1gzdXpTdHUyZldYeGFZS05CeHdYTmM5Uld5ejM1QTFwelcvam9vVC9heVMrTmJOaE5XRnFVZDZSdHl3dFhBdGUyRDk1RnZFQTlHL2w5QjFYUFNCYkRneHc2bGY5TjA9OjrL8hXBjsi9Yc3qaxVlfEBv&t=426fdf36e4d8e40d6fd26187eb3a10bf&op=NzI2NTU=",
           "lang": "SUB",
           "type": "jk"
         },
         {
           "server": "Magi",
           "title": "Magi",
-          "iframe": "https://jkanime.net/jkplayer/umv?e=S2pnYWNhOEVEb2VZVHNtNkgrMy8za1JNUythMlAyYkFWZlBaS05zeURtendKejhFSG5oazJ2MWMxM3piVi85blRXR3A1Q0hHL1g4VDVoSWlYVExTMVkra0pubGpoZ3JxMUdNL3hXNXl6VGM9OjqhLkSK_LHQUc9GnelhpUKP&t=426fdf36e4d8e40d6fd26187eb3a10bf",
+          "iframe": "https://jkanime.net/jkplayer/umv?e=SkhmRWRNWWFwZ3dEMXFiMTN4d3pQMnBIc3pkd2dCeU9nNDVjbXpQL3hnbU9kNktBMUZCekIrKzV0cW9zaXdSMXUzNmYyazRvaXExVis1ZGFXT0wvc1lHNFM1eWg3YnlCdzdtQmJHUXAzMlk9OjquptBI3Hgq7lHwDJB.AdgJ&t=426fdf36e4d8e40d6fd26187eb3a10bf",
           "lang": "SUB",
           "type": "jk"
         },
@@ -1514,14 +3515,14 @@
         {
           "server": "Desu",
           "title": "Desu",
-          "iframe": "https://jkanime.net/jkplayer/um?e=WDZvVjdjNHdPaWpFTmFhd0tPeEdUM3NzVjZnbnhSOG9PVXpDVStVTFViemIzRkpMVTVGSlVLc1l3Z3dUS1F1b3lDQ2hKMU9UWG9mS1h5QWdOUE1ZUGhaYndhRFZFUnBuNHZQekZQdUtpVDQ9OjoQK6_EK14Nl4icll8cG.oR&t=5139ab1f3fc1534ce3f7d82117420f2e&op=NzI2NTQ=",
+          "iframe": "https://jkanime.net/jkplayer/um?e=YkVuTTJpc3lxNG95RkhTWWczOUwrZkJmcEpTZU5RSkRjZ1haME9CRHJSb0tXVFp3T2MrVDg2VlZqbWQ4emFHZ2hlU1cxQ3oxd0dHdmJBbjdSbmRPK1N1Z2pQenFYMmp5dWFZZGhFUDVBd289Ojp3gsxJjO_smoFQ0ljdUE.E&t=5139ab1f3fc1534ce3f7d82117420f2e&op=NzI2NTQ=",
           "lang": "SUB",
           "type": "jk"
         },
         {
           "server": "Magi",
           "title": "Magi",
-          "iframe": "https://jkanime.net/jkplayer/umv?e=TnVjYzR2YktxYmg1OGdaSVp1RHg0bk4zVmIxc0JranlERVNYSXJKbUwyMzFNbnJpeW1kelkvR2dLRDN4K2VCVGpFanJMOGRaSFFiNVFTUDJKUHN3T2hZT3JUMEtEZGhsSTA4MTAvVEMxQ1E9Ojr3xmC0lydM1yJ1Kcpy2awn&t=5139ab1f3fc1534ce3f7d82117420f2e",
+          "iframe": "https://jkanime.net/jkplayer/umv?e=Vi9KdWFKTUhDZkEzclpSazFleW9QdXhlVkRyZ1NEemQwR2VJSDJTc0twMXVkd2JrUFdHbE00VDRvWUhUTVBOUVJvRDFVUVE4WFlhUHlkSSthd2J0S2pLSnkwQ3E3eGZlTHFkVlRBbGxDOW89OjrMFapGN9nH6pee2qmspOiJ&t=5139ab1f3fc1534ce3f7d82117420f2e",
           "lang": "SUB",
           "type": "jk"
         },
@@ -1668,14 +3669,14 @@
         {
           "server": "Desu",
           "title": "Desu",
-          "iframe": "https://jkanime.net/jkplayer/um?e=TDY2dDU0VHorNURDSU5yRW5vdWRSWHhDWVJjVWZ2c2J6aUJxNDAydkZ1RWhsd0U3cFlEUUhlakNQNVRhNzFxMDBSRk40TnQ4QXRFYmFSblVDOWxjemg4bHA3RWdrcWQ5aDhsSkNiNjVaN2s9OjqljQjkvFgaLYR1lxQgmWAv&t=d9ed12147defa7fb626ca90dfe987bfc&op=NzI2NTM=",
+          "iframe": "https://jkanime.net/jkplayer/um?e=TFduK0g3eWhnbjBjUnBDWjdMaHgwYlR1UUNEQlE3VHFpZmZUOWVESnU2aEhQaW14ZDV4bHRVQytVbzlCaHlyakQweWsyeWU1a0RKL2Q5TW1tNlNVKzN1QXpOdENFOFlzZ0kxNWF2SnpPNjg9Ojqe5iF1poDVg7wjlBSIt2MV&t=d9ed12147defa7fb626ca90dfe987bfc&op=NzI2NTM=",
           "lang": "SUB",
           "type": "jk"
         },
         {
           "server": "Magi",
           "title": "Magi",
-          "iframe": "https://jkanime.net/jkplayer/umv?e=Ni91L1Njd0NoZmVSL0dIOFY4WmFlU3kyeVdXalhIWHIzaHdUc3p5T3dDeFlWMkRoT2RCOU9ZL1YwbmV4V3ZSRHZVZWRXZFdGUHM4RU5ybnByTGFyMFhBN2ZldU1tMWpWK2pOSHRuSVNpME09OjpVJa1D7iia2iwstUXIhr6s&t=d9ed12147defa7fb626ca90dfe987bfc",
+          "iframe": "https://jkanime.net/jkplayer/umv?e=VU5GemxnWjlPTlc0WlBCUjM2YnJtQmFZbW9UeGRUSjQxbzFXb0x5UTJPdDRkNktXZnM1OGZYTTRUdlcrdFlCSFdTcS9od283NXptd2F3aUM4a1pHNXdEZWZvN0FHaUppTDg4YTZncHVxdTA9Ojo7EbZqfMHMQAk_u3_UhV7v&t=d9ed12147defa7fb626ca90dfe987bfc",
           "lang": "SUB",
           "type": "jk"
         },
@@ -1831,14 +3832,14 @@
         {
           "server": "Desu",
           "title": "Desu",
-          "iframe": "https://jkanime.net/jkplayer/um?e=TW8rYzlPMmszRTJHRE95NFJibmxpcnZEUURsZVVLUWtYbTZ2d3dzaWFad2RmMU9tdVc5ZGJLdS9YczhneDdmWFhLSjhWMm1VT21sQVJ6Rk4rd2VwYTdhT3hCbnBRQlFaMm1CVDdqYm9WWjA9OjqBTdDI2T4nSJzrpS_7kdME&t=2824c37569d8590c6af2fb8a15b6897f&op=NzI2NTI=",
+          "iframe": "https://jkanime.net/jkplayer/um?e=Q3RzWXFTbmoxNmRrRCtEL2JOSlRTN1dSbHFwVy9aR3BWWWQ5ajliWlJrTEp5cVNORVkveHR5VFovZnBIMEpHMm11ZjBBZFdkWWpCeEs4QW5SWDBoSUMvZjFXNk9vWjdIN200dHE0V2V1c2c9OjoIfGGLb3du55dLtYFWeKnY&t=2824c37569d8590c6af2fb8a15b6897f&op=NzI2NTI=",
           "lang": "SUB",
           "type": "jk"
         },
         {
           "server": "Magi",
           "title": "Magi",
-          "iframe": "https://jkanime.net/jkplayer/umv?e=U1F1RUtGVXhpYmpGMkJVSnlUNm1wMXN2cWtNRXhFTGhtWVBodTlMcUo5d3RBa251cGkwelY2VGV1L1RyMG5ubklqd0NtRjFCQlhUR1V6UUk5dnlabml5QWNTR0VXSzVMRVdTZ3czZ2kzQkE9OjpIMEXPQIGTD_QoA3DFu1ol&t=2824c37569d8590c6af2fb8a15b6897f",
+          "iframe": "https://jkanime.net/jkplayer/umv?e=RFRSVVNsNWhyTnpuUXFTODlHdURaaHNJNlpGK2p4OHhtS29xOE5FKzZicmRCTXNzWm1QZ0swY0dxMm5TSkJLU25ia09hWUtiekJnVFBzWUh6cmVvbXdYODVoanF1cWpkYTRvYytQSy9zL1k9Ojo_9zDcidXXEih_ZLwwM0u0&t=2824c37569d8590c6af2fb8a15b6897f",
           "lang": "SUB",
           "type": "jk"
         },
@@ -1985,14 +3986,14 @@
         {
           "server": "Desu",
           "title": "Desu",
-          "iframe": "https://jkanime.net/jkplayer/um?e=RmtPVHlPSmtkTXA4UW1sOFc0ZFdwT1BrTUNmaERrb2c4TG9FQ01jMk03c01WWWliRzJyN3VhVTlSRUZkakxQTmNndnF5VjFoOHJLaDVWZEo3emZmc29PNTRYamE2K2xGVUR3UnQzcUZ6QXM9OjrNwNQBruBsj3OrEghUnD5T&t=2404b5c315a041ff480f63fe4335e690&op=NzI2NTA=",
+          "iframe": "https://jkanime.net/jkplayer/um?e=NGlNWEVxTWhhb3JTcGFMQUFpMGRQMkljWUFGTWw2TEhyc3RUVGxWSzJUZjV6N3Jjd0IwcXJ0cXVQdlY4eHhoTHVZbys0Zm5DVW9YR0lSaCs5OHNxeHNCLzdmSGo5QUdrNEFPSzg4Z1pKR3c9OjpVYCpfRypXgCUzSLO5h6cd&t=2404b5c315a041ff480f63fe4335e690&op=NzI2NTA=",
           "lang": "SUB",
           "type": "jk"
         },
         {
           "server": "Magi",
           "title": "Magi",
-          "iframe": "https://jkanime.net/jkplayer/umv?e=TzNhMlpqQnpLL1I0cXk5VW5HTVpPc1lPSkVEUDR1MjVVZXJDc3hXQVF6NDFwaDQ1dXB1UWdxTzZkVXBtQW9Lb2NGMzlPeVozd1lUTmh1OFJLUHpheStXN2ttOVBZS1Zza0NyR2oxdnVBdms9OjrqRoMBqA7YjDn3.VDUOSyO&t=2404b5c315a041ff480f63fe4335e690",
+          "iframe": "https://jkanime.net/jkplayer/umv?e=enp2Rytib2ZyTmo2ZzlSdW1oNnpUb1hjeHlsVzJjdWdqS2ZMUGZXM1FFUGVNWnVjZ3VUWlFMYXF2YnBEZE9ET1VhNGc1UHNyMldLV0NUVGQzdU9XWWdMK2wxbzgxWGZkNjBmSjdCSGc4N0U9Ojrh1keaamDaDglAsN3PhkEC&t=2404b5c315a041ff480f63fe4335e690",
           "lang": "SUB",
           "type": "jk"
         },
@@ -2154,14 +4155,14 @@
         {
           "server": "Desu",
           "title": "Desu",
-          "iframe": "https://jkanime.net/jkplayer/um?e=dEg5cXZoMmRla0s2bGU5S0JNOTJtZWhKM3pDWmhGY0RsRGFwSmxBUi9ET3BrdTFERFJhU3ZQZDRUUFdvRFFxZW5Cd1RFTmhUZmlHVjV3RXl4K3FiaTBkMEx5cUFBMDlwUnZNMUpqRlJRYUxVSDlVRHJta0d0TWh1U3l0R0xKZU86OtJTrbZkgcLv7DYUunj9sSw-&t=5b875e2a2082b3d50cfd9220dae7cc2e&op=NzI2NDk=",
+          "iframe": "https://jkanime.net/jkplayer/um?e=dkpJR05obGFCVlpQMHY1dmpPUzY2WTNBbWJ5V0R1YkszbTF0TEduaXpIRGErUjNTNUNxSDA2QzVCelBUbzVISHFycU4ydEhKNUZXTzZBNGdnT21JRXVPZWh3SkMwLzh0MUIyVzNLbEhWMHZqV3VGMU9uRURzeHNudWMvSlpVSHQ6Oim_k9i7_byxNx5Kfu2l1Qk-&t=5b875e2a2082b3d50cfd9220dae7cc2e&op=NzI2NDk=",
           "lang": "SUB",
           "type": "jk"
         },
         {
           "server": "Magi",
           "title": "Magi",
-          "iframe": "https://jkanime.net/jkplayer/umv?e=VE5uSGpJL2tOb2M4NVJqUU1sRmE5R1ZKNEpYdldsTGxjR1BmUTR5SW4raUtES0dXeGlwWHcrMlhXOHVKdTZPSTM0Tnl4ZVhmSHdyTVR3S2p1VmUyR1l4MHdhdUtzM2R5RTdBVUJkQjVPeGtrUzRKSjhYNStPc05WZWtseG1jVUw6Osk_sgpGnh2LAyUZz0TopPE-&t=5b875e2a2082b3d50cfd9220dae7cc2e",
+          "iframe": "https://jkanime.net/jkplayer/umv?e=VG9vT2dreU5aU1NFNjRNajFrUzVCazNnUTd6c1ZLVUhjRXRRRm5VWlh0eTBmZ2t0T0l2cExuVG5VcnM5WVRYVHpNZlRSajhxZHFHKzZyMmsvQzArMjFLcFE0L3dGQ051b0IyMngxSnk1cjdUKzA0MUpDZUttWncvV0lWS01PTjY6Osb8KL4IWTdGKugZtyTiaIk-&t=5b875e2a2082b3d50cfd9220dae7cc2e",
           "lang": "SUB",
           "type": "jk"
         },
@@ -2323,14 +4324,14 @@
         {
           "server": "Desu",
           "title": "Desu",
-          "iframe": "https://jkanime.net/jkplayer/um?e=cE8yQXZuWGZWYUt0QzRjRVlib1ZOVVo5NEhXMmxqTW9aM0hKcGJhV0tQZ3lQVXZhLzVYbk5oYXlVZ1NJRENhR3VpU2ZUM2dwQisxZVBRd2FuakJhTGZiYzJkOWZxNVQxOU9Pc2kyWFFyZTNhM1hMaTBmeE5FQVBHc2d0SjBsOVU6Or5PitIkdU55SpK1EetHyDQ-&t=cb0241c48e360798abd42a6cc9be8cd4&op=NzI2NDg=",
+          "iframe": "https://jkanime.net/jkplayer/um?e=clRYOTI0RHBrRWM0NjNRdS9ac2RHL2NDblBHa3RQdSt1SnBGK2oxQkdySmg4cm1XejA2U0dUYUh5a0k4OGQxdHZwRHFhK3FNVFVhZEx2NFByRk5WNTd4bUdHaGZUQ3lYL0VCTGl4NjkzSFE3UHVJdU9kNktWdHlvNk1GMkpSdW46OqC1Zyd3arSgtShcHrRIGXM-&t=cb0241c48e360798abd42a6cc9be8cd4&op=NzI2NDg=",
           "lang": "SUB",
           "type": "jk"
         },
         {
           "server": "Magi",
           "title": "Magi",
-          "iframe": "https://jkanime.net/jkplayer/umv?e=WU80ZnhtRERoU1I1MEUreW51L0xCR0Npd2pyRU5QK2JxRkY5NnBHV3k5WGxlNmUvaWJxYzJRTExNeTYyYXFpRnhwM2lXaXZzY0F5ZkFaVzlRbG1MWUl6c0tRMkp2aUZLd1NodW9BczdjZ1F6bDhFVmhrUnhMcEpyclBWaHBqVlA6OqGiOjstLYo7yVDEY4FeEu8-&t=cb0241c48e360798abd42a6cc9be8cd4",
+          "iframe": "https://jkanime.net/jkplayer/umv?e=WnlPcmtHNk1sUDFoMkwydWtNT2JsRHJUdmRYRmZtR01tZ3JiSVhxTVN1cTlJeGRnZ2RWNkxyRGNESFVXT252SGsxZXMrN1VkOWozelV2THo5bU0rSU13SEhaK0plckh5Uzlmekpmeno2Q1hSMEZjOGFNaGtVTkEyV0xkZjdiL0M6OpGz5LUPWa2X7qCIGRfG_7M-&t=cb0241c48e360798abd42a6cc9be8cd4",
           "lang": "SUB",
           "type": "jk"
         },
@@ -2492,14 +4493,14 @@
         {
           "server": "Desu",
           "title": "Desu",
-          "iframe": "https://jkanime.net/jkplayer/um?e=RGdMSGU1K2svTVkwQmxBMzdxWTdqL3lHeHJRTTJibFBybWtJZy8zOFBXY3BPTXhXVXhjdU5zUW5OdkNHa0hpQXBObTd2ZzVmTkZCT3RZY2crdnZhNUhhSk80MHpESWhsYjFENldXV1M1NEE9OjowYkuSS4Iey5Va.nInq8LB&t=cd8fdcaaf99598f85d7fa9eb5e3c2a34&op=NzI2Mjk=",
+          "iframe": "https://jkanime.net/jkplayer/um?e=L1E5REw5RVE5THpYZWtFOXhWeVJ3bDZiaXF6MlFuRmpTc09rUHNsRHZ5T0dDT1hjZkQ5WWQwUjNyZXB4ZU90WHl6dmVNU0F5QVgwVWUxb1ZKZlBWMHJSVzg3dVlBWkhyZDZkdjdmNXZiSU09OjotSeoSzxeppWJ.y06qZwiF&t=cd8fdcaaf99598f85d7fa9eb5e3c2a34&op=NzI2Mjk=",
           "lang": "SUB",
           "type": "jk"
         },
         {
           "server": "Magi",
           "title": "Magi",
-          "iframe": "https://jkanime.net/jkplayer/umv?e=N2l1blFNcDZvd25lVUt0cWZMR0syT2lsTDRRWTlOY1FnRXQ4bElSWC9nV21zYW40NlFUeEh1QkhuREVuZVh0K05VWlpzWERiQzlpZkFQMkRFUE00RUtvdlRZMWJySzV1QmovdnR0ZDVUU2M9OjqUGUVQGPoIcWNWIHugBbQk&t=cd8fdcaaf99598f85d7fa9eb5e3c2a34",
+          "iframe": "https://jkanime.net/jkplayer/umv?e=ZndKT0hIOXVnYVprS281UWJhV0RPU2doMHo0QmVhU1ZFUEhZREw4ZCtaeDB3Z1B0dnNZeWJGNUo5d0xtTUxCZjVPS2JlVzdrVEcwY3lXNk9WejFoblFwS2k4N2JZUlQ0Z21GSWNxSVQvcjQ9OjoXLPjFC3YcWxGzbvY0eUbJ&t=cd8fdcaaf99598f85d7fa9eb5e3c2a34",
           "lang": "SUB",
           "type": "jk"
         },
@@ -2661,14 +4662,14 @@
         {
           "server": "Desu",
           "title": "Desu",
-          "iframe": "https://jkanime.net/jkplayer/um?e=YlRWcEN4Nyt2K29QdS9rVWRZVEhNL1JsTjQzdktuNVdKcy84VWJqTGhrbmhWaDFFMXlJYTVkN3RPaUFUV0tBQkRKMWZaZGhYVDZOY0hWMUdzd2VDYm50SnRGeXZlR0htNjdhSk9FMUd1a009OjqTycXMoLAyP0vjdRSFWwFz&t=c650474f5655887d7967831b2cb0d63d&op=NzI2Mjg=",
+          "iframe": "https://jkanime.net/jkplayer/um?e=L2ZzSmZ3TktqbmFkOFJKVlhuYmJKN1N2NkZDc3c3dFBSem4vYkdCZENnbzNTRzFoVG5FYW9pTmw0ekVHY2NjQW4xa29mNXhmY0NCYU5QbTlMY1FBUGxwbWFmaUkyVGJxa0pCZVhjbGdGb1U9Ojr2wqjSugucmRPGOdxV9sUr&t=c650474f5655887d7967831b2cb0d63d&op=NzI2Mjg=",
           "lang": "SUB",
           "type": "jk"
         },
         {
           "server": "Magi",
           "title": "Magi",
-          "iframe": "https://jkanime.net/jkplayer/umv?e=ai91K2pFZjJCZ0FISG4rYWQzZll3MVN3SUlaalpSdmxYMjM4TjJXenU3dEdubW1GTzNjT3pPamk1Y0QzdHl6eVQrcUMveFBDSzYyNDlXaWNraWR6Tkc0M3RJTC9Od09rUHhCMXpWdndzL2c9OjrDVANYoY8TRUbEZ8iMRtmg&t=c650474f5655887d7967831b2cb0d63d",
+          "iframe": "https://jkanime.net/jkplayer/umv?e=bk01Q1RHdHNscmZQeExPYWQvb2E3YkJXV1hTQ3ZXb3BGVTlVanZyYmN3Sk9FUTBQWnRHTTFaNE1BODh5UnBYSkhSQTlNZmxGbjlGanRrWlEzalBpTmg0Qzhaek9DcS9MSWRPK0NybExrdzA9OjoJnlyQ6iaV3Ir4E2e_OEXn&t=c650474f5655887d7967831b2cb0d63d",
           "lang": "SUB",
           "type": "jk"
         },
@@ -2815,14 +4816,14 @@
         {
           "server": "Desu",
           "title": "Desu",
-          "iframe": "https://jkanime.net/jkplayer/um?e=cWhaNm1NUWdJTjNRcEU3bnVqZDFWU2ZiWGRrUERtR2FmUjI4NklYbis5SmZtdFhzdUplWXB6dVRZUm9nSGRGNnBwQmo2OHR0ZW4wcUtFdnhYOHZHY00vRk9NNHJma0tnUDBwdllzWisrSUk9OjrNBYcxzBgt5IH7hMFFyGy4&t=2a26569bc7a3e4510aac622066afb176&op=NzI2Mjc=",
+          "iframe": "https://jkanime.net/jkplayer/um?e=Mi9aZTJ0anIydlUzOVJTUnZrVkFCZFJpMjdSdW1hd2p6TzMwMGNIRDRoWDZweEZDdC9XbDdqaGduZ3o4cTF6N3ExOW8xcEVwZzhuNDIwaGxxazVsUjg4NG5zMSt1R2Fha0JZNW9RUTVpd0U9Ojp5O6SCJP04LH9C59GbDPD2&t=2a26569bc7a3e4510aac622066afb176&op=NzI2Mjc=",
           "lang": "SUB",
           "type": "jk"
         },
         {
           "server": "Magi",
           "title": "Magi",
-          "iframe": "https://jkanime.net/jkplayer/umv?e=bE5iOWd6MG9QeGFtNHFNaWRDK3VNa2wzbGZWWGQ0QzVIZjlVbml2ZXg5dEN2eWt1OFpGRi9aNUlXSkNReFVuZy91OGNIZjRiZUN4R0ZyRC9BRjRVVVZKQnZKcEc5bHNXUHpmbS9COU5xM1U9Ojoi2IiCxAaNYZtBRIB9R4CB&t=2a26569bc7a3e4510aac622066afb176",
+          "iframe": "https://jkanime.net/jkplayer/umv?e=ZG5CNUxTNEtwR0kwQjF4ak1Hcm1LTmx6ajlOdGJNTDE0VWhqNFlCSHVMdnBYRmpTOGQ5VkR6MWluYkhLOXduQ2NvOHFiQ29tNU9nZ0piYTNVNm4xRW1peWlUTmpwM1oyc2FCMm5rTlI5NUE9Ojo1w3eQE6K8PNUjh3szDBdj&t=2a26569bc7a3e4510aac622066afb176",
           "lang": "SUB",
           "type": "jk"
         },
@@ -2984,14 +4985,14 @@
         {
           "server": "Desu",
           "title": "Desu",
-          "iframe": "https://jkanime.net/jkplayer/um?e=ZUdhdzEwSlNuNHBBRlI3b2VOZU1mSktya29qNEdiaCtOdXVCUDJFdjFEUkVBODY3VXVqU3pZYVVCRTF6UXkzS1EvREdwRExQbWUraHJWMnlOaXVqMFhWWTVRRE8wVWVUeU1NRkhpSnR3bG89OjqZ2yvjTxrVDSfzff9Ipf4b&t=d65bf2a8b8ee5b8b2f152825c6121145&op=NzI2MDI=",
+          "iframe": "https://jkanime.net/jkplayer/um?e=cUtqMndVcUxTSUZ6RktnaWRhWjVydmJYWDhmMnZHb1VXUFRwb1R0eGl5Tkh0OTh1aWlieVo0Y1hWVUhQOHZtZUdNS3ZSTzVicTRER2IvM1daS2VIb3hQYTkxUUVKMUJ6VngvQnltT2xPQnc9OjrggqA_YkFnjQHf4mVG3gIY&t=d65bf2a8b8ee5b8b2f152825c6121145&op=NzI2MDI=",
           "lang": "SUB",
           "type": "jk"
         },
         {
           "server": "Magi",
           "title": "Magi",
-          "iframe": "https://jkanime.net/jkplayer/umv?e=QmlBeXVhdmFneXNMRlNnNGR3M1pDdmFQK1Y1dmQyQmtSTHVyZTRvaURKL3M3SnUwVUFURHBpcS9wZGJ2WWhDV3pxdFR4MFVvSHl0U0dPNVk3NHhFVnJHa1ExbmdqS3NKVlBjUWNpZENlMk09OjqIBTbWFKPs63pVg6_HdhL0&t=d65bf2a8b8ee5b8b2f152825c6121145",
+          "iframe": "https://jkanime.net/jkplayer/umv?e=TGxKVFl0M1VlL0tuODlubUQvc1R0WTFNQTZEZStHRzI5NHpHWXExVnBSdlVjYllDZjJQRFowL2lkQ2RjVU13Qm10MFZpN01OT0lhL2gzb2xrRm5lUEdBSTNRNHF2S2FySG5IUFkzak4wRk09OjrXXxRKw66m.az.Yd4nunzt&t=d65bf2a8b8ee5b8b2f152825c6121145",
           "lang": "SUB",
           "type": "jk"
         },
@@ -3132,14 +5133,14 @@
         {
           "server": "Desu",
           "title": "Desu",
-          "iframe": "https://jkanime.net/jkplayer/um?e=K3l6akEzQVJvTFdhcms0Y3ZMckpBaC90bjJVc2VaZ2VleXVReDErQlN4cGQ5NnhzV01NVkxaNmhNbGNWOUkzV2lSZUwvS01nd3FGcXFOZjhwZktYa2lYeDlwWTl4RWUvaE5YdmhEdldlTXc9OjpqeXGbPEDpMF_r1r8_0F4g&t=5bc803db7d3f0dd3325737def08c9296&op=NzI2MDE=",
+          "iframe": "https://jkanime.net/jkplayer/um?e=MW5LVjlrenhWWWt0NW5NMnJzZG85VEFaTm5kQ0dETHJVQ2pzRXZPa0xjK2djTGhvUDdmYkRZTkQ1SlltU0R1ZU42b2h1WmN3SXJLZjBrR3l1RW5CYXYvSlE2VTMzQ3dmVHh5Y0Z5ZTFBR2s9OjotvKXyr7uyV9JeYFeUB6Zc&t=5bc803db7d3f0dd3325737def08c9296&op=NzI2MDE=",
           "lang": "SUB",
           "type": "jk"
         },
         {
           "server": "Magi",
           "title": "Magi",
-          "iframe": "https://jkanime.net/jkplayer/umv?e=a1M0WjNla1BYME45UTUyZGpmTHFVRGY2dFNjcDIrV01MeTJ0R3JiL1dnVTM4WmNNTWpDNXhRMnJqanJzWnNWVjlHVUNmSE5NaTBRb3crcWs2Tmg2eUxxdC9mWjRJZDdiaCswMnZxOGpMbzQ9Ojqwx98ibSpkdYSGTt8H.CjD&t=5bc803db7d3f0dd3325737def08c9296",
+          "iframe": "https://jkanime.net/jkplayer/umv?e=R3Z4U3p0aVIyb1NEMVRSMk40TFFZZGc2VU5qRW05VGxtb0QzVzdpaGZ5UHZiQjloV1hycS9rZ1pRakQ5eTVQWjVBWWRhQkpGMmx1bDk4M1l6Q2dMdnRtbTcxR285NmVrS0RUc2QrQ1pwZzA9OjqBb26iU82hKtq6JPlQ64Sw&t=5bc803db7d3f0dd3325737def08c9296",
           "lang": "SUB",
           "type": "jk"
         },
@@ -3290,2004 +5291,6 @@
       "screenshot": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_5bc803db7d3f0dd3325737def08c9296.jpg"
     },
     {
-      "title": "Mao",
-      "episode": "3",
-      "slug": "mao",
-      "url": "https://jkanime.net/mao/3/",
-      "image_url": "https://cdn.jkdesa.com/assets/images/animes/video/image/jkvideo_6d8ee6684ba9f98890b43bf34cfebe25.jpg",
-      "cover_url": "https://cdn.jkdesa.com/assets/images/animes/image/mao.jpg",
-      "aired": "Sábado 18",
-      "servers": [
-        {
-          "server": "Desu",
-          "title": "Desu",
-          "iframe": "https://jkanime.net/jkplayer/um?e=ZklEOG1UYndYajRzakNudHBjYVY5M2lqbS9hdXBWbUo4WmtHazBJWkUvWlNxRDJ0L0ljRWFlV0l0N2ZvYUhpQmdFc2pRbnRTZ3ArM0J2dFRSQ3ZoY1E9PTo6OW8Od8wp2wuWmLb9DuCjIw--&t=6d8ee6684ba9f98890b43bf34cfebe25&op=NzI2MDA=",
-          "lang": "SUB",
-          "type": "jk"
-        },
-        {
-          "server": "Magi",
-          "title": "Magi",
-          "iframe": "https://jkanime.net/jkplayer/umv?e=N1FxWllXemI2NjBTaXBpRFhYanR0ajBIa1JmTUQ0aTRDOE5hZyt4aHRJT3dQSkhwZFN0QkluSlVTWkxhOEFFNGxCRUZUT2UyK2lqdXdzak9KZFRFcEE9PTo6.BuS7l.AtA3_zvkkpYlPJw--&t=6d8ee6684ba9f98890b43bf34cfebe25",
-          "lang": "SUB",
-          "type": "jk"
-        },
-        {
-          "server": "Mega",
-          "title": "Mega",
-          "iframe": "https://jkanime.net/jkplayer/c1?u=aHR0cHM6Ly9tZWdhLm56L2VtYmVkL2s2Z1duQXdiI25KZGdYc2dYMWoxcjJOSWlZcXNYdUVvT0dwWWVSRlpGelp6cFBxclVoOHMK&s=mega",
-          "real_url": "https://mega.nz/embed/k6gWnAwb#nJdgXsgX1j1r2NIiYqsXuEoOGpYeRFZFzZzpPqrUh8s",
-          "lang": "SUB",
-          "size": "281 MB",
-          "type": "c1"
-        },
-        {
-          "server": "Streamwish",
-          "title": "Streamwish",
-          "iframe": "https://jkanime.net/jkplayer/c1?u=aHR0cHM6Ly9zZmFzdHdpc2guY29tL2UvY2FmYXNsbXRoeXZl&s=streamwish",
-          "real_url": "https://sfastwish.com/e/cafaslmthyve",
-          "lang": "SUB",
-          "size": "281 MB",
-          "type": "c1"
-        },
-        {
-          "server": "VOE",
-          "title": "VOE",
-          "iframe": "https://jkanime.net/jkplayer/c1?u=aHR0cHM6Ly92b2Uuc3gvZS9tcWVveDV6MWkyeGQ=&s=voe",
-          "real_url": "https://voe.sx/e/mqeox5z1i2xd",
-          "lang": "SUB",
-          "size": "281 MB",
-          "type": "c1"
-        },
-        {
-          "server": "Vidhide",
-          "title": "Vidhide",
-          "iframe": "https://jkanime.net/jkplayer/c1?u=aHR0cHM6Ly92aWRoaWRldmlwLmNvbS9lbWJlZC94bmJhMjlidXI1MDE=&s=vidhide",
-          "real_url": "https://vidhidevip.com/embed/xnba29bur501",
-          "lang": "SUB",
-          "size": "281 MB",
-          "type": "c1"
-        },
-        {
-          "server": "Filemoon",
-          "title": "Filemoon",
-          "iframe": "https://jkanime.net/jkplayer/c1?u=aHR0cHM6Ly9ieXNla296ZS5jb20vZS95NHB1bWkzZ2oyb2Yv&s=filemoon",
-          "real_url": "https://bysekoze.com/e/y4pumi3gj2of/",
-          "lang": "SUB",
-          "size": "281 MB",
-          "type": "c1"
-        },
-        {
-          "server": "Mixdrop",
-          "title": "Mixdrop",
-          "iframe": "https://jkanime.net/jkplayer/c1?u=aHR0cHM6Ly9taXhkcm9wLnRvcC9lLzY3cG9qejNkZnA4Nms=&s=mixdrop",
-          "real_url": "https://mixdrop.top/e/67pojz3dfp86k",
-          "lang": "SUB",
-          "size": "281 MB",
-          "type": "c1"
-        },
-        {
-          "server": "Mp4upload",
-          "title": "Mp4upload",
-          "iframe": "https://jkanime.net/jkplayer/c1?u=aHR0cHM6Ly93d3cubXA0dXBsb2FkLmNvbS9lbWJlZC1vcW5ybmJ1aTAwcDQuaHRtbA==&s=mp4upload",
-          "real_url": "https://www.mp4upload.com/embed-oqnrnbui00p4.html",
-          "lang": "SUB",
-          "size": "281 MB",
-          "type": "c1"
-        },
-        {
-          "server": "Streamtape",
-          "title": "Streamtape",
-          "iframe": "https://jkanime.net/jkplayer/c1?u=aHR0cHM6Ly9zdHJlYW10YXBlLmNvbS9lL3haVkE5SkdncjhUUUc5L25pbWVzaXRvb29vbWFvc2V3c2V3c3Nzcy0wMy5tcDQ=&s=streamtape",
-          "real_url": "https://streamtape.com/e/xZVA9JGgr8TQG9/nimesitoooomaosewsewssss-03.mp4",
-          "lang": "SUB",
-          "size": "281 MB",
-          "type": "c1"
-        },
-        {
-          "server": "Doodstream",
-          "title": "Doodstream",
-          "iframe": "https://jkanime.net/jkplayer/c1?u=aHR0cHM6Ly9kc3ZwbGF5LmNvbS9lL3BqcW91eHZycmFmdQ==&s=doodstream",
-          "real_url": "https://dsvplay.com/e/pjqouxvrrafu",
-          "lang": "SUB",
-          "size": "281 MB",
-          "type": "c1"
-        }
-      ],
-      "downloads": [
-        {
-          "server": "Mediafire",
-          "size": "281 MB",
-          "lang": "SUB",
-          "url": "https://c1.jkplayers.com/d/wdN31185XlpJe/"
-        },
-        {
-          "server": "Mega",
-          "size": "281 MB",
-          "lang": "SUB",
-          "url": "https://c1.jkplayers.com/d/OzEX1135WMqso/"
-        },
-        {
-          "server": "Streamwish",
-          "size": "281 MB",
-          "lang": "SUB",
-          "url": "https://c1.jkplayers.com/d/56PT1113UBYB2/"
-        },
-        {
-          "server": "VOE",
-          "size": "281 MB",
-          "lang": "SUB",
-          "url": "https://c1.jkplayers.com/d/titC1131E3wVm/"
-        },
-        {
-          "server": "Vidhide",
-          "size": "281 MB",
-          "lang": "SUB",
-          "url": "https://c1.jkplayers.com/d/2tF31153MMezf/"
-        },
-        {
-          "server": "Filemoon",
-          "size": "281 MB",
-          "lang": "SUB",
-          "url": "https://c1.jkplayers.com/d/lj8Q11226hfvQ/"
-        },
-        {
-          "server": "Mixdrop",
-          "size": "281 MB",
-          "lang": "SUB",
-          "url": "https://c1.jkplayers.com/d/ClyX1125FKuHp/"
-        },
-        {
-          "server": "Mp4upload",
-          "size": "281 MB",
-          "lang": "SUB",
-          "url": "https://c1.jkplayers.com/d/gKKv110292oHw/"
-        },
-        {
-          "server": "Streamtape",
-          "size": "281 MB",
-          "lang": "SUB",
-          "url": "https://c1.jkplayers.com/d/s7jL1142YEryG/"
-        },
-        {
-          "server": "Doodstream",
-          "size": "281 MB",
-          "lang": "SUB",
-          "url": "https://c1.jkplayers.com/d/CWYz1179oc9sP/"
-        }
-      ],
-      "screenshot": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6d8ee6684ba9f98890b43bf34cfebe25.jpg"
-    },
-    {
-      "title": "Koupen-chan",
-      "episode": "53",
-      "slug": "koupen-chan",
-      "url": "https://jkanime.net/koupen-chan/53/",
-      "image_url": "https://cdn.jkdesa.com/assets/images/animes/video/image/jkvideo_bfd62b5569be9d501ea6df06753f8934.jpg",
-      "cover_url": "https://cdn.jkdesa.com/assets/images/animes/image/koupen-chan.jpg",
-      "aired": "Sábado 18",
-      "servers": [
-        {
-          "server": "Desu",
-          "title": "Desu",
-          "iframe": "https://jkanime.net/jkplayer/um?e=dktWRDFGemYwOCtIQXFGalpGWlBwOFVPajJ4dmZ4NWQ4V2RlUEpiTmF0TEdaNFh5cnZLYjF4MHhrcGpWUncrUDFSbkg2azYrbU1hR3J1M29ONXlRc0E9PTo6aevXDMQxliOYn5FSdsA4_A--&t=bfd62b5569be9d501ea6df06753f8934&op=NzI1OTk=",
-          "lang": "SUB",
-          "type": "jk"
-        },
-        {
-          "server": "Magi",
-          "title": "Magi",
-          "iframe": "https://jkanime.net/jkplayer/umv?e=d2F0UVBjRnJWeExMS1RHUW1nQVNEYTFzckhPVG9hdFpUcVMyRFE3KytaZjlmMEpjOW1UTkgyRlpXbFFVUGowTXZMdnNpYUxvVzc4OXJNUWNHditkamc9PTo6jN9Ebe1TJDmxi_jLroRXng--&t=bfd62b5569be9d501ea6df06753f8934",
-          "lang": "SUB",
-          "type": "jk"
-        },
-        {
-          "server": "Mega",
-          "title": "Mega",
-          "iframe": "https://jkanime.net/jkplayer/c1?u=aHR0cHM6Ly9tZWdhLm56L2VtYmVkL1Z6aEZTRFlRIzZCbXVIeTBwM3c0aGRXek1rclF2bUhnRE44WWRUQVhkOVBTdFRhSTl3YmsK&s=mega",
-          "real_url": "https://mega.nz/embed/VzhFSDYQ#6BmuHy0p3w4hdWzMkrQvmHgDN8YdTAXd9PStTaI9wbk",
-          "lang": "SUB",
-          "size": "32 MB",
-          "type": "c1"
-        },
-        {
-          "server": "Streamwish",
-          "title": "Streamwish",
-          "iframe": "https://jkanime.net/jkplayer/c1?u=aHR0cHM6Ly9zZmFzdHdpc2guY29tL2UvZmRhZzJuams2dWRw&s=streamwish",
-          "real_url": "https://sfastwish.com/e/fdag2njk6udp",
-          "lang": "SUB",
-          "size": "32 MB",
-          "type": "c1"
-        },
-        {
-          "server": "VOE",
-          "title": "VOE",
-          "iframe": "https://jkanime.net/jkplayer/c1?u=aHR0cHM6Ly92b2Uuc3gvZS9qZmp2eXFwc3Jqb2k=&s=voe",
-          "real_url": "https://voe.sx/e/jfjvyqpsrjoi",
-          "lang": "SUB",
-          "size": "32 MB",
-          "type": "c1"
-        },
-        {
-          "server": "Vidhide",
-          "title": "Vidhide",
-          "iframe": "https://jkanime.net/jkplayer/c1?u=aHR0cHM6Ly92aWRoaWRldmlwLmNvbS9lbWJlZC9lbGQ4ZGlmbmZydXQ=&s=vidhide",
-          "real_url": "https://vidhidevip.com/embed/eld8difnfrut",
-          "lang": "SUB",
-          "size": "32 MB",
-          "type": "c1"
-        },
-        {
-          "server": "Filemoon",
-          "title": "Filemoon",
-          "iframe": "https://jkanime.net/jkplayer/c1?u=aHR0cHM6Ly9ieXNla296ZS5jb20vZS9rdzg0Ym5hOHVreXUv&s=filemoon",
-          "real_url": "https://bysekoze.com/e/kw84bna8ukyu/",
-          "lang": "SUB",
-          "size": "32 MB",
-          "type": "c1"
-        },
-        {
-          "server": "Mixdrop",
-          "title": "Mixdrop",
-          "iframe": "https://jkanime.net/jkplayer/c1?u=aHR0cHM6Ly9taXhkcm9wLnRvcC9lLzAzOW1kcXdnZnE3a2Vw&s=mixdrop",
-          "real_url": "https://mixdrop.top/e/039mdqwgfq7kep",
-          "lang": "SUB",
-          "size": "32 MB",
-          "type": "c1"
-        },
-        {
-          "server": "Mp4upload",
-          "title": "Mp4upload",
-          "iframe": "https://jkanime.net/jkplayer/c1?u=aHR0cHM6Ly93d3cubXA0dXBsb2FkLmNvbS9lbWJlZC1tZWlzZzE5dmY1M3ouaHRtbA==&s=mp4upload",
-          "real_url": "https://www.mp4upload.com/embed-meisg19vf53z.html",
-          "lang": "SUB",
-          "size": "32 MB",
-          "type": "c1"
-        },
-        {
-          "server": "Streamtape",
-          "title": "Streamtape",
-          "iframe": "https://jkanime.net/jkplayer/c1?u=aHR0cHM6Ly9zdHJlYW10YXBlLmNvbS9lL2tMQkcyS1A5akRmT0wxZC9rb3V1dXBlZWVjaGFuc2l0b25pbWV3c3MtNTMubXA0&s=streamtape",
-          "real_url": "https://streamtape.com/e/kLBG2KP9jDfOL1d/kouuupeeechansitonimewss-53.mp4",
-          "lang": "SUB",
-          "size": "32 MB",
-          "type": "c1"
-        },
-        {
-          "server": "Doodstream",
-          "title": "Doodstream",
-          "iframe": "https://jkanime.net/jkplayer/c1?u=aHR0cHM6Ly9kc3ZwbGF5LmNvbS9lL2o2OTZianl4cThleg==&s=doodstream",
-          "real_url": "https://dsvplay.com/e/j696bjyxq8ez",
-          "lang": "SUB",
-          "size": "32 MB",
-          "type": "c1"
-        }
-      ],
-      "downloads": [
-        {
-          "server": "Mediafire",
-          "size": "32 MB",
-          "lang": "SUB",
-          "url": "https://c1.jkplayers.com/d/bYMm1258fAhAf/"
-        },
-        {
-          "server": "Mega",
-          "size": "32 MB",
-          "lang": "SUB",
-          "url": "https://c1.jkplayers.com/d/q7ye1214ayYzM/"
-        },
-        {
-          "server": "Streamwish",
-          "size": "32 MB",
-          "lang": "SUB",
-          "url": "https://c1.jkplayers.com/d/rRUO1204HSkcF/"
-        },
-        {
-          "server": "VOE",
-          "size": "32 MB",
-          "lang": "SUB",
-          "url": "https://c1.jkplayers.com/d/CsUU1209L6ymX/"
-        },
-        {
-          "server": "Vidhide",
-          "size": "32 MB",
-          "lang": "SUB",
-          "url": "https://c1.jkplayers.com/d/dYDM1249Eox85/"
-        },
-        {
-          "server": "Filemoon",
-          "size": "32 MB",
-          "lang": "SUB",
-          "url": "https://c1.jkplayers.com/d/aCCl1207t6RVr/"
-        },
-        {
-          "server": "Mixdrop",
-          "size": "32 MB",
-          "lang": "SUB",
-          "url": "https://c1.jkplayers.com/d/Iwmu1208hmC37/"
-        },
-        {
-          "server": "Mp4upload",
-          "size": "32 MB",
-          "lang": "SUB",
-          "url": "https://c1.jkplayers.com/d/GBnf1182llQlR/"
-        },
-        {
-          "server": "Streamtape",
-          "size": "32 MB",
-          "lang": "SUB",
-          "url": "https://c1.jkplayers.com/d/52qm121543DVU/"
-        },
-        {
-          "server": "Doodstream",
-          "size": "32 MB",
-          "lang": "SUB",
-          "url": "https://c1.jkplayers.com/d/PSkD1264o0bsW/"
-        }
-      ],
-      "screenshot": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_bfd62b5569be9d501ea6df06753f8934.jpg"
-    },
-    {
-      "title": "Detective Conan",
-      "episode": "1198",
-      "slug": "detective-conan",
-      "url": "https://jkanime.net/detective-conan/1198/",
-      "image_url": "https://cdn.jkdesa.com/assets/images/animes/video/image/jkvideo_6fa7dbcdf5e9334f601e51f19ca955b5.jpg",
-      "cover_url": "https://cdn.jkdesa.com/assets/images/animes/image/detective-conan.jpg",
-      "aired": "Sábado 18",
-      "servers": [
-        {
-          "server": "Desu",
-          "title": "Desu",
-          "iframe": "https://jkanime.net/jkplayer/um?e=bDRQd1c1UXdGcFdheUhvWkg0M1RJWnBvOW9NS1hxZW9XbVQ5UnpONzdyOEJGVG1lOHBESGNRWW05dlByQ251NUJKL1JacWx6VkdlMml3Q2h2ZlNkeUE9PTo6OVkxxMi2QALYfUBiOgMXbw--&t=6fa7dbcdf5e9334f601e51f19ca955b5&op=NzI1OTg=",
-          "lang": "SUB",
-          "type": "jk"
-        },
-        {
-          "server": "Magi",
-          "title": "Magi",
-          "iframe": "https://jkanime.net/jkplayer/umv?e=dVBHSW94WGNCeEQ2UUlyU3dvUVpIS2VzUnluczdjM2RzZC8zWmpiVU9vVkFRRUoyUVpSRHhweTcrTGRWY2FaOXpLdlYwaEhVVVFGSktsQ0ZneUJLVmc9PTo6A.wV7ugMxTl0YVKhbIpiXw--&t=6fa7dbcdf5e9334f601e51f19ca955b5",
-          "lang": "SUB",
-          "type": "jk"
-        },
-        {
-          "server": "Mega",
-          "title": "Mega",
-          "iframe": "https://jkanime.net/jkplayer/c1?u=aHR0cHM6Ly9tZWdhLm56L2VtYmVkL1JteHpHTEpLI3V5REpKRUlLc1pMU1BDcGQ0dy1uNk9VR1hVRUpkY2N4YnVEejd5TEJiazgK&s=mega",
-          "real_url": "https://mega.nz/embed/RmxzGLJK#uyDJJEIKsZLSPCpd4w-n6OUGXUEJdccxbuDz7yLBbk8",
-          "lang": "SUB",
-          "size": "247 MB",
-          "type": "c1"
-        },
-        {
-          "server": "Streamwish",
-          "title": "Streamwish",
-          "iframe": "https://jkanime.net/jkplayer/c1?u=aHR0cHM6Ly9zZmFzdHdpc2guY29tL2UvaXltNnFoNmMxeG9n&s=streamwish",
-          "real_url": "https://sfastwish.com/e/iym6qh6c1xog",
-          "lang": "SUB",
-          "size": "247 MB",
-          "type": "c1"
-        },
-        {
-          "server": "VOE",
-          "title": "VOE",
-          "iframe": "https://jkanime.net/jkplayer/c1?u=aHR0cHM6Ly92b2Uuc3gvZS93eXVuMjdicmdhd2I=&s=voe",
-          "real_url": "https://voe.sx/e/wyun27brgawb",
-          "lang": "SUB",
-          "size": "247 MB",
-          "type": "c1"
-        },
-        {
-          "server": "Vidhide",
-          "title": "Vidhide",
-          "iframe": "https://jkanime.net/jkplayer/c1?u=aHR0cHM6Ly92aWRoaWRldmlwLmNvbS9lbWJlZC9zMmRvdTBmeWc1b3o=&s=vidhide",
-          "real_url": "https://vidhidevip.com/embed/s2dou0fyg5oz",
-          "lang": "SUB",
-          "size": "247 MB",
-          "type": "c1"
-        },
-        {
-          "server": "Filemoon",
-          "title": "Filemoon",
-          "iframe": "https://jkanime.net/jkplayer/c1?u=aHR0cHM6Ly9ieXNla296ZS5jb20vZS9vdjg1ZXl3eGMxOG8v&s=filemoon",
-          "real_url": "https://bysekoze.com/e/ov85eywxc18o/",
-          "lang": "SUB",
-          "size": "247 MB",
-          "type": "c1"
-        },
-        {
-          "server": "Mixdrop",
-          "title": "Mixdrop",
-          "iframe": "https://jkanime.net/jkplayer/c1?u=aHR0cHM6Ly9taXhkcm9wLnRvcC9lL3dsa3AwNnhrZjAwOHI2Zw==&s=mixdrop",
-          "real_url": "https://mixdrop.top/e/wlkp06xkf008r6g",
-          "lang": "SUB",
-          "size": "247 MB",
-          "type": "c1"
-        },
-        {
-          "server": "Mp4upload",
-          "title": "Mp4upload",
-          "iframe": "https://jkanime.net/jkplayer/c1?u=aHR0cHM6Ly93d3cubXA0dXBsb2FkLmNvbS9lbWJlZC1mbHN1bnZscjR6dTAuaHRtbA==&s=mp4upload",
-          "real_url": "https://www.mp4upload.com/embed-flsunvlr4zu0.html",
-          "lang": "SUB",
-          "size": "247 MB",
-          "type": "c1"
-        },
-        {
-          "server": "Streamtape",
-          "title": "Streamtape",
-          "iframe": "https://jkanime.net/jkplayer/c1?u=aHR0cHM6Ly9zdHJlYW10YXBlLmNvbS9lL202QlkwbVlYOWdjYm9qeC9kdGVjdGl2ZWVjdW5hbnNpdG9zZXdzc3MtMTE5OC5tcDQ=&s=streamtape",
-          "real_url": "https://streamtape.com/e/m6BY0mYX9gcbojx/dtectiveecunansitosewsss-1198.mp4",
-          "lang": "SUB",
-          "size": "247 MB",
-          "type": "c1"
-        },
-        {
-          "server": "Doodstream",
-          "title": "Doodstream",
-          "iframe": "https://jkanime.net/jkplayer/c1?u=aHR0cHM6Ly9kc3ZwbGF5LmNvbS9lLzNiNGRvY2NrY2llaA==&s=doodstream",
-          "real_url": "https://dsvplay.com/e/3b4docckcieh",
-          "lang": "SUB",
-          "size": "247 MB",
-          "type": "c1"
-        }
-      ],
-      "downloads": [
-        {
-          "server": "Mediafire",
-          "size": "247 MB",
-          "lang": "SUB",
-          "url": "https://c1.jkplayers.com/d/zTIQ5579FluA4/"
-        },
-        {
-          "server": "Mega",
-          "size": "247 MB",
-          "lang": "SUB",
-          "url": "https://c1.jkplayers.com/d/QL2r0995OJkc9/"
-        },
-        {
-          "server": "Streamwish",
-          "size": "247 MB",
-          "lang": "SUB",
-          "url": "https://c1.jkplayers.com/d/IO5f09726BYUe/"
-        },
-        {
-          "server": "VOE",
-          "size": "247 MB",
-          "lang": "SUB",
-          "url": "https://c1.jkplayers.com/d/TWQp09872d6Co/"
-        },
-        {
-          "server": "Vidhide",
-          "size": "247 MB",
-          "lang": "SUB",
-          "url": "https://c1.jkplayers.com/d/Oi3d1013QufQK/"
-        },
-        {
-          "server": "Filemoon",
-          "size": "247 MB",
-          "lang": "SUB",
-          "url": "https://c1.jkplayers.com/d/efmk0979xMnpP/"
-        },
-        {
-          "server": "Mixdrop",
-          "size": "247 MB",
-          "lang": "SUB",
-          "url": "https://c1.jkplayers.com/d/kR2X0983gwaKI/"
-        },
-        {
-          "server": "Mp4upload",
-          "size": "247 MB",
-          "lang": "SUB",
-          "url": "https://c1.jkplayers.com/d/9ni00955WB1v4/"
-        },
-        {
-          "server": "Streamtape",
-          "size": "247 MB",
-          "lang": "SUB",
-          "url": "https://c1.jkplayers.com/d/p8EQ0998RFLdZ/"
-        },
-        {
-          "server": "Doodstream",
-          "size": "247 MB",
-          "lang": "SUB",
-          "url": "https://c1.jkplayers.com/d/3c1G1044RqTeC/"
-        }
-      ],
-      "screenshot": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_6fa7dbcdf5e9334f601e51f19ca955b5.jpg"
-    },
-    {
-      "title": "Shunkashuutou Daikousha: Haru no Mai",
-      "episode": "4",
-      "slug": "shunkashuutou-daikousha-haru-no-mai",
-      "url": "https://jkanime.net/shunkashuutou-daikousha-haru-no-mai/4/",
-      "image_url": "https://cdn.jkdesa.com/assets/images/animes/video/image/jkvideo_d078f4c7908612aaeb251006f9a468c7.jpg",
-      "cover_url": "https://cdn.jkdesa.com/assets/images/animes/image/shunkashuutou-daikousha-haru-no-mai.jpg",
-      "aired": "Sábado 18",
-      "servers": [
-        {
-          "server": "Desu",
-          "title": "Desu",
-          "iframe": "https://jkanime.net/jkplayer/um?e=bVI1T1JvV0dMWFVUZXV0UkxBREFQTkJjMkM5MkI0Uit0eGQySUVEaTROOXFTdEhnVVpNMzZHb0N3eDdRbEpSVEI3YktGdllHdnFFSEFQQUk2NVplUFBzYU9BYWVxNlBNdkt6eWRjR0lYd1ZMWkhYU0J5L29Uci9lUWgrSEc1NlA6OvqU6czLXof.P7KVaoWVTWU-&t=d078f4c7908612aaeb251006f9a468c7&op=NzI1OTc=",
-          "lang": "SUB",
-          "type": "jk"
-        },
-        {
-          "server": "Magi",
-          "title": "Magi",
-          "iframe": "https://jkanime.net/jkplayer/umv?e=aDhrajJXNkk5cm96MXI2NTVjdFFBMURBVDhONkVCa1dJTXlIaVFodTRrQTZUR3NBTXRnNElVaWd6SENMb0RHd05teHprcHQveVpLZ3dPWkovS1BQaFFkanpJUVdLV3JnZ2RKSnBKTXd3aExWK0IwenlYSzF1QU92Ukd5dVFZV2M6OovRNRiUjABFvg0F4tm8mQk-&t=d078f4c7908612aaeb251006f9a468c7",
-          "lang": "SUB",
-          "type": "jk"
-        },
-        {
-          "server": "Mega",
-          "title": "Mega",
-          "iframe": "https://jkanime.net/jkplayer/c1?u=aHR0cHM6Ly9tZWdhLm56L2VtYmVkL3N5Z1cxQ1NCIzRpVUNyam9hVDZhUEl2VFVINWhScExHOTVTMFZjYXhscnN0aXlsZXdqalkK&s=mega",
-          "real_url": "https://mega.nz/embed/sygW1CSB#4iUCrjoaT6aPIvTUH5hRpLG95S0VcaxlrstiylewjjY",
-          "lang": "SUB",
-          "size": "218 MB",
-          "type": "c1"
-        },
-        {
-          "server": "Streamwish",
-          "title": "Streamwish",
-          "iframe": "https://jkanime.net/jkplayer/c1?u=aHR0cHM6Ly9zZmFzdHdpc2guY29tL2UvZDVjY3VjOWpleWJm&s=streamwish",
-          "real_url": "https://sfastwish.com/e/d5ccuc9jeybf",
-          "lang": "SUB",
-          "size": "218 MB",
-          "type": "c1"
-        },
-        {
-          "server": "VOE",
-          "title": "VOE",
-          "iframe": "https://jkanime.net/jkplayer/c1?u=aHR0cHM6Ly92b2Uuc3gvZS85bGlkOWt3aGRwYmw=&s=voe",
-          "real_url": "https://voe.sx/e/9lid9kwhdpbl",
-          "lang": "SUB",
-          "size": "218 MB",
-          "type": "c1"
-        },
-        {
-          "server": "Vidhide",
-          "title": "Vidhide",
-          "iframe": "https://jkanime.net/jkplayer/c1?u=aHR0cHM6Ly92aWRoaWRldmlwLmNvbS9lbWJlZC9ndGM1b3ByMzNyYzY=&s=vidhide",
-          "real_url": "https://vidhidevip.com/embed/gtc5opr33rc6",
-          "lang": "SUB",
-          "size": "218 MB",
-          "type": "c1"
-        },
-        {
-          "server": "Filemoon",
-          "title": "Filemoon",
-          "iframe": "https://jkanime.net/jkplayer/c1?u=aHR0cHM6Ly9ieXNla296ZS5jb20vZS9rcXBpa3hta3NzZWUv&s=filemoon",
-          "real_url": "https://bysekoze.com/e/kqpikxmkssee/",
-          "lang": "SUB",
-          "size": "218 MB",
-          "type": "c1"
-        },
-        {
-          "server": "Mixdrop",
-          "title": "Mixdrop",
-          "iframe": "https://jkanime.net/jkplayer/c1?u=aHR0cHM6Ly9taXhkcm9wLnRvcC9lL2w3bjhsbGs3aWxtMTc0&s=mixdrop",
-          "real_url": "https://mixdrop.top/e/l7n8llk7ilm174",
-          "lang": "SUB",
-          "size": "218 MB",
-          "type": "c1"
-        },
-        {
-          "server": "Mp4upload",
-          "title": "Mp4upload",
-          "iframe": "https://jkanime.net/jkplayer/c1?u=aHR0cHM6Ly93d3cubXA0dXBsb2FkLmNvbS9lbWJlZC1kanZueTVvM3pod2YuaHRtbA==&s=mp4upload",
-          "real_url": "https://www.mp4upload.com/embed-djvny5o3zhwf.html",
-          "lang": "SUB",
-          "size": "218 MB",
-          "type": "c1"
-        },
-        {
-          "server": "Streamtape",
-          "title": "Streamtape",
-          "iframe": "https://jkanime.net/jkplayer/c1?u=aHR0cHM6Ly9zdHJlYW10YXBlLmNvbS9lL0pYRzMyVkpaalZ0aktqcC9zaHV1dXVubm5rYWFhYXNodXV1dG91dWRhaWtvaWl1c2hhaGFydW5vbWFpc3NzLTA0Lm1wNA==&s=streamtape",
-          "real_url": "https://streamtape.com/e/JXG32VJZjVtjKjp/shuuuunnnkaaaashuuutouudaikoiiushaharunomaisss-04.mp4",
-          "lang": "SUB",
-          "size": "218 MB",
-          "type": "c1"
-        },
-        {
-          "server": "Doodstream",
-          "title": "Doodstream",
-          "iframe": "https://jkanime.net/jkplayer/c1?u=aHR0cHM6Ly9kc3ZwbGF5LmNvbS9lL3dpc2o1aTYweWp4Nw==&s=doodstream",
-          "real_url": "https://dsvplay.com/e/wisj5i60yjx7",
-          "lang": "SUB",
-          "size": "218 MB",
-          "type": "c1"
-        }
-      ],
-      "downloads": [
-        {
-          "server": "Mediafire",
-          "size": "218 MB",
-          "lang": "SUB",
-          "url": "https://c1.jkplayers.com/d/5p0T0805T7sox/"
-        },
-        {
-          "server": "Mega",
-          "size": "218 MB",
-          "lang": "SUB",
-          "url": "https://c1.jkplayers.com/d/yOYH0756eGGAo/"
-        },
-        {
-          "server": "Streamwish",
-          "size": "218 MB",
-          "lang": "SUB",
-          "url": "https://c1.jkplayers.com/d/QYW80735dpycL/"
-        },
-        {
-          "server": "VOE",
-          "size": "218 MB",
-          "lang": "SUB",
-          "url": "https://c1.jkplayers.com/d/E1go0749Kr7BB/"
-        },
-        {
-          "server": "Vidhide",
-          "size": "218 MB",
-          "lang": "SUB",
-          "url": "https://c1.jkplayers.com/d/Wy0a07752tDem/"
-        },
-        {
-          "server": "Filemoon",
-          "size": "218 MB",
-          "lang": "SUB",
-          "url": "https://c1.jkplayers.com/d/TrDV0741I5dc4/"
-        },
-        {
-          "server": "Mixdrop",
-          "size": "218 MB",
-          "lang": "SUB",
-          "url": "https://c1.jkplayers.com/d/N2vD0745ZCmwa/"
-        },
-        {
-          "server": "Mp4upload",
-          "size": "218 MB",
-          "lang": "SUB",
-          "url": "https://c1.jkplayers.com/d/ia300716xkMti/"
-        },
-        {
-          "server": "Streamtape",
-          "size": "218 MB",
-          "lang": "SUB",
-          "url": "https://c1.jkplayers.com/d/qu340759hS8Tv/"
-        },
-        {
-          "server": "Doodstream",
-          "size": "218 MB",
-          "lang": "SUB",
-          "url": "https://c1.jkplayers.com/d/JRG00800xVvbr/"
-        }
-      ],
-      "screenshot": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d078f4c7908612aaeb251006f9a468c7.jpg"
-    },
-    {
-      "title": "Yomi no Tsugai",
-      "episode": "3",
-      "slug": "yomi-no-tsugai",
-      "url": "https://jkanime.net/yomi-no-tsugai/3/",
-      "image_url": "https://cdn.jkdesa.com/assets/images/animes/video/image/jkvideo_0f37443d6805d439a3684940888b93b7.jpg",
-      "cover_url": "https://cdn.jkdesa.com/assets/images/animes/image/yomi-no-tsugai.jpg",
-      "aired": "Sábado 18",
-      "servers": [
-        {
-          "server": "Desu",
-          "title": "Desu",
-          "iframe": "https://jkanime.net/jkplayer/um?e=UnZqTkxiNGhhN3RITjlyWmw2WE5DVk91ZXZVd3dRRXVjTGMwSkU4aGJmcDl3elRSb1pQQmw2c1pEVGJCTEZBMVpKWjJIQlZLUWNDQm5PemhuNjArb21YdnRacU9NR1htSENKSVppbWsvbGs9Ojpe4UNGPe3lD6nXKNY4N6JV&t=0f37443d6805d439a3684940888b93b7&op=NzI1OTY=",
-          "lang": "SUB",
-          "type": "jk"
-        },
-        {
-          "server": "Magi",
-          "title": "Magi",
-          "iframe": "https://jkanime.net/jkplayer/umv?e=TW5WZ1ZZRVlwcUN5OUxnQmhjMGg1WE4rY3VTL3lrTUNvMS9GOVhEZ0p6NzhaK3JvRWxSRW9WV04xN2tIZ1ZuWVdIYlo4R29vRC9ES014RG5VUE9VaFl2WjVGVDVaQjNNQjRydTV0QkI0RUk9OjqEbDTlZG8E1Q2.Doiu4Sg.&t=0f37443d6805d439a3684940888b93b7",
-          "lang": "SUB",
-          "type": "jk"
-        },
-        {
-          "server": "Mega",
-          "title": "Mega",
-          "iframe": "https://jkanime.net/jkplayer/c1?u=aHR0cHM6Ly9tZWdhLm56L2VtYmVkL2RuUVhsUWdUI0g4Z2NSRVRKODFJWEtkOWZ0LWk5aV8zUmVmb3dZRzU3cDU3OFg4MlUxUHMK&s=mega",
-          "real_url": "https://mega.nz/embed/dnQXlQgT#H8gcRETJ81IXKd9ft-i9i_3RefowYG57p578X82U1Ps",
-          "lang": "SUB",
-          "size": "404 MB",
-          "type": "c1"
-        },
-        {
-          "server": "Streamwish",
-          "title": "Streamwish",
-          "iframe": "https://jkanime.net/jkplayer/c1?u=aHR0cHM6Ly9zZmFzdHdpc2guY29tL2UvczZvdTNvMmowazlv&s=streamwish",
-          "real_url": "https://sfastwish.com/e/s6ou3o2j0k9o",
-          "lang": "SUB",
-          "size": "404 MB",
-          "type": "c1"
-        },
-        {
-          "server": "VOE",
-          "title": "VOE",
-          "iframe": "https://jkanime.net/jkplayer/c1?u=aHR0cHM6Ly92b2Uuc3gvZS9yaHE4N3N1M3JycDM=&s=voe",
-          "real_url": "https://voe.sx/e/rhq87su3rrp3",
-          "lang": "SUB",
-          "size": "404 MB",
-          "type": "c1"
-        },
-        {
-          "server": "Vidhide",
-          "title": "Vidhide",
-          "iframe": "https://jkanime.net/jkplayer/c1?u=aHR0cHM6Ly92aWRoaWRldmlwLmNvbS9lbWJlZC82ZXo0amo5b25ieWY=&s=vidhide",
-          "real_url": "https://vidhidevip.com/embed/6ez4jj9onbyf",
-          "lang": "SUB",
-          "size": "404 MB",
-          "type": "c1"
-        },
-        {
-          "server": "Filemoon",
-          "title": "Filemoon",
-          "iframe": "https://jkanime.net/jkplayer/c1?u=aHR0cHM6Ly9ieXNla296ZS5jb20vZS9zamRzZmc4dzg3NnMv&s=filemoon",
-          "real_url": "https://bysekoze.com/e/sjdsfg8w876s/",
-          "lang": "SUB",
-          "size": "404 MB",
-          "type": "c1"
-        },
-        {
-          "server": "Mixdrop",
-          "title": "Mixdrop",
-          "iframe": "https://jkanime.net/jkplayer/c1?u=aHR0cHM6Ly9taXhkcm9wLnRvcC9lL293NHgxMXo4dXdvcG03&s=mixdrop",
-          "real_url": "https://mixdrop.top/e/ow4x11z8uwopm7",
-          "lang": "SUB",
-          "size": "404 MB",
-          "type": "c1"
-        },
-        {
-          "server": "Mp4upload",
-          "title": "Mp4upload",
-          "iframe": "https://jkanime.net/jkplayer/c1?u=aHR0cHM6Ly93d3cubXA0dXBsb2FkLmNvbS9lbWJlZC04OXd1NzI2c3N3eHEuaHRtbA==&s=mp4upload",
-          "real_url": "https://www.mp4upload.com/embed-89wu726sswxq.html",
-          "lang": "SUB",
-          "size": "404 MB",
-          "type": "c1"
-        },
-        {
-          "server": "Streamtape",
-          "title": "Streamtape",
-          "iframe": "https://jkanime.net/jkplayer/c1?u=aHR0cHM6Ly9zdHJlYW10YXBlLmNvbS9lL3A0em83clZCTEtVbFZ3L3lvb29taWlub290c3V1dWdhaWluaW1lc2V3c3NzLTAzLm1wNA==&s=streamtape",
-          "real_url": "https://streamtape.com/e/p4zo7rVBLKUlVw/yooomiinootsuuugaiinimesewsss-03.mp4",
-          "lang": "SUB",
-          "size": "404 MB",
-          "type": "c1"
-        },
-        {
-          "server": "Doodstream",
-          "title": "Doodstream",
-          "iframe": "https://jkanime.net/jkplayer/c1?u=aHR0cHM6Ly9kc3ZwbGF5LmNvbS9lL2xieGM2bWpydW9laA==&s=doodstream",
-          "real_url": "https://dsvplay.com/e/lbxc6mjruoeh",
-          "lang": "SUB",
-          "size": "404 MB",
-          "type": "c1"
-        }
-      ],
-      "downloads": [
-        {
-          "server": "Mediafire",
-          "size": "404 MB",
-          "lang": "SUB",
-          "url": "https://c1.jkplayers.com/d/84fU05295pifA/"
-        },
-        {
-          "server": "Mega",
-          "size": "404 MB",
-          "lang": "SUB",
-          "url": "https://c1.jkplayers.com/d/j4bF0466KHtim/"
-        },
-        {
-          "server": "Streamwish",
-          "size": "404 MB",
-          "lang": "SUB",
-          "url": "https://c1.jkplayers.com/d/VGHE04285PQTz/"
-        },
-        {
-          "server": "VOE",
-          "size": "404 MB",
-          "lang": "SUB",
-          "url": "https://c1.jkplayers.com/d/ZmdN0449P2EEi/"
-        },
-        {
-          "server": "Vidhide",
-          "size": "404 MB",
-          "lang": "SUB",
-          "url": "https://c1.jkplayers.com/d/GB7w0485taBmi/"
-        },
-        {
-          "server": "Filemoon",
-          "size": "404 MB",
-          "lang": "SUB",
-          "url": "https://c1.jkplayers.com/d/zgFR0436T5nS9/"
-        },
-        {
-          "server": "Mixdrop",
-          "size": "404 MB",
-          "lang": "SUB",
-          "url": "https://c1.jkplayers.com/d/ZA840443RyCRK/"
-        },
-        {
-          "server": "Mp4upload",
-          "size": "404 MB",
-          "lang": "SUB",
-          "url": "https://c1.jkplayers.com/d/vorx0416ertAr/"
-        },
-        {
-          "server": "Streamtape",
-          "size": "404 MB",
-          "lang": "SUB",
-          "url": "https://c1.jkplayers.com/d/zFnK0467PvFPW/"
-        },
-        {
-          "server": "Doodstream",
-          "size": "404 MB",
-          "lang": "SUB",
-          "url": "https://c1.jkplayers.com/d/8nZ60513n3qhx/"
-        }
-      ],
-      "screenshot": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_0f37443d6805d439a3684940888b93b7.jpg"
-    },
-    {
-      "title": "Kanan-sama wa Akumade Choroi",
-      "episode": "3",
-      "slug": "kanan-sama-wa-akumade-choroi",
-      "url": "https://jkanime.net/kanan-sama-wa-akumade-choroi/3/",
-      "image_url": "https://cdn.jkdesa.com/assets/images/animes/video/image/jkvideo_a77b8d132860d0f63a34f0e964da5d28.jpg",
-      "cover_url": "https://cdn.jkdesa.com/assets/images/animes/image/kanan-sama-wa-akumade-choroi.jpg",
-      "aired": "Sábado 18",
-      "servers": [
-        {
-          "server": "Desu",
-          "title": "Desu",
-          "iframe": "https://jkanime.net/jkplayer/um?e=dkkwMVFiU0NxdkJ1WVkxUksrSE1WcVcvTHNaM0VGQ1FlS0JjTzdWT0dYQlBheUg0bWNHdmpBMkJUcUJDdnBEdWZXeGFrUHN6N1FJYVhDSlQrNVZIcVNVeVBIQ1liODFBaithVjFkKy9tZjg9OjpK8uZvqDTrDfn01sl6BHa9&t=a77b8d132860d0f63a34f0e964da5d28&op=NzI1OTU=",
-          "lang": "SUB",
-          "type": "jk"
-        },
-        {
-          "server": "Magi",
-          "title": "Magi",
-          "iframe": "https://jkanime.net/jkplayer/umv?e=Y0dUcEx0UERGRkZHdWtzWkxtWS82YVpWMkZvd28vSUFROVp1S2RrMWhyTGpLZm9YK0dzUllVcFZJUE10UkQ0Q0J5Y0ExUmZCNUhzM1N0V2ozb1dYcjJ4ZEl4VHpobTNoTm5NdHgrcUY5UEk9OjrU9rCBs1TiWS56sBa23eDh&t=a77b8d132860d0f63a34f0e964da5d28",
-          "lang": "SUB",
-          "type": "jk"
-        },
-        {
-          "server": "Mega",
-          "title": "Mega",
-          "iframe": "https://jkanime.net/jkplayer/c1?u=aHR0cHM6Ly9tZWdhLm56L2VtYmVkL1J1WUhIWUlCI3ZELXd1M3BvcExzV1lWWjg0eTRvR0xSOGtnQ2cxNGU1V0hXQzhqTEVQcm8K&s=mega",
-          "real_url": "https://mega.nz/embed/RuYHHYIB#vD-wu3popLsWYVZ84y4oGLR8kgCg14e5WHWC8jLEPro",
-          "lang": "SUB",
-          "size": "345 MB",
-          "type": "c1"
-        },
-        {
-          "server": "Streamwish",
-          "title": "Streamwish",
-          "iframe": "https://jkanime.net/jkplayer/c1?u=aHR0cHM6Ly9zZmFzdHdpc2guY29tL2Uvd3RwdDhqdXkza25t&s=streamwish",
-          "real_url": "https://sfastwish.com/e/wtpt8juy3knm",
-          "lang": "SUB",
-          "size": "345 MB",
-          "type": "c1"
-        },
-        {
-          "server": "VOE",
-          "title": "VOE",
-          "iframe": "https://jkanime.net/jkplayer/c1?u=aHR0cHM6Ly92b2Uuc3gvZS9kaGl5cXRyMTRmYmc=&s=voe",
-          "real_url": "https://voe.sx/e/dhiyqtr14fbg",
-          "lang": "SUB",
-          "size": "345 MB",
-          "type": "c1"
-        },
-        {
-          "server": "Vidhide",
-          "title": "Vidhide",
-          "iframe": "https://jkanime.net/jkplayer/c1?u=aHR0cHM6Ly92aWRoaWRldmlwLmNvbS9lbWJlZC94ajhkOWMxZmQ5NHg=&s=vidhide",
-          "real_url": "https://vidhidevip.com/embed/xj8d9c1fd94x",
-          "lang": "SUB",
-          "size": "345 MB",
-          "type": "c1"
-        },
-        {
-          "server": "Filemoon",
-          "title": "Filemoon",
-          "iframe": "https://jkanime.net/jkplayer/c1?u=aHR0cHM6Ly9ieXNla296ZS5jb20vZS9udmxidGM5dTZmbDYv&s=filemoon",
-          "real_url": "https://bysekoze.com/e/nvlbtc9u6fl6/",
-          "lang": "SUB",
-          "size": "345 MB",
-          "type": "c1"
-        },
-        {
-          "server": "Mixdrop",
-          "title": "Mixdrop",
-          "iframe": "https://jkanime.net/jkplayer/c1?u=aHR0cHM6Ly9taXhkcm9wLnRvcC9lL3oxb2dsbHFxc3o2bmo0&s=mixdrop",
-          "real_url": "https://mixdrop.top/e/z1ogllqqsz6nj4",
-          "lang": "SUB",
-          "size": "345 MB",
-          "type": "c1"
-        },
-        {
-          "server": "Mp4upload",
-          "title": "Mp4upload",
-          "iframe": "https://jkanime.net/jkplayer/c1?u=aHR0cHM6Ly93d3cubXA0dXBsb2FkLmNvbS9lbWJlZC10c2lyc2V6aW93dHMuaHRtbA==&s=mp4upload",
-          "real_url": "https://www.mp4upload.com/embed-tsirseziowts.html",
-          "lang": "SUB",
-          "size": "345 MB",
-          "type": "c1"
-        },
-        {
-          "server": "Streamtape",
-          "title": "Streamtape",
-          "iframe": "https://jkanime.net/jkplayer/c1?u=aHR0cHM6Ly9zdHJlYW10YXBlLmNvbS9lL1oxR3hlSjR5cTFmcXAyei9rYW5ubmFubm5zYW1hYXdhYWt1bWFkZWVjaG9yb2lzc3MtMDMubXA0&s=streamtape",
-          "real_url": "https://streamtape.com/e/Z1GxeJ4yq1fqp2z/kannnannnsamaawaakumadeechoroisss-03.mp4",
-          "lang": "SUB",
-          "size": "345 MB",
-          "type": "c1"
-        },
-        {
-          "server": "Doodstream",
-          "title": "Doodstream",
-          "iframe": "https://jkanime.net/jkplayer/c1?u=aHR0cHM6Ly9kc3ZwbGF5LmNvbS9lL2YzeWFwamFhOTg3Mw==&s=doodstream",
-          "real_url": "https://dsvplay.com/e/f3yapjaa9873",
-          "lang": "SUB",
-          "size": "345 MB",
-          "type": "c1"
-        }
-      ],
-      "downloads": [
-        {
-          "server": "Mediafire",
-          "size": "345 MB",
-          "lang": "SUB",
-          "url": "https://c1.jkplayers.com/d/DAVk5625bZFwb/"
-        },
-        {
-          "server": "Mega",
-          "size": "345 MB",
-          "lang": "SUB",
-          "url": "https://c1.jkplayers.com/d/g03U0576I2NaC/"
-        },
-        {
-          "server": "Streamwish",
-          "size": "345 MB",
-          "lang": "SUB",
-          "url": "https://c1.jkplayers.com/d/rxIU0541rpenW/"
-        },
-        {
-          "server": "VOE",
-          "size": "345 MB",
-          "lang": "SUB",
-          "url": "https://c1.jkplayers.com/d/ohEz0559epLsE/"
-        },
-        {
-          "server": "Vidhide",
-          "size": "345 MB",
-          "lang": "SUB",
-          "url": "https://c1.jkplayers.com/d/I7GC0599QLSUe/"
-        },
-        {
-          "server": "Filemoon",
-          "size": "345 MB",
-          "lang": "SUB",
-          "url": "https://c1.jkplayers.com/d/BgAX0549z8k4i/"
-        },
-        {
-          "server": "Mixdrop",
-          "size": "345 MB",
-          "lang": "SUB",
-          "url": "https://c1.jkplayers.com/d/Yaej0554XNERK/"
-        },
-        {
-          "server": "Mp4upload",
-          "size": "345 MB",
-          "lang": "SUB",
-          "url": "https://c1.jkplayers.com/d/g0Hv0526KBynr/"
-        },
-        {
-          "server": "Streamtape",
-          "size": "345 MB",
-          "lang": "SUB",
-          "url": "https://c1.jkplayers.com/d/uWpO0580QgizQ/"
-        },
-        {
-          "server": "Doodstream",
-          "size": "345 MB",
-          "lang": "SUB",
-          "url": "https://c1.jkplayers.com/d/6mKY0603dOsnw/"
-        }
-      ],
-      "screenshot": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_a77b8d132860d0f63a34f0e964da5d28.jpg"
-    },
-    {
-      "title": "Kill Ao",
-      "episode": "2",
-      "slug": "kill-ao",
-      "url": "https://jkanime.net/kill-ao/2/",
-      "image_url": "https://cdn.jkdesa.com/assets/images/animes/video/image/jkvideo_ac3f8f92b2d77a8cdf8db29bd782e45d.jpg",
-      "cover_url": "https://cdn.jkdesa.com/assets/images/animes/image/kill-ao.jpg",
-      "aired": "Sábado 18",
-      "servers": [
-        {
-          "server": "Desu",
-          "title": "Desu",
-          "iframe": "https://jkanime.net/jkplayer/um?e=L3BFNHA5Q0puK1BES0U1NzgrSkhIUzRDUlVDbnhiL0ZBUjlFL1J4MXh4bmUrSE1JVTIyZmJ6SVBwZ0JYdFJkZWNLb1ZIdzBaaVd6aDhxMG43ZVUzektWQTlod3ZNLzJhVXdqSzNPTXZCQm89OjqIdXzN1ZBjjrad1f84IUxd&t=ac3f8f92b2d77a8cdf8db29bd782e45d&op=NzI1OTQ=",
-          "lang": "SUB",
-          "type": "jk"
-        },
-        {
-          "server": "Magi",
-          "title": "Magi",
-          "iframe": "https://jkanime.net/jkplayer/umv?e=Q1cyNHVQKzRKY3BVWFk3clRiSE90WDZ0SEo0TWFKZm1vaDVrQmREWUlOdm0rbWIzVXhCN1pRSjdxOUxPT2srb0xISXM3WktLQ081YzlBNVNhN3IxQ1VTZVRjQ05tc2JiN3pwQ2RDVlFraW89OjpHDwm8mMmC7DQ24CgS_Ddu&t=ac3f8f92b2d77a8cdf8db29bd782e45d",
-          "lang": "SUB",
-          "type": "jk"
-        },
-        {
-          "server": "Mega",
-          "title": "Mega",
-          "iframe": "https://jkanime.net/jkplayer/c1?u=aHR0cHM6Ly9tZWdhLm56L2VtYmVkLzR5QndtWlpCI0g4VXEzMnJIOU1VNTNrQkJ5YmpGMVJYWkNYRFNqR2kwSnlRQ3d4bFNzTG8K&s=mega",
-          "real_url": "https://mega.nz/embed/4yBwmZZB#H8Uq32rH9MU53kBBybjF1RXZCXDSjGi0JyQCwxlSsLo",
-          "lang": "SUB",
-          "size": "324 MB",
-          "type": "c1"
-        },
-        {
-          "server": "Streamwish",
-          "title": "Streamwish",
-          "iframe": "https://jkanime.net/jkplayer/c1?u=aHR0cHM6Ly9zZmFzdHdpc2guY29tL2UvMnppZTh3dDEwM3Yw&s=streamwish",
-          "real_url": "https://sfastwish.com/e/2zie8wt103v0",
-          "lang": "SUB",
-          "size": "324 MB",
-          "type": "c1"
-        },
-        {
-          "server": "VOE",
-          "title": "VOE",
-          "iframe": "https://jkanime.net/jkplayer/c1?u=aHR0cHM6Ly92b2Uuc3gvZS95azNjemlscXl5emI=&s=voe",
-          "real_url": "https://voe.sx/e/yk3czilqyyzb",
-          "lang": "SUB",
-          "size": "324 MB",
-          "type": "c1"
-        },
-        {
-          "server": "Vidhide",
-          "title": "Vidhide",
-          "iframe": "https://jkanime.net/jkplayer/c1?u=aHR0cHM6Ly92aWRoaWRldmlwLmNvbS9lbWJlZC82NW9kdjFscXZsOGo=&s=vidhide",
-          "real_url": "https://vidhidevip.com/embed/65odv1lqvl8j",
-          "lang": "SUB",
-          "size": "324 MB",
-          "type": "c1"
-        },
-        {
-          "server": "Filemoon",
-          "title": "Filemoon",
-          "iframe": "https://jkanime.net/jkplayer/c1?u=aHR0cHM6Ly9ieXNla296ZS5jb20vZS9pYmgwZ2lmeGl1dXUv&s=filemoon",
-          "real_url": "https://bysekoze.com/e/ibh0gifxiuuu/",
-          "lang": "SUB",
-          "size": "324 MB",
-          "type": "c1"
-        },
-        {
-          "server": "Mixdrop",
-          "title": "Mixdrop",
-          "iframe": "https://jkanime.net/jkplayer/c1?u=aHR0cHM6Ly9taXhkcm9wLnRvcC9lLzdrOXExd3BwZmprejlv&s=mixdrop",
-          "real_url": "https://mixdrop.top/e/7k9q1wppfjkz9o",
-          "lang": "SUB",
-          "size": "324 MB",
-          "type": "c1"
-        },
-        {
-          "server": "Mp4upload",
-          "title": "Mp4upload",
-          "iframe": "https://jkanime.net/jkplayer/c1?u=aHR0cHM6Ly93d3cubXA0dXBsb2FkLmNvbS9lbWJlZC11NDVsYnBjb2MzNGguaHRtbA==&s=mp4upload",
-          "real_url": "https://www.mp4upload.com/embed-u45lbpcoc34h.html",
-          "lang": "SUB",
-          "size": "324 MB",
-          "type": "c1"
-        },
-        {
-          "server": "Streamtape",
-          "title": "Streamtape",
-          "iframe": "https://jkanime.net/jkplayer/c1?u=aHR0cHM6Ly9zdHJlYW10YXBlLmNvbS9lL1lxS09hRHYyNkdVdnZWeC9raWxsbGFvb29lZWVibHVlc2l0b25pbWVzZXdzc3MtMDIubXA0&s=streamtape",
-          "real_url": "https://streamtape.com/e/YqKOaDv26GUvvVx/killlaoooeeebluesitonimesewsss-02.mp4",
-          "lang": "SUB",
-          "size": "324 MB",
-          "type": "c1"
-        },
-        {
-          "server": "Doodstream",
-          "title": "Doodstream",
-          "iframe": "https://jkanime.net/jkplayer/c1?u=aHR0cHM6Ly9kc3ZwbGF5LmNvbS9lL3MyaXFoejl4bmFtcA==&s=doodstream",
-          "real_url": "https://dsvplay.com/e/s2iqhz9xnamp",
-          "lang": "SUB",
-          "size": "324 MB",
-          "type": "c1"
-        }
-      ],
-      "downloads": [
-        {
-          "server": "Mediafire",
-          "size": "324 MB",
-          "lang": "SUB",
-          "url": "https://c1.jkplayers.com/d/LoDp3031gTIIy/"
-        },
-        {
-          "server": "Mega",
-          "size": "324 MB",
-          "lang": "SUB",
-          "url": "https://c1.jkplayers.com/d/UpXR2976ezxAN/"
-        },
-        {
-          "server": "Streamwish",
-          "size": "324 MB",
-          "lang": "SUB",
-          "url": "https://c1.jkplayers.com/d/jeNQ29586RO2l/"
-        },
-        {
-          "server": "VOE",
-          "size": "324 MB",
-          "lang": "SUB",
-          "url": "https://c1.jkplayers.com/d/xco129722eChz/"
-        },
-        {
-          "server": "Vidhide",
-          "size": "324 MB",
-          "lang": "SUB",
-          "url": "https://c1.jkplayers.com/d/R1pb2999YqMRV/"
-        },
-        {
-          "server": "Filemoon",
-          "size": "324 MB",
-          "lang": "SUB",
-          "url": "https://c1.jkplayers.com/d/WQsu2965wSGOr/"
-        },
-        {
-          "server": "Mixdrop",
-          "size": "324 MB",
-          "lang": "SUB",
-          "url": "https://c1.jkplayers.com/d/RMm82966AGYeF/"
-        },
-        {
-          "server": "Mp4upload",
-          "size": "324 MB",
-          "lang": "SUB",
-          "url": "https://c1.jkplayers.com/d/7jl82946x0Ehb/"
-        },
-        {
-          "server": "Streamtape",
-          "size": "324 MB",
-          "lang": "SUB",
-          "url": "https://c1.jkplayers.com/d/mgfk29817iHtv/"
-        },
-        {
-          "server": "Doodstream",
-          "size": "324 MB",
-          "lang": "SUB",
-          "url": "https://c1.jkplayers.com/d/JjI93019PnTSA/"
-        }
-      ],
-      "screenshot": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_ac3f8f92b2d77a8cdf8db29bd782e45d.jpg"
-    },
-    {
-      "title": "Pokemon (Shinsaku Anime)",
-      "episode": "134",
-      "slug": "pokemon-shinsaku-anime",
-      "url": "https://jkanime.net/pokemon-shinsaku-anime/134/",
-      "image_url": "https://cdn.jkdesa.com/assets/images/animes/video/image/jkvideo_efb9f48d2ea999b794e00eb75cc86393.jpg",
-      "cover_url": "https://cdn.jkdesa.com/assets/images/animes/image/pokemon-shinsaku-anime.jpg",
-      "aired": "Sábado 18",
-      "servers": [
-        {
-          "server": "Desu",
-          "title": "Desu",
-          "iframe": "https://jkanime.net/jkplayer/um?e=SXl1ZWd2QVdrb0N3ckxNOFVHc3BaK05nVWJIdEJrTXBQeERFNGo5L0g1R3lxay9NWWttVzdhL0RIUUVsSXdCM0JrUHdXR0NZS0cwOEVtK25GVWJVVGM2VjNKWFhnaWhOSGJlY01PNHNtcVU9OjqZkkGPxuynMLqUowoyFimk&t=efb9f48d2ea999b794e00eb75cc86393&op=NzI1OTM=",
-          "lang": "SUB",
-          "type": "jk"
-        },
-        {
-          "server": "Magi",
-          "title": "Magi",
-          "iframe": "https://jkanime.net/jkplayer/umv?e=RU5YNFhpZHVOaHJsTmo1N2R6WlMvSDhFZ0VoV1E0NDVYdURpMHU2MzhoQTRnQlc4NVVDbkhOdlY3NzFtT0pHcW9VVlVOTFh6TFhoSzlLMHZSQUpxWTR4SEluTzVmeGRremxMRlkzQzE3Zjg9OjoVi1oq28ztwlDnU05zvGKt&t=efb9f48d2ea999b794e00eb75cc86393",
-          "lang": "SUB",
-          "type": "jk"
-        },
-        {
-          "server": "Mega",
-          "title": "Mega",
-          "iframe": "https://jkanime.net/jkplayer/c1?u=aHR0cHM6Ly9tZWdhLm56L2VtYmVkL2xxd0RWQ2FTI3d3NUgwVnNMUER6WUxFZkhEcU5kbzFaUmUzNXVPT0pmREJwUW1obWhtSUkK&s=mega",
-          "real_url": "https://mega.nz/embed/lqwDVCaS#ww5H0VsLPDzYLEfHDqNdo1ZRe35uOOJfDBpQmhmhmII",
-          "lang": "SUB",
-          "size": "516 MB",
-          "type": "c1"
-        },
-        {
-          "server": "Streamwish",
-          "title": "Streamwish",
-          "iframe": "https://jkanime.net/jkplayer/c1?u=aHR0cHM6Ly9zZmFzdHdpc2guY29tL2UvaTV2a2I0eWkwcXFw&s=streamwish",
-          "real_url": "https://sfastwish.com/e/i5vkb4yi0qqp",
-          "lang": "SUB",
-          "size": "516 MB",
-          "type": "c1"
-        },
-        {
-          "server": "VOE",
-          "title": "VOE",
-          "iframe": "https://jkanime.net/jkplayer/c1?u=aHR0cHM6Ly92b2Uuc3gvZS90MWJ2Z254aHdteGw=&s=voe",
-          "real_url": "https://voe.sx/e/t1bvgnxhwmxl",
-          "lang": "SUB",
-          "size": "516 MB",
-          "type": "c1"
-        },
-        {
-          "server": "Vidhide",
-          "title": "Vidhide",
-          "iframe": "https://jkanime.net/jkplayer/c1?u=aHR0cHM6Ly92aWRoaWRldmlwLmNvbS9lbWJlZC92ZWRseDE4Y2dvNzI=&s=vidhide",
-          "real_url": "https://vidhidevip.com/embed/vedlx18cgo72",
-          "lang": "SUB",
-          "size": "516 MB",
-          "type": "c1"
-        },
-        {
-          "server": "Filemoon",
-          "title": "Filemoon",
-          "iframe": "https://jkanime.net/jkplayer/c1?u=aHR0cHM6Ly9ieXNla296ZS5jb20vZS80bWVvcDBrenZoaW4v&s=filemoon",
-          "real_url": "https://bysekoze.com/e/4meop0kzvhin/",
-          "lang": "SUB",
-          "size": "516 MB",
-          "type": "c1"
-        },
-        {
-          "server": "Mixdrop",
-          "title": "Mixdrop",
-          "iframe": "https://jkanime.net/jkplayer/c1?u=aHR0cHM6Ly9taXhkcm9wLnRvcC9lL293NHgxZDgzdTlweDF3&s=mixdrop",
-          "real_url": "https://mixdrop.top/e/ow4x1d83u9px1w",
-          "lang": "SUB",
-          "size": "516 MB",
-          "type": "c1"
-        },
-        {
-          "server": "Streamtape",
-          "title": "Streamtape",
-          "iframe": "https://jkanime.net/jkplayer/c1?u=aHR0cHM6Ly9zdHJlYW10YXBlLmNvbS9lL2dyd3k0allEbU1jM0tCL3Bva2VzaXRvb29zaGlucmFzdXV1bmltZXNld3NzMjMtMTM0Lm1wNA==&s=streamtape",
-          "real_url": "https://streamtape.com/e/grwy4jYDmMc3KB/pokesitoooshinrasuuunimesewss23-134.mp4",
-          "lang": "SUB",
-          "size": "516 MB",
-          "type": "c1"
-        },
-        {
-          "server": "Doodstream",
-          "title": "Doodstream",
-          "iframe": "https://jkanime.net/jkplayer/c1?u=aHR0cHM6Ly9kc3ZwbGF5LmNvbS9lLzdvZXByaHdkdmV5aQ==&s=doodstream",
-          "real_url": "https://dsvplay.com/e/7oeprhwdveyi",
-          "lang": "SUB",
-          "size": "516 MB",
-          "type": "c1"
-        }
-      ],
-      "downloads": [
-        {
-          "server": "Mediafire",
-          "size": "516 MB",
-          "lang": "SUB",
-          "url": "https://c1.jkplayers.com/d/IUZx5712Zv2u3/"
-        },
-        {
-          "server": "Mega",
-          "size": "516 MB",
-          "lang": "SUB",
-          "url": "https://c1.jkplayers.com/d/WJxh2727rkvUX/"
-        },
-        {
-          "server": "Streamwish",
-          "size": "516 MB",
-          "lang": "SUB",
-          "url": "https://c1.jkplayers.com/d/xmf42692DlraK/"
-        },
-        {
-          "server": "VOE",
-          "size": "516 MB",
-          "lang": "SUB",
-          "url": "https://c1.jkplayers.com/d/RHJs2716btVyP/"
-        },
-        {
-          "server": "Vidhide",
-          "size": "516 MB",
-          "lang": "SUB",
-          "url": "https://c1.jkplayers.com/d/jhjb27738PRY0/"
-        },
-        {
-          "server": "Filemoon",
-          "size": "516 MB",
-          "lang": "SUB",
-          "url": "https://c1.jkplayers.com/d/2P1B2701usZya/"
-        },
-        {
-          "server": "Mixdrop",
-          "size": "516 MB",
-          "lang": "SUB",
-          "url": "https://c1.jkplayers.com/d/gwR92709EvvxT/"
-        },
-        {
-          "server": "Streamtape",
-          "size": "516 MB",
-          "lang": "SUB",
-          "url": "https://c1.jkplayers.com/d/x4dM2731uT9bv/"
-        },
-        {
-          "server": "Doodstream",
-          "size": "516 MB",
-          "lang": "SUB",
-          "url": "https://c1.jkplayers.com/d/taut2760KHLUi/"
-        }
-      ],
-      "screenshot": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_efb9f48d2ea999b794e00eb75cc86393.jpg"
-    },
-    {
-      "title": "Yowayowa Sensei",
-      "episode": "2",
-      "slug": "yowayowa-sensei",
-      "url": "https://jkanime.net/yowayowa-sensei/2/",
-      "image_url": "https://cdn.jkdesa.com/assets/images/animes/video/image/jkvideo_da0c6befdb085411825d19a564a48930.jpg",
-      "cover_url": "https://cdn.jkdesa.com/assets/images/animes/image/yowayowa-sensei.jpg",
-      "aired": "Sábado 18",
-      "servers": [
-        {
-          "server": "Desu",
-          "title": "Desu",
-          "iframe": "https://jkanime.net/jkplayer/um?e=SXdhMlk1Qmx4U3FMVmZsMEQvTlFNZzN5dFExYjNlQk5TeFArK0NDeEp4Tkd2aG5wSW56VVlMdkRTNGZPWkFWdXoya1FKRUJCQllKYTVLQUQrU1RpRWlxalFFNXJsRnl6RlZLNUh6aXJibzg9OjoLA4yVbcPr3hZetcr5f39h&t=da0c6befdb085411825d19a564a48930&op=NzI1OTI=",
-          "lang": "SUB",
-          "type": "jk"
-        },
-        {
-          "server": "Magi",
-          "title": "Magi",
-          "iframe": "https://jkanime.net/jkplayer/umv?e=UVVpOE4ycXRYRmFUbjRLck84UFVraXYvUjkxY0tURWVjMGdUaVVib2E5OG5TdE5uMzZhU3UwRXhtdHUyV0hWMnlDVTduZjVuYjc5QkZ3ZlRLdFNSeEQvOVRoemlHYjZaL1BTNGkrbVNqaUk9Ojod_JOKHqDC5RQqFXFMp0h3&t=da0c6befdb085411825d19a564a48930",
-          "lang": "SUB",
-          "type": "jk"
-        },
-        {
-          "server": "Mega",
-          "title": "Mega",
-          "iframe": "https://jkanime.net/jkplayer/c1?u=aHR0cHM6Ly9tZWdhLm56L2VtYmVkL0F6cFNsSjdZI0VqN1RfSTl1SXRkU1lLV3BXMEtnRmxsRGpoaDhrYVdING9uZ0F5aVZvX2cK&s=mega",
-          "real_url": "https://mega.nz/embed/AzpSlJ7Y#Ej7T_I9uItdSYKWpW0KgFllDjhh8kaWH4ongAyiVo_g",
-          "lang": "SUB",
-          "size": "224 MB",
-          "type": "c1"
-        },
-        {
-          "server": "Streamwish",
-          "title": "Streamwish",
-          "iframe": "https://jkanime.net/jkplayer/c1?u=aHR0cHM6Ly9zZmFzdHdpc2guY29tL2UvcDN4eW85eWZxcXI5&s=streamwish",
-          "real_url": "https://sfastwish.com/e/p3xyo9yfqqr9",
-          "lang": "SUB",
-          "size": "224 MB",
-          "type": "c1"
-        },
-        {
-          "server": "VOE",
-          "title": "VOE",
-          "iframe": "https://jkanime.net/jkplayer/c1?u=aHR0cHM6Ly92b2Uuc3gvZS9yMGdwc2NsNHRzOGg=&s=voe",
-          "real_url": "https://voe.sx/e/r0gpscl4ts8h",
-          "lang": "SUB",
-          "size": "224 MB",
-          "type": "c1"
-        },
-        {
-          "server": "Vidhide",
-          "title": "Vidhide",
-          "iframe": "https://jkanime.net/jkplayer/c1?u=aHR0cHM6Ly92aWRoaWRldmlwLmNvbS9lbWJlZC95bWJodTYzYnB6N3E=&s=vidhide",
-          "real_url": "https://vidhidevip.com/embed/ymbhu63bpz7q",
-          "lang": "SUB",
-          "size": "224 MB",
-          "type": "c1"
-        },
-        {
-          "server": "Filemoon",
-          "title": "Filemoon",
-          "iframe": "https://jkanime.net/jkplayer/c1?u=aHR0cHM6Ly9ieXNla296ZS5jb20vZS9zc2gxanh1cWs1Mmov&s=filemoon",
-          "real_url": "https://bysekoze.com/e/ssh1jxuqk52j/",
-          "lang": "SUB",
-          "size": "224 MB",
-          "type": "c1"
-        },
-        {
-          "server": "Mixdrop",
-          "title": "Mixdrop",
-          "iframe": "https://jkanime.net/jkplayer/c1?u=aHR0cHM6Ly9taXhkcm9wLnRvcC9lLzY3cG9neHd4aXhseHc3&s=mixdrop",
-          "real_url": "https://mixdrop.top/e/67pogxwxixlxw7",
-          "lang": "SUB",
-          "size": "224 MB",
-          "type": "c1"
-        },
-        {
-          "server": "Mp4upload",
-          "title": "Mp4upload",
-          "iframe": "https://jkanime.net/jkplayer/c1?u=aHR0cHM6Ly93d3cubXA0dXBsb2FkLmNvbS9lbWJlZC1rZ3Vta2lrMzR6ZHIuaHRtbA==&s=mp4upload",
-          "real_url": "https://www.mp4upload.com/embed-kgumkik34zdr.html",
-          "lang": "SUB",
-          "size": "224 MB",
-          "type": "c1"
-        },
-        {
-          "server": "Streamtape",
-          "title": "Streamtape",
-          "iframe": "https://jkanime.net/jkplayer/c1?u=aHR0cHM6Ly9zdHJlYW10YXBlLmNvbS9lL2E0Z2wzMEdnZEJ0eDZxdy95b29vb3dhYWFheW9vb3dhYWFzZW5zZWluaW1lc3dzc3MtMDIubXA0&s=streamtape",
-          "real_url": "https://streamtape.com/e/a4gl30GgdBtx6qw/yoooowaaaayooowaaasenseinimeswsss-02.mp4",
-          "lang": "SUB",
-          "size": "224 MB",
-          "type": "c1"
-        },
-        {
-          "server": "Doodstream",
-          "title": "Doodstream",
-          "iframe": "https://jkanime.net/jkplayer/c1?u=aHR0cHM6Ly9kc3ZwbGF5LmNvbS9lL21hanNscWI1c2FlZw==&s=doodstream",
-          "real_url": "https://dsvplay.com/e/majslqb5saeg",
-          "lang": "SUB",
-          "size": "224 MB",
-          "type": "c1"
-        }
-      ],
-      "downloads": [
-        {
-          "server": "Mediafire",
-          "size": "224 MB",
-          "lang": "SUB",
-          "url": "https://c1.jkplayers.com/d/j5nY11638AgX2/"
-        },
-        {
-          "server": "Mega",
-          "size": "224 MB",
-          "lang": "SUB",
-          "url": "https://c1.jkplayers.com/d/BGtA1118pOhda/"
-        },
-        {
-          "server": "Streamwish",
-          "size": "224 MB",
-          "lang": "SUB",
-          "url": "https://c1.jkplayers.com/d/lB7e1106XZAZm/"
-        },
-        {
-          "server": "VOE",
-          "size": "224 MB",
-          "lang": "SUB",
-          "url": "https://c1.jkplayers.com/d/fIrf1112nVU9g/"
-        },
-        {
-          "server": "Vidhide",
-          "size": "224 MB",
-          "lang": "SUB",
-          "url": "https://c1.jkplayers.com/d/b8OA1134ofzJ1/"
-        },
-        {
-          "server": "Filemoon",
-          "size": "224 MB",
-          "lang": "SUB",
-          "url": "https://c1.jkplayers.com/d/TTgg1107ob5Dw/"
-        },
-        {
-          "server": "Mixdrop",
-          "size": "224 MB",
-          "lang": "SUB",
-          "url": "https://c1.jkplayers.com/d/4TzN1110HwOJk/"
-        },
-        {
-          "server": "Mp4upload",
-          "size": "224 MB",
-          "lang": "SUB",
-          "url": "https://c1.jkplayers.com/d/kHA210961LO2o/"
-        },
-        {
-          "server": "Streamtape",
-          "size": "224 MB",
-          "lang": "SUB",
-          "url": "https://c1.jkplayers.com/d/iVWQ1116kvpeP/"
-        },
-        {
-          "server": "Doodstream",
-          "size": "224 MB",
-          "lang": "SUB",
-          "url": "https://c1.jkplayers.com/d/FH4q1174kML9e/"
-        }
-      ],
-      "screenshot": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_da0c6befdb085411825d19a564a48930.jpg"
-    },
-    {
-      "title": "Saikyou no Shokugyou wa Yuusha demo Kenja demo Naku Kanteishi (Kari) Rashii desu yo?",
-      "episode": "4",
-      "slug": "saikyou-no-shokugyou-wa-yuusha-demo-kenja-demo-naku-kanteishi-kari-rashii-desu-yo",
-      "url": "https://jkanime.net/saikyou-no-shokugyou-wa-yuusha-demo-kenja-demo-naku-kanteishi-kari-rashii-desu-yo/4/",
-      "image_url": "https://cdn.jkdesa.com/assets/images/animes/video/image/jkvideo_b7add8f85bbcfab98aea67fb6bca12fc.jpg",
-      "cover_url": "https://cdn.jkdesa.com/assets/images/animes/image/saikyou-no-shokugyou-wa-yuusha-demo-kenja-demo-naku-kanteishi-kari-rashii-desu-yo.jpg",
-      "aired": "Sábado 18",
-      "servers": [
-        {
-          "server": "Desu",
-          "title": "Desu",
-          "iframe": "https://jkanime.net/jkplayer/um?e=bVh6SVUwN1R3UG9hVVgyc3YrbU1hN0QxK2orRjRoOXZYaXNyVVRVYlMxejc3cGVqR0hpZkxDbWVMcVZ2UW1LN1ZQcUVISWNjL3hhZWwxL1JPZGl3bFZBWmZ5dUVEenRzMUdUbzNZSVNRWmdaenRQTmRpb1JtbDI1NU0xMktnVmU6Oqfsbs1Q2BgCCbVp19VMfSk-&t=b7add8f85bbcfab98aea67fb6bca12fc&op=NzI1OTE=",
-          "lang": "SUB",
-          "type": "jk"
-        },
-        {
-          "server": "Magi",
-          "title": "Magi",
-          "iframe": "https://jkanime.net/jkplayer/umv?e=dm9rd1FNOWJLUEhVZThFUGpwako2SnhhMEp5Y3A3azExU1hWUVFiY21NcDdRS1lIakJuRnhVMkYzTXV1QjNXTzk3c1Z3aEFqNmdrS1l4M2I4eXVwaXd4ZnhxTXQwcEF3aytGL1gxSG9uNmFtMkNWS2FwMXFNNS9GSzBwZVdobGU6OhrlnzAGwqu8yBSXBiBMlDM-&t=b7add8f85bbcfab98aea67fb6bca12fc",
-          "lang": "SUB",
-          "type": "jk"
-        },
-        {
-          "server": "Mega",
-          "title": "Mega",
-          "iframe": "https://jkanime.net/jkplayer/c1?u=aHR0cHM6Ly9tZWdhLm56L2VtYmVkL3R1Z3huYndBIzhqZkhtR2dWN1NpbW03YnBhbGxsejRMQmFDb3d2bEVtSGFubGNUOW5MeWsK&s=mega",
-          "real_url": "https://mega.nz/embed/tugxnbwA#8jfHmGgV7Simm7bpalllz4LBaCowvlEmHanlcT9nLyk",
-          "lang": "SUB",
-          "size": "242 MB",
-          "type": "c1"
-        },
-        {
-          "server": "Streamwish",
-          "title": "Streamwish",
-          "iframe": "https://jkanime.net/jkplayer/c1?u=aHR0cHM6Ly9zZmFzdHdpc2guY29tL2UvNnQyYXA5dW5uaHY5&s=streamwish",
-          "real_url": "https://sfastwish.com/e/6t2ap9unnhv9",
-          "lang": "SUB",
-          "size": "242 MB",
-          "type": "c1"
-        },
-        {
-          "server": "VOE",
-          "title": "VOE",
-          "iframe": "https://jkanime.net/jkplayer/c1?u=aHR0cHM6Ly92b2Uuc3gvZS83bWY2OXA3aWJsd28=&s=voe",
-          "real_url": "https://voe.sx/e/7mf69p7iblwo",
-          "lang": "SUB",
-          "size": "242 MB",
-          "type": "c1"
-        },
-        {
-          "server": "Vidhide",
-          "title": "Vidhide",
-          "iframe": "https://jkanime.net/jkplayer/c1?u=aHR0cHM6Ly92aWRoaWRldmlwLmNvbS9lbWJlZC9hcjMwN2Z3a3g5ZG0=&s=vidhide",
-          "real_url": "https://vidhidevip.com/embed/ar307fwkx9dm",
-          "lang": "SUB",
-          "size": "242 MB",
-          "type": "c1"
-        },
-        {
-          "server": "Filemoon",
-          "title": "Filemoon",
-          "iframe": "https://jkanime.net/jkplayer/c1?u=aHR0cHM6Ly9ieXNla296ZS5jb20vZS8wZTNheHR4MjFtdDUv&s=filemoon",
-          "real_url": "https://bysekoze.com/e/0e3axtx21mt5/",
-          "lang": "SUB",
-          "size": "242 MB",
-          "type": "c1"
-        },
-        {
-          "server": "Mixdrop",
-          "title": "Mixdrop",
-          "iframe": "https://jkanime.net/jkplayer/c1?u=aHR0cHM6Ly9taXhkcm9wLnRvcC9lLzAzOW13MHZnZjZ6dno4&s=mixdrop",
-          "real_url": "https://mixdrop.top/e/039mw0vgf6zvz8",
-          "lang": "SUB",
-          "size": "242 MB",
-          "type": "c1"
-        },
-        {
-          "server": "Mp4upload",
-          "title": "Mp4upload",
-          "iframe": "https://jkanime.net/jkplayer/c1?u=aHR0cHM6Ly93d3cubXA0dXBsb2FkLmNvbS9lbWJlZC13c2p0MDBjbHl3aTguaHRtbA==&s=mp4upload",
-          "real_url": "https://www.mp4upload.com/embed-wsjt00clywi8.html",
-          "lang": "SUB",
-          "size": "242 MB",
-          "type": "c1"
-        },
-        {
-          "server": "Streamtape",
-          "title": "Streamtape",
-          "iframe": "https://jkanime.net/jkplayer/c1?u=aHR0cHM6Ly9zdHJlYW10YXBlLmNvbS9lLzRYWmxYbWsxS1pVS3ZreS9zYWlpaWtra3lvdXV1bm9vc2hvb29rdWd5b3V1d2F5dXVzaGFrYW50ZWlzaGluYWt1c3NzLTA0Lm1wNA==&s=streamtape",
-          "real_url": "https://streamtape.com/e/4XZlXmk1KZUKvky/saiiikkkyouuunooshoookugyouuwayuushakanteishinakusss-04.mp4",
-          "lang": "SUB",
-          "size": "242 MB",
-          "type": "c1"
-        },
-        {
-          "server": "Doodstream",
-          "title": "Doodstream",
-          "iframe": "https://jkanime.net/jkplayer/c1?u=aHR0cHM6Ly9kc3ZwbGF5LmNvbS9lLzNscjdmbmE4a20yaw==&s=doodstream",
-          "real_url": "https://dsvplay.com/e/3lr7fna8km2k",
-          "lang": "SUB",
-          "size": "242 MB",
-          "type": "c1"
-        }
-      ],
-      "downloads": [
-        {
-          "server": "Mediafire",
-          "size": "242 MB",
-          "lang": "SUB",
-          "url": "https://c1.jkplayers.com/d/bcYE0804Dh0cJ/"
-        },
-        {
-          "server": "Mega",
-          "size": "242 MB",
-          "lang": "SUB",
-          "url": "https://c1.jkplayers.com/d/yssf0743yhmRM/"
-        },
-        {
-          "server": "Streamwish",
-          "size": "242 MB",
-          "lang": "SUB",
-          "url": "https://c1.jkplayers.com/d/3afm0709D45FY/"
-        },
-        {
-          "server": "VOE",
-          "size": "242 MB",
-          "lang": "SUB",
-          "url": "https://c1.jkplayers.com/d/qlDq0726V8JKc/"
-        },
-        {
-          "server": "Vidhide",
-          "size": "242 MB",
-          "lang": "SUB",
-          "url": "https://c1.jkplayers.com/d/x66L0764HthQr/"
-        },
-        {
-          "server": "Filemoon",
-          "size": "242 MB",
-          "lang": "SUB",
-          "url": "https://c1.jkplayers.com/d/NUis0715rtESQ/"
-        },
-        {
-          "server": "Mixdrop",
-          "size": "242 MB",
-          "lang": "SUB",
-          "url": "https://c1.jkplayers.com/d/22pr0720inrPk/"
-        },
-        {
-          "server": "Mp4upload",
-          "size": "242 MB",
-          "lang": "SUB",
-          "url": "https://c1.jkplayers.com/d/z1qo0686KyKgj/"
-        },
-        {
-          "server": "Streamtape",
-          "size": "242 MB",
-          "lang": "SUB",
-          "url": "https://c1.jkplayers.com/d/vqNu0743hgMDi/"
-        },
-        {
-          "server": "Doodstream",
-          "size": "242 MB",
-          "lang": "SUB",
-          "url": "https://c1.jkplayers.com/d/JG2p0786nUyA8/"
-        }
-      ],
-      "screenshot": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_b7add8f85bbcfab98aea67fb6bca12fc.jpg"
-    },
-    {
-      "title": "Mairimashita! Iruma-kun 4th Season",
-      "episode": "3",
-      "slug": "mairimashita-iruma-kun-4th-season",
-      "url": "https://jkanime.net/mairimashita-iruma-kun-4th-season/3/",
-      "image_url": "https://cdn.jkdesa.com/assets/images/animes/video/image/jkvideo_3805b5b2b309f69e481b8b9b6d3a17ce.jpg",
-      "cover_url": "https://cdn.jkdesa.com/assets/images/animes/image/mairimashita-iruma-kun-4th-season.jpg",
-      "aired": "Sábado 18",
-      "servers": [
-        {
-          "server": "Desu",
-          "title": "Desu",
-          "iframe": "https://jkanime.net/jkplayer/um?e=LzZjTk9RQzl1UGthS0J1WmF3S2NSZGNzV1NBYk9saStsNXgyaU9jMDkweXdzSGVMUm11TEU4cHVTRGZib1IvZjVDcktaNXZwbEVuZFB2VkZhMjBTZXhJSVBONG1Xbm1Gd2VzNnphbWNQSXc9OjpR0z9KSmy57UVX6CEHBjb4&t=3805b5b2b309f69e481b8b9b6d3a17ce&op=NzI1OTA=",
-          "lang": "SUB",
-          "type": "jk"
-        },
-        {
-          "server": "Magi",
-          "title": "Magi",
-          "iframe": "https://jkanime.net/jkplayer/umv?e=eUFPaWhuU0RMMkFSK0xpM1U2QlZOVXhSSzNtb1RNYm1rTXlBcHdIWHdTc3hveEN2OTJKSS9JSjB2RWJJUTdhWGJINU52aHlkdTVkYU0yOWpkRzZxbHNtcEtBOFFNSlhrTzZBM29IdUVJUGM9Ojrp.I5y5gDBPS1tqAxWnM6s&t=3805b5b2b309f69e481b8b9b6d3a17ce",
-          "lang": "SUB",
-          "type": "jk"
-        },
-        {
-          "server": "Mega",
-          "title": "Mega",
-          "iframe": "https://jkanime.net/jkplayer/c1?u=aHR0cHM6Ly9tZWdhLm56L2VtYmVkL283UXlBYlpCI2stX0RpWm1YQ2lsdVhtODVxZnZSZ3dYVEFhM2tPeUEwc3U3emFCOUtSbEUK&s=mega",
-          "real_url": "https://mega.nz/embed/o7QyAbZB#k-_DiZmXCiluXm85qfvRgwXTAa3kOyA0su7zaB9KRlE",
-          "lang": "SUB",
-          "size": "546 MB",
-          "type": "c1"
-        },
-        {
-          "server": "Streamwish",
-          "title": "Streamwish",
-          "iframe": "https://jkanime.net/jkplayer/c1?u=aHR0cHM6Ly9zZmFzdHdpc2guY29tL2UvamgzcTRiNXFkdWth&s=streamwish",
-          "real_url": "https://sfastwish.com/e/jh3q4b5qduka",
-          "lang": "SUB",
-          "size": "546 MB",
-          "type": "c1"
-        },
-        {
-          "server": "VOE",
-          "title": "VOE",
-          "iframe": "https://jkanime.net/jkplayer/c1?u=aHR0cHM6Ly92b2Uuc3gvZS8yOHF5eHBmM2h1czg=&s=voe",
-          "real_url": "https://voe.sx/e/28qyxpf3hus8",
-          "lang": "SUB",
-          "size": "546 MB",
-          "type": "c1"
-        },
-        {
-          "server": "Vidhide",
-          "title": "Vidhide",
-          "iframe": "https://jkanime.net/jkplayer/c1?u=aHR0cHM6Ly92aWRoaWRldmlwLmNvbS9lbWJlZC9rNHMybWlqYnhlbW0=&s=vidhide",
-          "real_url": "https://vidhidevip.com/embed/k4s2mijbxemm",
-          "lang": "SUB",
-          "size": "546 MB",
-          "type": "c1"
-        },
-        {
-          "server": "Filemoon",
-          "title": "Filemoon",
-          "iframe": "https://jkanime.net/jkplayer/c1?u=aHR0cHM6Ly9ieXNla296ZS5jb20vZS9mMXI1ZXN4ZXNscTIv&s=filemoon",
-          "real_url": "https://bysekoze.com/e/f1r5esxeslq2/",
-          "lang": "SUB",
-          "size": "546 MB",
-          "type": "c1"
-        },
-        {
-          "server": "Mixdrop",
-          "title": "Mixdrop",
-          "iframe": "https://jkanime.net/jkplayer/c1?u=aHR0cHM6Ly9taXhkcm9wLnRvcC9lL293NHhyMDRtY3B4N3cw&s=mixdrop",
-          "real_url": "https://mixdrop.top/e/ow4xr04mcpx7w0",
-          "lang": "SUB",
-          "size": "546 MB",
-          "type": "c1"
-        },
-        {
-          "server": "Streamtape",
-          "title": "Streamtape",
-          "iframe": "https://jkanime.net/jkplayer/c1?u=aHR0cHM6Ly9zdHJlYW10YXBlLmNvbS9lL3pYQnAwUVpkeE1zWW1HbC9tYWlpaXJpaWltYWFhc2hpdGFhYWlydW1hYWFrdW40dGhzZWFzb25lc3NzLTAzLm1wNA==&s=streamtape",
-          "real_url": "https://streamtape.com/e/zXBp0QZdxMsYmGl/maiiiriiimaaashitaaairumaaakun4thseasonesss-03.mp4",
-          "lang": "SUB",
-          "size": "546 MB",
-          "type": "c1"
-        },
-        {
-          "server": "Doodstream",
-          "title": "Doodstream",
-          "iframe": "https://jkanime.net/jkplayer/c1?u=aHR0cHM6Ly9kc3ZwbGF5LmNvbS9lLzR1eDJwMjVmZXJ5MA==&s=doodstream",
-          "real_url": "https://dsvplay.com/e/4ux2p25fery0",
-          "lang": "SUB",
-          "size": "546 MB",
-          "type": "c1"
-        }
-      ],
-      "downloads": [
-        {
-          "server": "Mediafire",
-          "size": "546 MB",
-          "lang": "SUB",
-          "url": "https://c1.jkplayers.com/d/dJJK0863YihPm/"
-        },
-        {
-          "server": "Mega",
-          "size": "546 MB",
-          "lang": "SUB",
-          "url": "https://c1.jkplayers.com/d/6AbC0715KzMsj/"
-        },
-        {
-          "server": "Streamwish",
-          "size": "546 MB",
-          "lang": "SUB",
-          "url": "https://c1.jkplayers.com/d/hh8A0675Qr8uB/"
-        },
-        {
-          "server": "VOE",
-          "size": "546 MB",
-          "lang": "SUB",
-          "url": "https://c1.jkplayers.com/d/yJl70705wQejc/"
-        },
-        {
-          "server": "Vidhide",
-          "size": "546 MB",
-          "lang": "SUB",
-          "url": "https://c1.jkplayers.com/d/c1nc07558kdxK/"
-        },
-        {
-          "server": "Filemoon",
-          "size": "546 MB",
-          "lang": "SUB",
-          "url": "https://c1.jkplayers.com/d/5K1V0687Tv9EN/"
-        },
-        {
-          "server": "Mixdrop",
-          "size": "546 MB",
-          "lang": "SUB",
-          "url": "https://c1.jkplayers.com/d/7Xdc0696cPTjD/"
-        },
-        {
-          "server": "Streamtape",
-          "size": "546 MB",
-          "lang": "SUB",
-          "url": "https://c1.jkplayers.com/d/RD940725um93i/"
-        },
-        {
-          "server": "Doodstream",
-          "size": "546 MB",
-          "lang": "SUB",
-          "url": "https://c1.jkplayers.com/d/8UAV0831LQhNE/"
-        }
-      ],
-      "screenshot": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_3805b5b2b309f69e481b8b9b6d3a17ce.jpg"
-    },
-    {
-      "title": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen - Ryoushu no Youjo",
-      "episode": "3",
-      "slug": "honzuki-no-gekokujou-shisho-ni-naru-tame-ni-wa-shudan-wo-erandeiraremasen-ryoushu-no-youjo",
-      "url": "https://jkanime.net/honzuki-no-gekokujou-shisho-ni-naru-tame-ni-wa-shudan-wo-erandeiraremasen-ryoushu-no-youjo/3/",
-      "image_url": "https://cdn.jkdesa.com/assets/images/animes/video/image/jkvideo_19a65c5d3befe6d02e22641f0a7f53e8.jpg",
-      "cover_url": "https://cdn.jkdesa.com/assets/images/animes/image/honzuki-no-gekokujou-shisho-ni-naru-tame-ni-wa-shudan-wo-erandeiraremasen-ryoushu-no-youjo.jpg",
-      "aired": "Sábado 18",
-      "servers": [
-        {
-          "server": "Desu",
-          "title": "Desu",
-          "iframe": "https://jkanime.net/jkplayer/um?e=c0VBV1F1YWVoUjhJdlEwYTc3WFlOMXlkazY3cC85SngwZWVmb0Mxb1lHMWpVaGMxK0o3Mlc2Y093YnFKZVNLcVp4Y3lrMFY5ZmxNMXFGUlFZZ2Z0QjdGYm5lVGE0UGpadzEzSDZ6SXI4NGM9Ojp_FRB9Z4qSayQTed3sPoVk&t=19a65c5d3befe6d02e22641f0a7f53e8&op=NzI1ODk=",
-          "lang": "SUB",
-          "type": "jk"
-        },
-        {
-          "server": "Magi",
-          "title": "Magi",
-          "iframe": "https://jkanime.net/jkplayer/umv?e=NkdQQ2ZicEdjSHU1d0dlNk15V0l0K1VKZURZWFE4c3l2dGhHdWMwLzh5SXpPNUU4a2M1bVFDbkU3em1JRTkwdmxtRUV3eEdQa0xhRWo2TytrVlM3blhGVFdNZjhmdHZ3TGgyTU1MNzBOd2c9Ojpi_c6QLDms2Z3Bkw8Em0hk&t=19a65c5d3befe6d02e22641f0a7f53e8",
-          "lang": "SUB",
-          "type": "jk"
-        },
-        {
-          "server": "Mega",
-          "title": "Mega",
-          "iframe": "https://jkanime.net/jkplayer/c1?u=aHR0cHM6Ly9tZWdhLm56L2VtYmVkL01yWnlTRFlLI21oWG5DWU1wOXJpbUIzZXc2REctMTdtSWktRC01MmZ4TnZPc2J4Mi1ZTUkK&s=mega",
-          "real_url": "https://mega.nz/embed/MrZySDYK#mhXnCYMp9rimB3ew6DG-17mIi-D-52fxNvOsbx2-YMI",
-          "lang": "SUB",
-          "size": "249 MB",
-          "type": "c1"
-        },
-        {
-          "server": "Streamwish",
-          "title": "Streamwish",
-          "iframe": "https://jkanime.net/jkplayer/c1?u=aHR0cHM6Ly9zZmFzdHdpc2guY29tL2UvZDhiMDJxZzJleDFz&s=streamwish",
-          "real_url": "https://sfastwish.com/e/d8b02qg2ex1s",
-          "lang": "SUB",
-          "size": "249 MB",
-          "type": "c1"
-        },
-        {
-          "server": "VOE",
-          "title": "VOE",
-          "iframe": "https://jkanime.net/jkplayer/c1?u=aHR0cHM6Ly92b2Uuc3gvZS9tcHVwYnRjMmFuMXQ=&s=voe",
-          "real_url": "https://voe.sx/e/mpupbtc2an1t",
-          "lang": "SUB",
-          "size": "249 MB",
-          "type": "c1"
-        },
-        {
-          "server": "Vidhide",
-          "title": "Vidhide",
-          "iframe": "https://jkanime.net/jkplayer/c1?u=aHR0cHM6Ly92aWRoaWRldmlwLmNvbS9lbWJlZC9oamtmdGc4Y3hsNWs=&s=vidhide",
-          "real_url": "https://vidhidevip.com/embed/hjkftg8cxl5k",
-          "lang": "SUB",
-          "size": "249 MB",
-          "type": "c1"
-        },
-        {
-          "server": "Filemoon",
-          "title": "Filemoon",
-          "iframe": "https://jkanime.net/jkplayer/c1?u=aHR0cHM6Ly9ieXNla296ZS5jb20vZS9mczZyOTB3dGt5amwv&s=filemoon",
-          "real_url": "https://bysekoze.com/e/fs6r90wtkyjl/",
-          "lang": "SUB",
-          "size": "249 MB",
-          "type": "c1"
-        },
-        {
-          "server": "Mixdrop",
-          "title": "Mixdrop",
-          "iframe": "https://jkanime.net/jkplayer/c1?u=aHR0cHM6Ly9taXhkcm9wLnRvcC9lL3I2cGs0MTc0dHZ2cXA2MA==&s=mixdrop",
-          "real_url": "https://mixdrop.top/e/r6pk4174tvvqp60",
-          "lang": "SUB",
-          "size": "249 MB",
-          "type": "c1"
-        },
-        {
-          "server": "Mp4upload",
-          "title": "Mp4upload",
-          "iframe": "https://jkanime.net/jkplayer/c1?u=aHR0cHM6Ly93d3cubXA0dXBsb2FkLmNvbS9lbWJlZC1nZnI2NGswaHBicG8uaHRtbA==&s=mp4upload",
-          "real_url": "https://www.mp4upload.com/embed-gfr64k0hpbpo.html",
-          "lang": "SUB",
-          "size": "249 MB",
-          "type": "c1"
-        },
-        {
-          "server": "Streamtape",
-          "title": "Streamtape",
-          "iframe": "https://jkanime.net/jkplayer/c1?u=aHR0cHM6Ly9zdHJlYW10YXBlLmNvbS9lL0diYk04dzlBcjdIWWszL2hvb29vbm5uenV1dWtpaW5vb2dla29qdWpvdXNlYXNvbnNzNC0wMy5tcDQ=&s=streamtape",
-          "real_url": "https://streamtape.com/e/GbbM8w9Ar7HYk3/hoooonnnzuuukiinoogekojujouseasonss4-03.mp4",
-          "lang": "SUB",
-          "size": "249 MB",
-          "type": "c1"
-        },
-        {
-          "server": "Doodstream",
-          "title": "Doodstream",
-          "iframe": "https://jkanime.net/jkplayer/c1?u=aHR0cHM6Ly9kc3ZwbGF5LmNvbS9lLzN2NHpreG9tcGlocg==&s=doodstream",
-          "real_url": "https://dsvplay.com/e/3v4zkxompihr",
-          "lang": "SUB",
-          "size": "249 MB",
-          "type": "c1"
-        }
-      ],
-      "downloads": [
-        {
-          "server": "Mediafire",
-          "size": "249 MB",
-          "lang": "SUB",
-          "url": "https://c1.jkplayers.com/d/PDu00549ZbGOm/"
-        },
-        {
-          "server": "Mega",
-          "size": "249 MB",
-          "lang": "SUB",
-          "url": "https://c1.jkplayers.com/d/V1wf049416VHm/"
-        },
-        {
-          "server": "Streamwish",
-          "size": "249 MB",
-          "lang": "SUB",
-          "url": "https://c1.jkplayers.com/d/mc0Y0459GgyDk/"
-        },
-        {
-          "server": "VOE",
-          "size": "249 MB",
-          "lang": "SUB",
-          "url": "https://c1.jkplayers.com/d/cadA0484OmYsE/"
-        },
-        {
-          "server": "Vidhide",
-          "size": "249 MB",
-          "lang": "SUB",
-          "url": "https://c1.jkplayers.com/d/zrDv0518s9vwZ/"
-        },
-        {
-          "server": "Filemoon",
-          "size": "249 MB",
-          "lang": "SUB",
-          "url": "https://c1.jkplayers.com/d/D5WS0473rTshE/"
-        },
-        {
-          "server": "Mixdrop",
-          "size": "249 MB",
-          "lang": "SUB",
-          "url": "https://c1.jkplayers.com/d/TBC10477cKxAu/"
-        },
-        {
-          "server": "Mp4upload",
-          "size": "249 MB",
-          "lang": "SUB",
-          "url": "https://c1.jkplayers.com/d/vD0c0446QGOQ9/"
-        },
-        {
-          "server": "Streamtape",
-          "size": "249 MB",
-          "lang": "SUB",
-          "url": "https://c1.jkplayers.com/d/SZup0497MmeOv/"
-        },
-        {
-          "server": "Doodstream",
-          "size": "249 MB",
-          "lang": "SUB",
-          "url": "https://c1.jkplayers.com/d/7hNh0539fHlRv/"
-        }
-      ],
-      "screenshot": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_19a65c5d3befe6d02e22641f0a7f53e8.jpg"
-    },
-    {
       "title": "Fangkai Nage Nuwu",
       "episode": "8",
       "slug": "fangkai-nage-nuwu",
@@ -5299,14 +5302,14 @@
         {
           "server": "Desu",
           "title": "Desu",
-          "iframe": "https://jkanime.net/jkplayer/um?e=K2JBWkJka1Z5VFNEOHNFSDRMUzJnZkczZ2REUTRDeEZ4aWsvZ2xXMXdyMGFHTVNhVVNVVjJZUzdMdmpVbUVtZ3M5QkhIdkxhUVZiSXNyazJSWFhUY3c9PTo6ON8qevbqZzqhu4YHj0Hwrg--&t=c9e8082c7cee4a1070e36740664cc2c7&op=NzI2NjQ=",
+          "iframe": "https://jkanime.net/jkplayer/um?e=S2RhWWF4aXI0T1lJcldxZGkyTnJMK2lEd2FyWWNrQ3pNMTVZdkZTdmpKSDJrcUl1dUFLdnFUU1pHQjR4ZWhMWVdpd0N2elFMdHMzZHVVWFMzQ1FkY2c9PTo6r1i2Fpoype8qP1WF8OJjow--&t=c9e8082c7cee4a1070e36740664cc2c7&op=NzI2NjQ=",
           "lang": "SUB",
           "type": "jk"
         },
         {
           "server": "Magi",
           "title": "Magi",
-          "iframe": "https://jkanime.net/jkplayer/umv?e=aVBycUNkWHR3eC96TnZFZmR0ZjhVMHc0Q0NuSzZXamxzeWd5b1A3TG5zTXBRVm90V2g4UHlGWlNJWUw5bDB1cHVBUnUxRHRjVVZVK05ML0ZCbmluZmc9PTo6TeF3HnfHsMa6sBydNZs67w--&t=c9e8082c7cee4a1070e36740664cc2c7",
+          "iframe": "https://jkanime.net/jkplayer/umv?e=citsMGk2bUFsV1NtU2F0YlVKcFJ2RktKQi9nZG81L3U2eWhMR3pxNnpFN2xNQjQybGNpR3paUHJWcHBacitDN3VlQldGaUl0WkY4UnY2SjZOUEpvaGc9PTo6xzopDExel_T6ELT1g.OC_Q--&t=c9e8082c7cee4a1070e36740664cc2c7",
           "lang": "SUB",
           "type": "jk"
         },
@@ -5468,14 +5471,14 @@
         {
           "server": "Desu",
           "title": "Desu",
-          "iframe": "https://jkanime.net/jkplayer/um?e=ME5IN1RlaFZvcEdiRG5aUWtwS0xoeWpRRWNXYjVaVlcxMmhpNVZLYzNSUWpWWGR5VjBzSmN5Y3J4a3BWdGFHVWdJYnA5WVFZWWxRSGNPdmJIZmtxK2M3R2l0NTRNeDJDV2JNcjFnN0xYYWpldTFJYzlnejhtSGx0ZHg2Y01MUkk6OpX_GM6G_05FUuoYd9bx7Ic-&t=90b248a3d23644c1e15a4485909cf55a&op=NzI2NDc=",
+          "iframe": "https://jkanime.net/jkplayer/um?e=OUtNOUFWdGdUOUZuRTZuMnlPNThPSDUwVHBSTTZUSEt6U3RMOVhGUktoM0JDTUFwdGczZUNPWkdrM3BJVk9QTEloTy9ZbFRXejZTbUErbURYQmpFMm5oZjVvSEN4V2hkUUp0QXB2UFNzSnVFTVY4Y3d2eHArRi9VZnpEMitJMys6OinNKuv38sVTi19.D.Uqtfw-&t=90b248a3d23644c1e15a4485909cf55a&op=NzI2NDc=",
           "lang": "SUB",
           "type": "jk"
         },
         {
           "server": "Magi",
           "title": "Magi",
-          "iframe": "https://jkanime.net/jkplayer/umv?e=Rkg0V3lDdFYxcU0xSTZPMldFd0poUndheGxQOEgwL0o3d0lMaXR3QU9TaEkrOS9rQmRQKzJPZUtBUnBaWFZoazVPREttRFZiaGNVZmNTRkZCbFFsTXJkTXUyUjZicFEzbFpLc0o4eXNZVEJSeklvZWhUZkZWNW1ncVVRbi9tVHM6OujhZcXXRcje7aKiNuExdaA-&t=90b248a3d23644c1e15a4485909cf55a",
+          "iframe": "https://jkanime.net/jkplayer/umv?e=dUFWYVhneEJCNG5QNnovNkdaU1NxQWNLNWlhbi84VjY4L29lN0lKUzlnaHhBUjNDZ0x0c0YwbFFBOVdjQXl2S01SUGlwR3FBM1Y2eUhmdzlDYk4rcDBNMllIS2t2bHZmZEdQbTNUcjk2bXNoOFFHZ2RWeEJ5VTJIdHhaeExqS3g6OmtcjYbbKVglMfY8Ho6grDI-&t=90b248a3d23644c1e15a4485909cf55a",
           "lang": "SUB",
           "type": "jk"
         },
@@ -5637,14 +5640,14 @@
         {
           "server": "Desu",
           "title": "Desu",
-          "iframe": "https://jkanime.net/jkplayer/um?e=blk1NU9zaU96LzlJbDl2bGorUU5VS0drWm1LVkMvT2d0eVBKSFNhbnhKek00cjFuR1lzbHZuY05reFovS3M4RG03SXRoN3g0dU9mUVNJNjNkK1VFbGZvN3BxV0NLeVIwVVBOZUJBNUZVUnhOYm9RQ0hDU3JoblZxTEZZbThPZjM6OiKJir1G75tV2waOTXTvrWk-&t=4eadfbbb6134b852d320396c6faa5361&op=NzI2NDY=",
+          "iframe": "https://jkanime.net/jkplayer/um?e=Uk90Zjl0bGZUQytJVTZzdDZBUFYrN1JrK2FCNUJQZlZDWVNXYVNVQ08wdmxLeVc4TEZqdzQ5NVV2VVoxWkUwSDcxc094OXpuYnZZaXNYWHQ4cmpxMGJPbXVuS1JRelE3NmlGa3VGYnFwR1kyOEtvWWoxSldBdHducEFwMVJNVlk6OrJSjx.TscITtRoShDuqzGg-&t=4eadfbbb6134b852d320396c6faa5361&op=NzI2NDY=",
           "lang": "SUB",
           "type": "jk"
         },
         {
           "server": "Magi",
           "title": "Magi",
-          "iframe": "https://jkanime.net/jkplayer/umv?e=ZkQxMnRwYWE4RHBVbGIwdHk5Kzhvb3hHQlZTa09UMmRQQTRoZGdkRXhhUkFjQVZsdExlOTh5eHpOTklscEZFalpxZlNsY0huSytRa2tUYUluK2pTNjlFLzZ1NkdsOHh5c0lVQzVrcVFocmRHZWZmY3ZONCtXQ0VnQUt6cUFXNlo6OnzRQrFt.hE3XMc90w.YZ7Q-&t=4eadfbbb6134b852d320396c6faa5361",
+          "iframe": "https://jkanime.net/jkplayer/umv?e=MHh5eGRVMWZsR1NhbXdDakdQZ3BRRXVvbnRGdHVZY0NQOHV5aDhxS2ZDRVYxK1lTbmNUTUY3Q0xVTHZpaUQwSjN5T2RKZ2hKN2d5M0wzMUpObnRmTks0eUo3Z0Vpb05Pa25JNGYyUm53SGQ1L01rYllhNndLaG9WdGVkdE41eng6OuVGnuPIQQYn_em9WauFFmo-&t=4eadfbbb6134b852d320396c6faa5361",
           "lang": "SUB",
           "type": "jk"
         },
@@ -5806,14 +5809,14 @@
         {
           "server": "Desu",
           "title": "Desu",
-          "iframe": "https://jkanime.net/jkplayer/um?e=SXN1bE5NUmtyYktTL3FvUkZKZjEyL2hrckpuSmJvY0NycXZ0dFo3NXIzQlloT1BIeWJKS2MyaEo1WWptL21yY2gwRURnYVFvSEVidDJKY2d4QXB2SlRBR1B0UUZJa0pMSEZsS0hzMTh1a009OjqQBBBINzz0HhchpzHIg9qn&t=59ffef89fb3c56aaf30f028de13b7def&op=NzI2NDU=",
+          "iframe": "https://jkanime.net/jkplayer/um?e=MFAxMXBnOWlTelNVVm9UcEx0dlhsUThDSFdWUjNmeHd0OGhSRldwY0t5VG56WFhNeWllTWw0MEhsVHVUZDBZNDdRNHJSVVpZRExPYm85d0FVOGs4NDNaZG5TWnFuYUZsNHJPUi83R0xzRkE9OjqTIL12yWn0MwAEVMx8DQMU&t=59ffef89fb3c56aaf30f028de13b7def&op=NzI2NDU=",
           "lang": "SUB",
           "type": "jk"
         },
         {
           "server": "Magi",
           "title": "Magi",
-          "iframe": "https://jkanime.net/jkplayer/umv?e=VjEvSmh4eXBydERRMHlIaUwwV0JGNmJtaFFHMHlmdFUvRVhqdXBrVnZwSkdVYldIU0NNYXVtV0svN3R4ck1mTW53M1lEUUMzS1lSeGNUZWIxM1VGTUh5R0xOWEJjZHpIRWd6ajlLMGJKZkE9Ojpduy7_umP_kNuGcu2KYTDi&t=59ffef89fb3c56aaf30f028de13b7def",
+          "iframe": "https://jkanime.net/jkplayer/umv?e=V2VLTGVvVDZXNDBXd1g4ZHVCMFNPQkUzM1pRbk9CQ3VtQm9CMDBCaURjek5YUzR5TmJFeUU4YUptODh6d2Y2K2s4KytnZURhdjRJaHNma0ozL05KbEtaMFo5cFBRUDlrUHhWWlVBVmFoUms9OjpUhxd3YXrgKvmHnZm18C5h&t=59ffef89fb3c56aaf30f028de13b7def",
           "lang": "SUB",
           "type": "jk"
         },
@@ -5975,14 +5978,14 @@
         {
           "server": "Desu",
           "title": "Desu",
-          "iframe": "https://jkanime.net/jkplayer/um?e=LzRBZGw0c3RSeUVFeGdaWkJxK0pRRGNBWmF6STNpQkNaTkhpTDFQNWdrQ2J5VXZXdndoM3U3R2c4N20yamRXblFTRFBNS0FVZ0U0ZkprZ0lNcHg2NlljYUFuOC9CN24xYy9INnJuL0JPZEk9OjrNen3zdxo1Pr7ZwBdVz61l&t=fd8fb8ff7e2eee01e3b615245b8f6aed&op=NzI2NDQ=",
+          "iframe": "https://jkanime.net/jkplayer/um?e=T2VTTXRDcURxRi9DSFZabEI0SS9MSXhIdkk3WU5LVFZEbzFyWWZhajRXSnlqeWNUNW1EQkNNUHp6anB0bFFsbENFaEtQVDl2cGlHQ1RUYWdtcThOT25TL1BSRVRkajNnWW43UjhYaXE5RHM9OjqSSgy7yWFfmaWcDMOQAEte&t=fd8fb8ff7e2eee01e3b615245b8f6aed&op=NzI2NDQ=",
           "lang": "SUB",
           "type": "jk"
         },
         {
           "server": "Magi",
           "title": "Magi",
-          "iframe": "https://jkanime.net/jkplayer/umv?e=MXhpZmJVOUFVV0p5TUcxbTAwSWJLUnVQYTlWTCs4ckhaaTUyRGZ6ZkNsWFI3UFVWQUMvTzd3UW5kT2g4dnJIZHVyYlVxSXV2N0srWmpLRGs3S3hpL1J2RmlSSHFHRVNCK0xHcEo1c2N1Z1k9OjofIvrSL9FoMRbeURBZj.JL&t=fd8fb8ff7e2eee01e3b615245b8f6aed",
+          "iframe": "https://jkanime.net/jkplayer/umv?e=WDJnVUlBandCT1pBT3dSNVZMY0JUNE4xN3BpZVdENC9jalJVSEZJMjRmVXNaRm1hTEJ4MUtCS1lCeUZVRjJYMlRmTEl1Nm5sUERlVzA5Qy9oQ0V2dkVmRVNYcVNOUExaTDF1Snp2M3BEeDA9OjqR3rDTNDevbut_ll0r3OAY&t=fd8fb8ff7e2eee01e3b615245b8f6aed",
           "lang": "SUB",
           "type": "jk"
         },
@@ -6129,14 +6132,14 @@
         {
           "server": "Desu",
           "title": "Desu",
-          "iframe": "https://jkanime.net/jkplayer/um?e=aEtjVFdtL1Q2MnNXczh0TEtLeFpVcEpQMmhlY2tLNkVIelNuQzZEY0VFTVZFNk4yY0RvZndDMHQvL2ptT3NubG9WbGRqS09KOXlodHduS0hsbGVja0VTekI5ZVlFeFhMR0N3M1NmRGxhTWM9OjpBeQ.u6y0AB.kWLmXJZRtm&t=30e8045457750191252527a542141b49&op=NzI2NDI=",
+          "iframe": "https://jkanime.net/jkplayer/um?e=T0d6OXMraSsvZ2tsVkZJYUxmNHl4TXlzb0xSSDAvR3h2YnliOEpiSVIrdXk2aDNFdCtRRWxtVFhPTmR1NUxmNjQyL1dsT1Z2Z1YyZkdPUEt6TGtzNEJjSGhwRktCV3NxZGx4c0VlalpwR3M9OjpZ.9lAvrkUqHGeFK5EUTA6&t=30e8045457750191252527a542141b49&op=NzI2NDI=",
           "lang": "SUB",
           "type": "jk"
         },
         {
           "server": "Magi",
           "title": "Magi",
-          "iframe": "https://jkanime.net/jkplayer/umv?e=VVR6eEE3enYxa3JLY2E0eERrZVl1b2dJZzZES3I2a0JQZWpKWEpwQVJZYkxoVGlZR01JQWVmNzNSWFFPcE5tV3BoVVRRQnczaFRqWGtPUWtDMC9sdXI3WWF1bFNnS1lhazNoNG5XQ3Z1T1U9OjobBBo3tmspXM9Sit8XK0FU&t=30e8045457750191252527a542141b49",
+          "iframe": "https://jkanime.net/jkplayer/umv?e=R045TlVOTEYxRS9QU01ySUFVUU5OdUh0a2lFMm44THJZYkFJdzZEeFhHOGJZODM5TVlJanR4T0FvSWVicjFlZi9ETk5qK2tvYnVpZElpSTdvRHc3MVRJTFhPTWpuODZzZGJJcHJtQWZRTzA9Ojry9Y05Vq3K86fcnI6gqYvS&t=30e8045457750191252527a542141b49",
           "lang": "SUB",
           "type": "jk"
         },
@@ -6283,14 +6286,14 @@
         {
           "server": "Desu",
           "title": "Desu",
-          "iframe": "https://jkanime.net/jkplayer/um?e=a0k3TzZiSC9VQ0FwWitzY29yYks0TWZ3cGNZSDRpNGR1WXB6TFJnb2VtMjBSL3RyTGVXTXE2Ti9weWdVc0JZVlVrVlZvK3VmS21TOXA0M1BsVXR3aG5JUUdMOC9CaW1vTSt3YnNrUm9DMXc9OjoLuLrtm7QGZzj.M8Oy.Ved&t=52413d1f5ca756d07b460285c51e1fc7&op=NzI2NDA=",
+          "iframe": "https://jkanime.net/jkplayer/um?e=S1dlMzJUYlZ3VlJnWVNNSHZjUVZlRlNRNGZ3RFE4RXRkamVxM0VlMm1mZ1gzZEFkblJhK04zM2Jjcm5UNjNWN082WnVkZ2p4SXBKeW9lb3k3OUtRbXlvbW0rMVhWNFYxT1V0MEZmUGJKT2c9OjpQg.7kO9GC2t5jwtCVONPo&t=52413d1f5ca756d07b460285c51e1fc7&op=NzI2NDA=",
           "lang": "SUB",
           "type": "jk"
         },
         {
           "server": "Magi",
           "title": "Magi",
-          "iframe": "https://jkanime.net/jkplayer/umv?e=akFKUVBRVVhYTm9zenpNWFZ2b3E5VDhza1VBM0RjZVZFcjZEeElsenRuRFZUamRvUXNJUnBjWDlGd1Vya0xyWHBHbFJVTEJoMnNVdHJCa3F2eWgwcTlyZ3JodU13czl6Q2JBdVJUbDcxdFE9OjrgZE0oxLr4pWsfIhT.JALL&t=52413d1f5ca756d07b460285c51e1fc7",
+          "iframe": "https://jkanime.net/jkplayer/umv?e=VGRhcTM1ckEzM3VxbEc0dldsbEFXSmZRbDBlcnd1RDFpRVZRR1ZNSmlCWmRyd0tlUVg2TDdaMEFLdm1BZ1RtRFVhMWhNc1FITEg0RjhNOVhJL2ZVa0ZES3JOTkd3L3BnUG5MVnBYSE9DSEk9Ojoi3iCEScum8xVx37N_MQYy&t=52413d1f5ca756d07b460285c51e1fc7",
           "lang": "SUB",
           "type": "jk"
         },
@@ -6452,14 +6455,14 @@
         {
           "server": "Desu",
           "title": "Desu",
-          "iframe": "https://jkanime.net/jkplayer/um?e=Wk1oaW5CYWNqT2wyTzI4ZnVqUlh1UDNtWFd3bUJScTdkaTNmUE5PM1ZOTVRyT001MnUxb1BLNjFxaWkvekRkcUtDZS80enhOV09IbnZoVG1ZVU1nemttK09DOHB1RG5lMS9JR0QxSXRBbFU9Ojo2XibvQD_tDzfxa7TvRazq&t=2aa912df9acb9ce969ae7008fae02782&op=NzI2Mzg=",
+          "iframe": "https://jkanime.net/jkplayer/um?e=NUd5SEg1a1daSXNVRlFYSFVlaWRaS0dJenozeVBPMnMvdDhIeUI0dHBIdnNpRWR4dmtyRFRSK1VjQWlLUnlmUWQwQTBkRFA1MDlmUmY4MlI5eGlNRXdWejJrSENLc0Zhc3JJYWpuclJUcmM9OjrpyUrRDgtIfM7SSu0Jke4L&t=2aa912df9acb9ce969ae7008fae02782&op=NzI2Mzg=",
           "lang": "SUB",
           "type": "jk"
         },
         {
           "server": "Magi",
           "title": "Magi",
-          "iframe": "https://jkanime.net/jkplayer/umv?e=WkxtWi9OWEEvNTBDR3Z6SG9mNEkwb01vY2d5V2N2NVZqNi9NOGVMRVVnbEx3V1RuWDNIVDg0eGJ3bVBQZmZ3UmlBK21Db0N4eHdLeVVIVUwzbWV2R3hLYWl2WnF5MjVQbUhFMkJWbytqZlU9Ojqg7qVcRSdKSF5_l1M6oquk&t=2aa912df9acb9ce969ae7008fae02782",
+          "iframe": "https://jkanime.net/jkplayer/umv?e=bG42VXduVlkxZnEzRDJERUVFQThDcGo5YlZHWHRZSmVqcG54Wlp5bVhmOFNTcHVMRlBjZFdaS1pDT3o4dVdEYUt2NTFRY2w3TTdxNVRtU1VPTFd2S1JlNjh2MlVNeGZvN2Y3azBIQWVFN0U9OjqAn5oySAs0HUB1.jbH.ifM&t=2aa912df9acb9ce969ae7008fae02782",
           "lang": "SUB",
           "type": "jk"
         },
